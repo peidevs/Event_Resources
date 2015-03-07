@@ -10,8 +10,8 @@ at the top of the file, and keep old stuff.
 * Matt Duffy on Arduino 
 
 ###### Announcements 
-* [Raspberry Pi Jam](https://www.eventbrite.ca/e/raspberrypi-jam-pei-tickets-15957876438)
-* potential 'indie games' event
+* [Raspberry Pi Jam](https://www.eventbrite.ca/e/raspberrypi-jam-pei-tickets-15957876438) - Sat, March 28
+* potential 'indie games' event, early April ?
 * potential class on embedded devices at UPEI in Fall 2015
 
 ###### Sponsors
