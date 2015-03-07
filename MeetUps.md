@@ -1,10 +1,15 @@
 
-##### March 2015 
+<!---
+Let's treat this file as a changelog of sorts, and just place new stuff
+at the top of the file, and keep old stuff.
+-->
+
+#### March 2015 
 
 ###### Topics
 * Matt Duffy on Arduino 
 
-###### Announcments 
+###### Announcements 
 * [Raspberry Pi Jam](https://www.eventbrite.ca/e/raspberrypi-jam-pei-tickets-15957876438)
 * potential 'indie games' event
 * potential class on embedded devices at UPEI in Fall 2015
