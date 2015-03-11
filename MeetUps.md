@@ -16,7 +16,7 @@ at the top of the file, and keep old stuff.
 
 ###### Sponsors
 * venue sponsored by Michael Easter
-* food sponsored by TBD
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * projector etc loaned by [ScreenScape](http://screenscape.com)
 
