@@ -77,12 +77,14 @@ dojo.declare("Scooter", null, {
             }
         });
         
-        // ------------------- tiles
+        // ------------------- boxes
         
         this.increment = 360 / numNames;
         this.menuNode = dojo.create("div", {
             className: "menu"
         }, dojo.body());
+        
+        var numBoxesPerRow = 7;
         
         for(var i = 0; i < numNames; i++){
             var name = attendeeList.getName(i);
@@ -91,8 +93,8 @@ dojo.declare("Scooter", null, {
                 className: "box",
                 id: name,
                 style: {
-                    left: (i % 7) * 200 + "px",
-                    top: Math.floor(i / 7)*100 + "px"
+                    left: (i % numBoxesPerRow) * 200 + "px",
+                    top: Math.floor(i / numBoxesPerRow)*100 + "px"
                 }
             }, this.menuNode);
         }

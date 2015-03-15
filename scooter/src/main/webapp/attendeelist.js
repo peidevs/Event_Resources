@@ -35,14 +35,15 @@ AttendeeList.prototype.isWinner = function(name) {
 }
 
 AttendeeList.prototype.isLoserThisRound = function(name) {
-    var result = 0;
+    var result = false;
     
     if ((! this.doesWinnerExist()) && (this.losers.indexOf(name) == -1)) {
-        var x = this.utils.getRandom(1,4);
+        var chanceFactor = 4;
+        var x = this.utils.getRandom(1,chanceFactor);
         
         if (x == 1) {
             this.loses(name);
-            result = 1;
+            result = true;
         }            
     }
     
