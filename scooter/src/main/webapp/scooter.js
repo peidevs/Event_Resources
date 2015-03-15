@@ -16,42 +16,18 @@ dojo.declare("Scooter", null, {
         var numNames = attendeeList.getNumNames();
         
         // ------------------- reset button
-        var resetBtn = dojo.create("button", {
-            innerHTML: "Reset",
-            style: {
-                position: "absolute",
-                right: "10px",
-                top: "30px",
-                background: "#ccc",
-                color: "#222",
-                fontSize: "1em",
-                lineHeight: "1.4em",
-                width: "200px",
-                textAlign: "center"
-            }
-        }, dojo.body());
-        dojo.connect(resetBtn, "onclick", function(){
+        var resetButton = dojo.create("button",{ innerHTML: "Reset",id: "resetButton" }, dojo.body());
+        
+        dojo.connect(resetButton, "onclick", function(){
             dojo.query(".box").forEach(function(node){
                 dojo.style(node, {transform: "scale(1)", opacity: "1"});
                 attendeeList.reset();
             });
         });
         // ------------------- Draw button
-        var drawBtn = dojo.create("button", {
-            innerHTML: "Draw",
-            style: {
-                position: "absolute",
-                right: "10px",
-                top: "80px",
-                background: "#ccc",
-                color: "#222",
-                fontSize: "1em",
-                lineHeight: "1.4em",
-                width: "200px",
-                textAlign: "center"
-            }
-        }, dojo.body());
-        dojo.connect(drawBtn, "onclick", function(){
+        var drawButton = dojo.create("button",{ innerHTML: "Draw",id: "drawButton" }, dojo.body());
+        
+        dojo.connect(drawButton, "onclick", function(){
             var loserAnimations = ["puff","shrink"];
             var count = 0;
             
