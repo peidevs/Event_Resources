@@ -7,8 +7,6 @@ dojo.require("dojox.css3.fx");
 
 dojo.declare("Scooter", null, {
     menuNode: null,
-    // increment: 360,
-    angle: 0,
     constructor: function(){
         // ------------------- data
         var attendeeList = new AttendeeList(ATTENDEE_LIST);
@@ -59,7 +57,6 @@ dojo.declare("Scooter", null, {
         
         // ------------------- boxes
         
-        // this.increment = 360 / numNames;
         this.menuNode = dojo.create("div", {className: "menu"}, dojo.body());
         
         var numBoxesPerRow = 7;

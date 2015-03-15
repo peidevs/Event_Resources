@@ -14,6 +14,14 @@ AttendeeList.prototype.getName = function(i) {
     return this.names[i];
 }
 
+AttendeeList.prototype.getNumLosers = function() { 
+    return this.losers.length; 
+}
+
+AttendeeList.prototype.getNumSurvivors = function() { 
+    return this.survivors.length; 
+}
+
 AttendeeList.prototype.reset = function() {
     this.names = this.utils.shuffleNames(this.names);
     this.losers = [];
