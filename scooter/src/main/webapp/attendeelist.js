@@ -21,9 +21,9 @@ AttendeeList.prototype.reset = function() {
 }
 
 AttendeeList.prototype.loses = function(name) {
-	this.losers.push(name);
-	var nameIndex = this.survivors.indexOf(name);
-	this.survivors.splice(nameIndex, 1);		        
+    this.losers.push(name);
+    var nameIndex = this.survivors.indexOf(name);
+    this.survivors.splice(nameIndex, 1);                
 }
 
 AttendeeList.prototype.doesWinnerExist = function() {
