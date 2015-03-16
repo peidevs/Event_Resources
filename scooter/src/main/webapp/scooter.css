@@ -29,12 +29,6 @@ body, html{
     cursor:pointer;
 }
 
-/*
-// yellow 247 198 54 - F7C636
-// green  36 83 31 - 24531F
-// red    183 39 28 - B7271C
-*/
-
 #resetButton{
     position:absolute;
     right: 10px;
