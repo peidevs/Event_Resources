@@ -59,7 +59,7 @@ dojo.declare("Scooter", null, {
         
         this.menuNode = dojo.create("div", {className: "menu"}, dojo.body());
         
-        var numBoxesPerRow = 7;
+        var numBoxesPerRow = 6;
         
         for(var i = 0; i < numNames; i++) {
             var name = attendeeList.getName(i);
@@ -69,7 +69,7 @@ dojo.declare("Scooter", null, {
                 id: name,
                 style: {
                     left: (i % numBoxesPerRow) * 200 + "px",
-                    top: Math.floor(i / numBoxesPerRow)*100 + "px"
+                    top: Math.floor(i / numBoxesPerRow)*150 + "px"
                 }
             }, this.menuNode);
         }

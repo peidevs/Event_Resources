@@ -18,6 +18,8 @@ body, html{
     font:24px sans;
     font-weight: bold;
     position:relative;
+    top:200px;
+    left: 200px;
 }
 .menu div{
     position:absolute;
