@@ -18,12 +18,12 @@ describe("utils", function() {
         it("should be able to shuffle an array", function() {
             var list = [1,2,3,4,5];
 
-            var result = utils.shuffle(list);
+            var result = utils.shuffleNames(list);
 
             expect(result.length).toEqual(5);
 
-            for (var i = 0; i <= 5; i++) {
-            expect(result.length).toContain(i);
+            for (var i = 1; i <= 5; i++) {
+                expect(result).toContain(i);
             }
         });        
     });
