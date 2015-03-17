@@ -44,7 +44,7 @@ body, html{
     text-align: center;
 }
 
-#drawButton{
+#goButton{
     position:absolute;
     right: 10px;
     top: 80px;

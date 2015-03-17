@@ -13,7 +13,7 @@ dojo.declare("Scooter", null, {
 
         var numNames = attendeeList.getNumNames();
         
-        // ------------------- reset button
+        // ------------------- Reset button
         var resetButton = dojo.create("button",{ innerHTML: "Reset",id: "resetButton" }, dojo.body());
         
         dojo.connect(resetButton, "onclick", function(){
@@ -22,10 +22,10 @@ dojo.declare("Scooter", null, {
                 attendeeList.reset();
             });
         });
-        // ------------------- Draw button
-        var drawButton = dojo.create("button",{ innerHTML: "Draw",id: "drawButton" }, dojo.body());
+        // ------------------- Go button
+        var goButton = dojo.create("button",{ innerHTML: "Go!",id: "goButton" }, dojo.body());
         
-        dojo.connect(drawButton, "onclick", function(){
+        dojo.connect(goButton, "onclick", function(){
             var loserAnimations = ["puff","shrink"];
             var count = 0;
             
