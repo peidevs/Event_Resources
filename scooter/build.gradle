@@ -3,7 +3,6 @@ apply plugin: 'jetty'
 
 war.version = ''
 war.baseName = 'scooter'
-war.webXml = file('src/web.xml')
 
 sourceSets.main.java.srcDirs 'src'
 
