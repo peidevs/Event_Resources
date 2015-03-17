@@ -6,8 +6,6 @@ war.baseName = 'scooter'
 war.webXml = file('src/web.xml')
 
 sourceSets.main.java.srcDirs 'src'
-sourceSets.test.java.srcDirs 'test'
-sourceSets.main.resources.srcDirs 'config'
 
 httpPort=8787
 stopPort=8089
