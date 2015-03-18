@@ -17,3 +17,20 @@ Utils.prototype.getRandom = function(min, max) {
     var x = Math.floor(Math.random() * (max - min + 1)) + min;
     return x;
 }
+
+Utils.prototype.pickOne = function(array) {
+    var index = this.getRandom(0, array.length - 1);
+    return array[index];
+}
+
+Utils.prototype.oneInNChance = function(numChances) {
+    var result = false;
+
+    var x = this.getRandom(1,numChances);
+    
+    if (x == 1) {
+        result = true;
+    }
+    
+    return result;
+}

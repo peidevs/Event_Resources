@@ -27,7 +27,6 @@ dojo.declare("Scooter", null, {
         
         dojo.connect(goButton, "onclick", function(){
             var loserAnimations = ["puff","shrink"];
-            var count = 0;
             
             // Each person has a 1-in-N chance of losing this round.
             // Note it is possible for no one to lose in a given round.
@@ -37,10 +36,9 @@ dojo.declare("Scooter", null, {
                 var isLoser = attendeeList.isLoserThisRound(name);
                 
                 if (isLoser) {
-                    animation = loserAnimations[count % 2]; 
+                    animation = new Utils().pickOne(loserAnimations); 
                     dojox.css3.fx[animation]({node: node}).play();                    
                 }
-                count++;
             });
             
             if (attendeeList.doesWinnerExist()) {

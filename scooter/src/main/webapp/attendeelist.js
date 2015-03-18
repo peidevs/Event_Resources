@@ -1,9 +1,7 @@
 
 var AttendeeList = function(names) {
     this.utils = new Utils();
-    this.names = this.utils.shuffleNames(names);
-    this.losers = [];
-    this.survivors = this.names.slice();
+    this.init(names);
 };
 
 AttendeeList.prototype.getNumNames = function() { 
@@ -22,10 +20,19 @@ AttendeeList.prototype.getNumSurvivors = function() {
     return this.survivors.length; 
 }
 
-AttendeeList.prototype.reset = function() {
-    this.names = this.utils.shuffleNames(this.names);
+AttendeeList.prototype.clear = function() {
     this.losers = [];
     this.survivors = this.names.slice();
+}
+
+AttendeeList.prototype.init = function(names) {
+    this.names = this.utils.shuffleNames(names);
+    this.losers = [];
+    this.survivors = this.names.slice();
+}
+
+AttendeeList.prototype.reset = function() {
+    this.init(this.names);
 }
 
 AttendeeList.prototype.loses = function(name) {
@@ -46,10 +53,9 @@ AttendeeList.prototype.isLoserThisRound = function(name) {
     var result = false;
     
     if ((! this.doesWinnerExist()) && (this.losers.indexOf(name) == -1)) {
-        var chanceFactor = 4;
-        var x = this.utils.getRandom(1,chanceFactor);
+        var numChances = 4;
         
-        if (x == 1) {
+        if (this.utils.oneInNChance(numChances)) {
             this.loses(name);
             result = true;
         }            
