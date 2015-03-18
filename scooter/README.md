@@ -4,7 +4,7 @@ What it is:
 * a simple app to help award door-prizes at events
 
 About the name:
-* [Scooter](http://muppet.wikia.com/wiki/Scooter)
+* [Scooter](http://muppet.wikia.com/wiki/Scooter) is a stage assistant
 
 Prime directive:
 * this app was written in anger to solve a problem
