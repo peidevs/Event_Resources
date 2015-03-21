@@ -11,7 +11,7 @@ at the top of the file, and keep old stuff.
 
 ###### Announcements 
 * [Raspberry Pi Jam](https://www.eventbrite.ca/e/raspberrypi-jam-pei-tickets-15957876438) - Sat, March 28
-* potential 'indie games' event, early April ?
+* [Indie Developers Showcase](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
 * potential class on embedded devices at UPEI in Fall 2015
 
 ###### Sponsors
