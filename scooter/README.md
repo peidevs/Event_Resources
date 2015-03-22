@@ -16,7 +16,8 @@ Requires:
 * [Gradle](http://gradle.org)
 
 To Run:
-* edit src/main/webapp/ATTENDEE_LIST_EDIT_THIS_ONE.js
+* edit `src/main/webapp/ATTENDEE_LIST_EDIT_THIS_ONE.js`
+* **or** edit NAMES.txt and run `gradle generateAttendeeListEditThisOne`
 * ./run.sh
 * browse to [local Scooter](http://localhost:8787/scooter/index.html)
 

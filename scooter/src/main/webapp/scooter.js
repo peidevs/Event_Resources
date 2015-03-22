@@ -62,12 +62,12 @@ dojo.declare("Scooter", null, {
         for(var i = 0; i < numNames; i++) {
             var name = attendeeList.getName(i);
             var box = dojo.create("div", {
-                innerHTML: "<span>" + name + "</span>",
+                innerHTML: "<span id='boxText'>" + name + "</span>",
                 className: "box",
                 id: name,
                 style: {
                     left: (i % numBoxesPerRow) * 200 + "px",
-                    top: Math.floor(i / numBoxesPerRow)*150 + "px"
+                    top: Math.floor(i / numBoxesPerRow)*175 + "px"
                 }
             }, this.menuNode);
         }

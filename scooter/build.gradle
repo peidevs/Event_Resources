@@ -10,3 +10,22 @@ httpPort=8787
 stopPort=8089
 stopKey='codeRed'
 
+task generateAttendeeListEditThisOne() << {
+    def names = new StringBuilder()
+    
+    new File("NAMES.txt").eachLine { line ->
+        def trimLine = line.trim()
+
+        if (!trimLine.isEmpty()) {
+            def thisName = "\"${trimLine}\",\n"
+            names.append(thisName)
+        }
+    }
+    
+    new File("src/main/webapp/ATTENDEE_LIST_EDIT_THIS_ONE.js").withWriter { writer ->
+        writer.write("// auto-generated from NAMES.txt\n")
+        writer.write("var ATTENDEE_LIST = [\n");
+        writer.write(names.toString())
+        writer.write("];");
+    }
+}
