@@ -29,8 +29,8 @@ body, html{
     font:24px sans;
     font-weight: bold;
     position:relative;
-    top:100px;
-    left: 200px;
+    top: 40px;
+    left: 320px;
 }
 .menu div{
     position:absolute;
@@ -49,8 +49,8 @@ body, html{
 }
 #resetButton{
     position:absolute;
-    right: 10px;
-    top: 30px;
+    left: 20px;
+    top: 50px;
     background: #E52A1D;
     color: #FFFFFF;
     font-size: 1em;
@@ -62,8 +62,8 @@ body, html{
 
 #goButton{
     position:absolute;
-    right: 10px;
-    top: 80px;
+    left: 20px;
+    top: 110px;
     background: #A7C766;
     color: #FFFFFF;
     font-size: 1em;
