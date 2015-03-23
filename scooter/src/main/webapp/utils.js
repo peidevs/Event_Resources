@@ -17,14 +17,14 @@ define(function () {
         },
 
         pickOne: function (array) {
-            var index = this._getRandom(0, array.length - 1);
+            var index = this.getRandom(0, array.length - 1);
             return array[index];
         },
 
         oneInNChance: function (numChances) {
             var result = false;
 
-            var x = this._getRandom(1, numChances);
+            var x = this.getRandom(1, numChances);
 
             if (x == 1) {
                 result = true;
@@ -33,7 +33,7 @@ define(function () {
             return result;
         },
 
-        _getRandom: function (min, max) {
+        getRandom: function (min, max) {
             var x = Math.floor(Math.random() * (max - min + 1)) + min;
             return x;
         }
