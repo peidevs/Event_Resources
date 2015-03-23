@@ -1,90 +1,77 @@
-/**
- * inspired by https://github.com/dojo/demos/tree/master/css3
- * and uses Dojo - http://dojotoolkit.org/
- */
-define(['dojo/_base/declare',
-    'dojo/dom-construct',
-    'dojo/dom-style',
-    'dijit/_WidgetBase',
-    'dijit/_TemplatedMixin',
-    'dijit/_WidgetsInTemplateMixin',
-    'scooter/AttendeeList',
-    'scooter/utils',
-    'dojox/css3/fx',
-    'dojo/text!scooter/template/scooter.html'], function (declare, domConstruct, domStyle, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, AttendeeList, utils, cssFX, template) {
-    return declare("Scooter", [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
-        //These elements will be populated by the template
-        _menuNode: null,
+dojo.provide("scooter.src");
 
-        templateString: template,
+dojo.require("dojox.css3.fx");
 
-        //private variables used in the app
-        _boxes: [],
-        _attendeeList: AttendeeList([]),
+// inspired by https://github.com/dojo/demos/tree/master/css3
+// and uses Dojo - http://dojotoolkit.org/
 
-        _setAttendeeListAttr: function (attendees) {
-            this._attendeeList.init(attendees);
-        },
+dojo.declare("Scooter", null, {
+    menuNode: null,
+    constructor: function(){
+        // ------------------- data
+        var attendeeList = new AttendeeList(ATTENDEE_LIST);
 
-        postCreate: function () {
-
-            var numNames = this._attendeeList.getNumNames();
-
-            var numBoxesPerRow = 6;
-
-            for (var i = 0; i < numNames; i++) {
-                var name = this._attendeeList.getName(i);
-                var box = domConstruct.create("div", {
-                    innerHTML: "<span id='boxText'>" + name + "</span>",
-                    className: "box",
-                    id: name,
-                    style: {
-                        left: (i % numBoxesPerRow) * 200 + "px",
-                        top: Math.floor(i / numBoxesPerRow) * 175 + "px"
-                    }
-                }, this._menuNode);
-
-                this._boxes.push(box);
-            }
-        },
-
-        _resetClickEvent: function () {
-            this._boxes.forEach(function (node) {
-                domStyle.set(node, {
-                    "transform": "scale(1)",
-                    "opacity": "1"
-                });
-
-                this._attendeeList.reset();
-            }, this);
-        },
-
-        _goClickEvent: function () {
-            var loserAnimations = ["puff", "shrink"];
-
+        var numNames = attendeeList.getNumNames();
+        
+        // ------------------- Reset button
+        var resetButton = dojo.create("button",{ innerHTML: "Reset",id: "resetButton" }, dojo.body());
+        
+        dojo.connect(resetButton, "onclick", function(){
+            dojo.query(".box").forEach(function(node){
+                dojo.style(node, {transform: "scale(1)", opacity: "1"});
+                attendeeList.reset();
+            });
+        });
+        // ------------------- Go button
+        var goButton = dojo.create("button",{ innerHTML: "Go!",id: "goButton" }, dojo.body());
+        
+        dojo.connect(goButton, "onclick", function(){
+            var loserAnimations = ["puff","shrink"];
+            
             // Each person has a 1-in-N chance of losing this round.
             // Note it is possible for no one to lose in a given round.
-
-            this._boxes.forEach(function (node) {
+            
+            dojo.query(".box").forEach(function(node){
                 var name = node.id;
-                var isLoser = this._attendeeList.isLoserThisRound(name);
-
+                var isLoser = attendeeList.isLoserThisRound(name);
+                
                 if (isLoser) {
-                    animation = utils.pickOne(loserAnimations);
-                    cssFX[animation]({node: node}).play();
+                    animation = new Utils().pickOne(loserAnimations); 
+                    dojox.css3.fx[animation]({node: node}).play();                    
                 }
-            }, this);
-
-            if (this._attendeeList.doesWinnerExist()) {
-                this._boxes.forEach(function (node) {
+            });
+            
+            if (attendeeList.doesWinnerExist()) {
+                dojo.query(".box").forEach(function(node){
                     var name = node.id;
-                    var isWinner = this._attendeeList.isWinner(name);
+                    var isWinner = attendeeList.isWinner(name);
 
                     if (isWinner) {
-                        cssFX["rotate"]({node: node}).play();
+                        dojox.css3.fx["rotate"]({node: node}).play();                                        
                     }
-                }, this);
+                });                
             }
+        });
+        
+        // ------------------- boxes
+        
+        this.menuNode = dojo.create("div", {className: "menu"}, dojo.body());
+        
+        var numBoxesPerRow = 6;
+        
+        for(var i = 0; i < numNames; i++) {
+            var name = attendeeList.getName(i);
+            var box = dojo.create("div", {
+                innerHTML: "<span id='boxText'>" + name + "</span>",
+                className: "box",
+                id: name,
+                style: {
+                    left: (i % numBoxesPerRow) * 200 + "px",
+                    top: Math.floor(i / numBoxesPerRow)*175 + "px"
+                }
+            }, this.menuNode);
         }
-    });
+    }
 });
+
+dojo.ready( function() { new Scooter(); } );
