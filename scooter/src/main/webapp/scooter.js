@@ -11,22 +11,19 @@ define(['dojo/_base/declare',
     'scooter/AttendeeList',
     'scooter/utils',
     'dojox/css3/fx',
-    'dojo/text!scooter/template/scooter.html',
-    'dijit/form/Button'], function (declare, domConstruct, domStyle, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, AttendeeList, utils, cssFX, template) {
+    'dojo/text!scooter/template/scooter.html'], function (declare, domConstruct, domStyle, _WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin, AttendeeList, utils, cssFX, template) {
     return declare("Scooter", [_WidgetBase, _TemplatedMixin, _WidgetsInTemplateMixin], {
         //These elements will be populated by the template
-        _resetButton: null,
-        _goButton: null,
         _menuNode: null,
 
-        templateString : template,
+        templateString: template,
 
         //private variables used in the app
-        _boxes : [],
-        _attendeeList : AttendeeList([]),
+        _boxes: [],
+        _attendeeList: AttendeeList([]),
 
-        _setAttendeeListAttr : function( attendees ){
-            this._attendeeList.init( attendees );
+        _setAttendeeListAttr: function (attendees) {
+            this._attendeeList.init(attendees);
         },
 
         postCreate: function () {
@@ -47,11 +44,11 @@ define(['dojo/_base/declare',
                     }
                 }, this._menuNode);
 
-                this._boxes.push( box );
+                this._boxes.push(box);
             }
         },
 
-        _resetClickEvent : function(){
+        _resetClickEvent: function () {
             this._boxes.forEach(function (node) {
                 domStyle.set(node, {
                     "transform": "scale(1)",
@@ -62,7 +59,7 @@ define(['dojo/_base/declare',
             }, this);
         },
 
-        _goClickEvent : function(){
+        _goClickEvent: function () {
             var loserAnimations = ["puff", "shrink"];
 
             // Each person has a 1-in-N chance of losing this round.
@@ -79,7 +76,7 @@ define(['dojo/_base/declare',
             }, this);
 
             if (this._attendeeList.doesWinnerExist()) {
-                this._boxes.forEach(function(node) {
+                this._boxes.forEach(function (node) {
                     var name = node.id;
                     var isWinner = this._attendeeList.isWinner(name);
 
