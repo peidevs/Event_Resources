@@ -1,41 +1,36 @@
-/**
- * from http://stackoverflow.com/a/12646864/12704
- * converted to AMD spec
- */
-define(function () {
-    return {
-        shuffleNames: function (array) {
+var Utils = function() {}
 
-            for (var i = array.length - 1; i > 0; i--) {
-                var j = Math.floor(Math.random() * (i + 1));
-                var temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-            }
+// from http://stackoverflow.com/a/12646864/12704
+Utils.prototype.shuffleNames = function(array) {
+    
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    
+    return array;
+}
 
-            return array;
-        },
+Utils.prototype.getRandom = function(min, max) {
+    var x = Math.floor(Math.random() * (max - min + 1)) + min;
+    return x;
+}
 
-        pickOne: function (array) {
-            var index = this.getRandom(0, array.length - 1);
-            return array[index];
-        },
+Utils.prototype.pickOne = function(array) {
+    var index = this.getRandom(0, array.length - 1);
+    return array[index];
+}
 
-        oneInNChance: function (numChances) {
-            var result = false;
+Utils.prototype.oneInNChance = function(numChances) {
+    var result = false;
 
-            var x = this.getRandom(1, numChances);
-
-            if (x == 1) {
-                result = true;
-            }
-
-            return result;
-        },
-
-        getRandom: function (min, max) {
-            var x = Math.floor(Math.random() * (max - min + 1)) + min;
-            return x;
-        }
-    };
-});
+    var x = this.getRandom(1,numChances);
+    
+    if (x == 1) {
+        result = true;
+    }
+    
+    return result;
+}
