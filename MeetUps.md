@@ -11,7 +11,8 @@ at the top of the file, and keep old stuff.
 * [Ryan Palmer](http://twitter.com/rypalmer) on Travis CI 
 
 ###### Announcements 
-* TBA
+* todo: Farm Startup weekend
+* todo: Open Data conferences in Ottawa
 
 ###### Sponsors
 * venue sponsored by Michael Easter
