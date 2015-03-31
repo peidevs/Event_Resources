@@ -4,6 +4,21 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### April 2015 
+
+###### Topics
+* [Derek Campbell](http://twitter.com/derekscampbell1) on Dev Tools 
+* [Ryan Palmer](http://twitter.com/rypalmer) on Travis CI 
+
+###### Announcements 
+* TBA
+
+###### Sponsors
+* venue sponsored by Michael Easter
+* food sponsored by TBA
+* [JetBrains](http://jetbrains.com) 
+* projector etc loaned by [ScreenScape](http://screenscape.com)
+
 #### March 2015 
 
 ###### Topics
