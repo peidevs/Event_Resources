@@ -13,6 +13,7 @@ at the top of the file, and keep old stuff.
 ###### Announcements 
 * todo: Farm Startup weekend
 * todo: Open Data conferences in Ottawa
+* [Indie Developers Showcase](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
 
 ###### Sponsors
 * venue sponsored by Michael Easter
