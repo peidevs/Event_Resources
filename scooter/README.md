@@ -37,9 +37,9 @@ Credits:
 * uses [Jasmine](http://jasmine.github.io/)
 
 Contributors:
-[Michael Easter](http://github.com/codetojoy)
-[Evan Porter](http://github.com/evanepio)
-[Sean Whalley](http://github.com/swhalley)
+* [Michael Easter](http://github.com/codetojoy)
+* [Evan Porter](http://github.com/evanepio)
+* [Sean Whalley](http://github.com/swhalley)
 
 
 
