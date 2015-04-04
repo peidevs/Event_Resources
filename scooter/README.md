@@ -9,6 +9,7 @@ About the name:
 Prime directive:
 * this app was written in anger to solve a problem
 * **all versions must allow someone to award a door-prize by simply munging an attendee list into a text/JS file**
+* **Devs should read Devs.README.md**
 * 10 minutes prep time, max (assuming Gradle is installed and they are familiar with the app)
 * auto-curating from MeetUp or EventBrite should be ancillary apps
 
