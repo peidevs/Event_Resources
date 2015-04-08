@@ -11,10 +11,10 @@ at the top of the file, and keep old stuff.
 * [Ryan Palmer](http://twitter.com/rypalmer) on Travis CI 
 
 ###### Announcements 
-* [Indie Developers Showcase](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
-* [Startup Weekend: Farm and Food](http://www.up.co/communities/canada/pei/startup-weekend/5679)
-* [International Open Data Conference](http://opendatacon.org/)
-* [Open Data Summit](http://opendatasummit.ca/en/)
+* [Indie Developers Showcase - PEI](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
+* [Startup Weekend: Farm and Food - PEI](http://www.up.co/communities/canada/pei/startup-weekend/5679)
+* [International Open Data Conference - Ottawa](http://opendatacon.org/)
+* [Open Data Summit- Ottawa](http://opendatasummit.ca/en/)
 
 ###### Sponsors
 * venue sponsored by Michael Easter
