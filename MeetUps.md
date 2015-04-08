@@ -11,13 +11,14 @@ at the top of the file, and keep old stuff.
 * [Ryan Palmer](http://twitter.com/rypalmer) on Travis CI 
 
 ###### Announcements 
-* todo: Farm Startup weekend
-* todo: Open Data conferences in Ottawa
 * [Indie Developers Showcase](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
+* [Startup Weekend: Farm and Food](http://www.up.co/communities/canada/pei/startup-weekend/5679)
+* [International Open Data Conference](http://opendatacon.org/)
+* [Open Data Summit](http://opendatasummit.ca/en/)
 
 ###### Sponsors
 * venue sponsored by Michael Easter
-* food sponsored by TBA
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * projector etc loaned by [ScreenScape](http://screenscape.com)
 
