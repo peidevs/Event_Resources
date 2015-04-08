@@ -1,29 +1,22 @@
-
+// auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Christian Southgate",
+"Ken Williams",
+"Dmitrii Shesterkin",
+"Chris Mears",
+"Krista Gallant-Mears",
+"Nicholas Phelan",
+"Ross Evans",
 "Lincoln Maskey",
 "Kevin MacPhail",
-"J.B. Rainsberger", 
-"Conor Mullally",
-"Evan Porter", 
-"Ron McKay", 
-"Allison Rothmel", 
-"Christian Southgate",
-"Bill Patriquen", 
-"Matthew Champion", 
-"Ron Myers", 
-"Quinn Jackson", 
-"Ben",
-"Callista Tan", 
-"Raab Wakefield", 
-"Kristen", 
-"Luke", 
-"Mike Berger"
+"Brent Mitton",
+"Nolan Phillips",
+"J.B. Rainsberger",
+"Ron MacKay",
+"Ron Myers",
+"Kristen",
+"Stirling Giddings",
+"Shayne Walker",
+"Callista Tan",
+"Quinn Jackson",
 ];
-
-/*
-"Alice", "Bob", "Charles", "Dave", "Edna", "Fred",
-"Gordie", "Helen", "Ian", "Jeff", "Karla", "Laura",
-"Michael", "Nancy", "Olivia", "Peter", "Quincy", "Rickey",
-"Sarah", "Terry", "Uvula", "Victor", "Wendell", "Yvette",
-"Zach", "Vince", "Nikki", "Tommy", "Mick", "Randy"
-*/
