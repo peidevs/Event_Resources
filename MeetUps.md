@@ -4,6 +4,22 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### May 2015 
+
+###### Topics
+* [Sean Whalley](http://twitter.com/seanwhalley21) Mob Programming session
+
+###### Announcements 
+* Recap - [Startup Weekend: Farm and Food - PEI](http://www.up.co/communities/canada/pei/startup-weekend/5679) by TBD
+* Recap - [PyCon](http://twitter.com/pycon) by [Evan Porter](http://twitter.com/evanepio)
+* [International Open Data Conference - Ottawa](http://opendatacon.org/)
+* [Open Data Summit- Ottawa](http://opendatasummit.ca/en/)
+
+###### Sponsors
+* venue sponsored by [Sean Whalley](http://twitter.com/seanwhalley21)
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains](http://jetbrains.com) 
+
 #### April 2015 
 
 ###### Topics
