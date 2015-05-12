@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--
+        inspired by https://github.com/dojo/demos/tree/master/css3
+        and uses Dojo - http://dojotoolkit.org/
+    -->
+    <title>Scooter - PEI Devs assistant</title>
+
+
+    <script type="text/javascript" src="ATTENDEE_LIST_EDIT_THIS_ONE.js"></script>
+    <link rel="stylesheet" href="scooter.css" />
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+<div id="mainBody"></div>
+
+<script type="text/javascript">
+    dojoConfig = {
+        packages: [{
+            name: 'scooter', location: location.pathname.replace(/\/[^/]+$/, '')
+        }]
+    };
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/dojo/1.10.3/dojo/dojo.js"></script>
+<script type="text/javascript">
+    require( ['scooter/Scooter', 'dojo/domReady!'], function( Scooter ){
+        new Scooter({
+            attendeeList: ATTENDEE_LIST
+        }, "mainBody");
+    });
+</script>
+
+</body>
+</html>
