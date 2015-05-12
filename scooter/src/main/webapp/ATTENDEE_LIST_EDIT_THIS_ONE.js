@@ -1,5 +1,9 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Shayne Walker",
+"Kevin MacPhail",
+"Christian Southgate",
+"Dmitrii Shesterkin",
 "Ben",
 "Callista Tan",
 "Mark Wright",
