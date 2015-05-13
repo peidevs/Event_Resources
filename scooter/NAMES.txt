@@ -1,5 +1,4 @@
 Shayne Walker
-Kevin MacPhail
 Christian Southgate
 Dmitrii Shesterkin
 Ben
@@ -10,3 +9,5 @@ Chris Mears
 Krista G-M
 Quinn Jackson
 Nolan Phillips
+Ron MacKay
+Ross Evans
