@@ -13,5 +13,6 @@ var ATTENDEE_LIST = [
 "Nolan Phillips",
 "Ron MacKay",
 "Ross Evans",
-"Ross Evans +1"
+"Ross Evans +1",
+"Mike Berger"
 ];
