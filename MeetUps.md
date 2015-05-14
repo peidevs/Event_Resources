@@ -19,6 +19,7 @@ at the top of the file, and keep old stuff.
 * venue sponsored by [Sean Whalley](http://twitter.com/seanwhalley21)
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
+* video equipment loaned by [Binary Star](https://www.linkedin.com/company/binary-star) and [ScreenScape](http://screenscape.com)
 
 #### April 2015 
 
