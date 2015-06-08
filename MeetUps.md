@@ -4,6 +4,21 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### June 2015 
+
+###### Topics
+* [Christian Southgate](http://www.meetup.com/PEI-Developers/members/184030754/) on open source quadcopter
+* [Nolan Phillips](http://www.meetup.com/PEI-Developers/members/183862842/) on [ReactJS](http://en.wikipedia.org/wiki/React_%28JavaScript_library%29)
+
+###### Announcements 
+* [Robert Hughes](http://www.townofstratford.ca/robert-hughes-p-eng/), Town of Stratford
+* Recap - [International Open Data Conference and pre-events](http://opendatacon.org/) by [Michael Easter](http://twitter.com/codetojoy)
+
+###### Sponsors
+* venue sponsored by [Sean Whalley](http://twitter.com/seanwhalley21)
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains](http://jetbrains.com) 
+
 #### May 2015 
 
 ###### Topics
