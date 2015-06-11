@@ -1,5 +1,6 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Kevin Kane",
 "Chris Mears",
 "Jonathan Lane",
 "Chris Wilkinson",
@@ -16,6 +17,7 @@ var ATTENDEE_LIST = [
 "Nolan Phillips",
 "Ron MacKay",
 "Christian Southgate",
+"Christian Southgate + 1",
 "Ben",
 "Callista Tan",
 "Kevin MacPhail",
