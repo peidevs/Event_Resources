@@ -1,5 +1,9 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Michael Gauthier",
+"Kyron Stubbs",
+"Alex Tabor",
+"Brent Mitton",
 "Kevin Kane",
 "Chris Mears",
 "Jonathan Lane",
