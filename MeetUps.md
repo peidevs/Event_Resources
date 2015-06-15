@@ -15,9 +15,10 @@ at the top of the file, and keep old stuff.
 * Recap - [International Open Data Conference and pre-events](http://opendatacon.org/) by [Michael Easter](http://twitter.com/codetojoy)
 
 ###### Sponsors
-* venue sponsored by [Sean Whalley](http://twitter.com/seanwhalley21)
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
+* video equipment loaned by [ScreenScape](http://screenscape.com)
 
 #### May 2015 
 
