@@ -4,6 +4,21 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### July 2015 
+
+###### Topics
+* [Kyron Stubbs](http://www.meetup.com/PEI-Developers/members/97862342/) on [Play framework](https://en.wikipedia.org/wiki/Play_framework)
+* [Mark Wright](http://www.meetup.com/PEI-Developers/members/177730952/) on [Radium](http://projects.formidablelabs.com/radium/)
+
+###### Announcements 
+* TBA
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains](http://jetbrains.com) 
+* video equipment loaned by [ScreenScape](http://screenscape.com)
+
 #### June 2015 
 
 ###### Topics
