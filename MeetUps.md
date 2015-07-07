@@ -13,7 +13,7 @@ at the top of the file, and keep old stuff.
 ###### Announcements 
 * Local firm seeking 'Septic Sitters'. [Details here](http://dynamicmonitors.com/detailed-septic-sitter-data-allows-for-unique-onsite-insights/)
 * Town of Stratford initiative [launched](http://www.townofstratford.ca/global-governance-project-launched/)
-* Michael Easter to follow-up on delayed Open Data recap. [Webcasts here](http://opendatacon.org/webcast/)
+* Michael Easter to follow-up on delayed Open Data write-up. [Webcasts here](http://opendatacon.org/webcast/)
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
