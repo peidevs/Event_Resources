@@ -11,7 +11,9 @@ at the top of the file, and keep old stuff.
 * [Mark Wright](http://www.meetup.com/PEI-Developers/members/177730952/) on [Radium](http://projects.formidablelabs.com/radium/)
 
 ###### Announcements 
-* TBA
+* Local firm seeking 'Septic Sitters'. [Details here](http://dynamicmonitors.com/detailed-septic-sitter-data-allows-for-unique-onsite-insights/)
+* Town of Stratford initiative [launched](http://www.townofstratford.ca/global-governance-project-launched/)
+* Michael Easter to follow-up on delayed Open Data recap. [Webcasts here](http://opendatacon.org/webcast/)
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
