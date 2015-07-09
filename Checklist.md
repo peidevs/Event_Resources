@@ -10,4 +10,4 @@
 * do guest speakers know they can use a projector, and the # of people in attendance?
 * who is doing the "dev news" ?
 * who prints the "Hello my name is ..." labels? 
-* who is handling door prizes? can they be drawn before the event?
+* who is handling door prizes? is Scooter list correct?
