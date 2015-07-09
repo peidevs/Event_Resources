@@ -15,6 +15,7 @@ at the top of the file, and keep old stuff.
 * Town of Stratford initiative [launched](http://www.townofstratford.ca/global-governance-project-launched/)
 * Michael Easter to follow-up on delayed Open Data write-up. [Webcasts here](http://opendatacon.org/webcast/)
 * ITAP / IT Garage update
+* summer party
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
