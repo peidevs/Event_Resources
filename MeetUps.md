@@ -4,6 +4,17 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### August 2015 
+
+###### Topics
+* [Michael Easter](http://twitter.com/codetojoy) on [Open Data](https://en.wikipedia.org/wiki/Open_data)
+
+###### Announcements 
+* TBA
+
+###### Sponsors
+* TBD
+
 #### July 2015 
 
 ###### Topics
