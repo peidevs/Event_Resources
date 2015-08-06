@@ -13,7 +13,10 @@ at the top of the file, and keep old stuff.
 * TBA
 
 ###### Sponsors
-* TBD
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by TBA
+* door-prizes TBA
+* video equipment loaned by [ScreenScape](http://www.screenscape.com) 
 
 #### July 2015 
 
