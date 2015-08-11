@@ -8,13 +8,14 @@ at the top of the file, and keep old stuff.
 
 ###### Topics
 * [Michael Easter](http://twitter.com/codetojoy) on [Open Data](https://en.wikipedia.org/wiki/Open_data)
+* open forum on Open Data
 
 ###### Announcements 
 * TBA
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
-* food sponsored by TBA
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * door-prizes TBA
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
 
