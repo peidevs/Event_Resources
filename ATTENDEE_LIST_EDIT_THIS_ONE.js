@@ -20,5 +20,9 @@ var ATTENDEE_LIST = [
 "joseph lyamabo",
 "Evan Porter",
 "Mark Wright",
-"KangHyeok Lee"
+"KangHyeok Lee",
+"Todd Wheeler",
+"Adam Leblanc",
+"Brian Ansems",
+"Colin Crowther"
 ];
