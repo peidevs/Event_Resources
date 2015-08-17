@@ -7,7 +7,7 @@ at the top of the file, and keep old stuff.
 #### August 2015 
 
 ###### Topics
-* [Michael Easter](http://twitter.com/codetojoy) on [Open Data](https://en.wikipedia.org/wiki/Open_data)
+* [Michael Easter](http://twitter.com/codetojoy) on [Open Data](https://en.wikipedia.org/wiki/Open_data) . [Slides and outline here](http://peidevs.github.io/Talk_OpenData)
 * open forum on Open Data
 
 ###### Announcements 
@@ -16,7 +16,7 @@ at the top of the file, and keep old stuff.
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
-* door-prizes TBA
+* door-prizes sponsored by [Michael Easter](http://twitter.com/30_for_60) and [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
 
 #### July 2015 
