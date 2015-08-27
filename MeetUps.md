@@ -11,7 +11,7 @@ at the top of the file, and keep old stuff.
 * open forum on Open Data
 
 ###### Announcements 
-* TBA
+* [Global Day of Coderetreat, Nov 2015](http://coderetreat.org/events)
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
