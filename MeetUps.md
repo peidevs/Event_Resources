@@ -4,6 +4,21 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### September 2015 
+
+###### Topics
+* [Matt Duffy](http://twitter.com/medexperience) on [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+* TBA
+
+###### Announcements 
+* TBA
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* door-prizes TBA
+* video equipment loaned by [ScreenScape](http://www.screenscape.com) 
+
 #### August 2015 
 
 ###### Topics
