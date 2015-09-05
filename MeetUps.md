@@ -4,6 +4,55 @@ Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
 -->
 
+#### September 2015 
+
+###### Topics
+* [Matt Duffy](http://twitter.com/medexperience) on [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+* TBA
+
+###### Announcements 
+* TBA
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* door-prizes TBA
+* video equipment loaned by [ScreenScape](http://www.screenscape.com) 
+
+#### August 2015 
+
+###### Topics
+* [Michael Easter](http://twitter.com/codetojoy) on [Open Data](https://en.wikipedia.org/wiki/Open_data) . [Slides and outline here](http://peidevs.github.io/Talk_OpenData)
+* open forum on Open Data
+
+###### Announcements 
+* [Global Day of Coderetreat, Nov 2015](http://coderetreat.org/events)
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* door-prizes sponsored by [Michael Easter](http://twitter.com/30_for_60) and [JetBrains](http://jetbrains.com) 
+* video equipment loaned by [ScreenScape](http://www.screenscape.com) 
+
+#### July 2015 
+
+###### Topics
+* [Kyron Stubbs](http://www.meetup.com/PEI-Developers/members/97862342/) on [Play framework](https://en.wikipedia.org/wiki/Play_framework)
+* [Mark Wright](http://www.meetup.com/PEI-Developers/members/177730952/) on [Radium](http://projects.formidablelabs.com/radium/)
+
+###### Announcements 
+* Local firm seeking 'Septic Sitters'. [Details here](http://dynamicmonitors.com/detailed-septic-sitter-data-allows-for-unique-onsite-insights/)
+* Town of Stratford initiative [launched](http://www.townofstratford.ca/global-governance-project-launched/)
+* Michael Easter to follow-up on delayed Open Data write-up. [Webcasts here](http://opendatacon.org/webcast/)
+* ITAP / IT Garage update
+* summer party
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains](http://jetbrains.com) 
+* video equipment loaned by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
 #### June 2015 
 
 ###### Topics
