@@ -11,7 +11,7 @@ at the top of the file, and keep old stuff.
 * TBA
 
 ###### Announcements 
-* TBA
+* [Open Data Book Club](http://bit.ly/1JOrsr9) on 9/22
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
