@@ -3,7 +3,7 @@ var ATTENDEE_LIST = [
 "Onoriode Ikede",
 "Ben",
 "Terry Smith",
-"Alexandre Carmel-Veilleux",
+"Alexandre C-V",
 "Krista G-M",
 "Evan Porter",
 "Ross E + 1",
@@ -13,4 +13,10 @@ var ATTENDEE_LIST = [
 "Christian Southgate",
 "Keir",
 "Brian Ansems",
+"David Hanna",
+"Kris Olafson",
+"Nolan Phillips",
+"J.B. Rainsberger"
+"Chris",
+"Kevin MacPhail",
 ];
