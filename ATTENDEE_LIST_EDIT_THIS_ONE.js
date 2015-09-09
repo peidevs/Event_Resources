@@ -16,7 +16,7 @@ var ATTENDEE_LIST = [
 "David Hanna",
 "Kris Olafson",
 "Nolan Phillips",
-"J.B. Rainsberger"
+"J.B. Rainsberger",
 "Chris",
 "Kevin MacPhail"
 ];
