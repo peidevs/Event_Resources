@@ -12,7 +12,7 @@ at the top of the file, and keep old stuff.
 
 ###### Announcements 
 * [Open Data Book Club](http://bit.ly/1JOrsr9) on 9/22
-* PEI Developers joins 20+ organizations in an [open letter](https://docs.google.com/document/d/1-VWzsWwt1uTBLkFEeSsogeBEXqeRAN5rjBPArnsKLgE/edit) asking federal political parties to support the principles of Open Data and Open Government
+* PEI Developers joins 20+ organizations in an [open letter](https://docs.google.com/document/d/1-VWzsWwt1uTBLkFEeSsogeBEXqeRAN5rjBPArnsKLgE/edit) asking federal political parties to endorse the principles of Open Data and Open Government during the upcoming election
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
