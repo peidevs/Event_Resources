@@ -18,5 +18,5 @@ var ATTENDEE_LIST = [
 "Nolan Phillips",
 "J.B. Rainsberger",
 "Chris",
-"Kevin MacPhail"
+"Kevin MacPhail",
 ];
