@@ -8,10 +8,11 @@ at the top of the file, and keep old stuff.
 
 ###### Topics
 * [Matt Duffy](http://twitter.com/medexperience) on [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
-* TBA
+* Open Forum
 
 ###### Announcements 
 * [Open Data Book Club](http://bit.ly/1JOrsr9) on 9/22
+* PEI Developers joins 20+ organizations in an [open letter](https://docs.google.com/document/d/1-VWzsWwt1uTBLkFEeSsogeBEXqeRAN5rjBPArnsKLgE/edit) asking federal political parties to support the principles of Open Data and Open Government
 
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
