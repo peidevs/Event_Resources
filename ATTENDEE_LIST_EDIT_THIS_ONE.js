@@ -22,7 +22,7 @@ var ATTENDEE_LIST = [
 "Rami Alshahabi",
 "Celito Felipetto",
 "roy kressin",
-"Lincoln Maskey".
+"Lincoln Maskey",
 "Christian S",
 "Christian S + 1",
 "Iain Galloway",
