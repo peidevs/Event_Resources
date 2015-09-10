@@ -12,13 +12,20 @@ var ATTENDEE_LIST = [
 "Nicholas Phelan",
 "Nicholas Phelan + 1",
 "Callista Tan",
-"Christian Southgate",
 "Keir",
 "Brian Ansems",
-"David Hanna",
 "Kris Olafson",
 "Nolan Phillips",
 "J.B. Rainsberger",
 "Chris",
 "Kevin MacPhail",
+"Rami Alshahabi",
+"Celito Felipetto",
+"roy kressin",
+"Lincoln Maskey".
+"Christian S",
+"Christian S + 1",
+"Iain Galloway",
+"Jonathan Bayer",
+"Jonathan Bayer + 1"
 ];
