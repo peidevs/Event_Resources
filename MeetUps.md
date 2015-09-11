@@ -17,7 +17,7 @@ at the top of the file, and keep old stuff.
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
-* door-prizes TBA
+* door-prizes sponsored by [ScreenScape](http://www.screenscape.com) and [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
 
 #### August 2015 
