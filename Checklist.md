@@ -11,3 +11,4 @@
 * who is doing the "dev news" ? who is covering Twitter / pics?
 * who prints the "Hello my name is ..." labels? 
 * who is handling door prizes? is Scooter list correct?
+* did someone 'announce' via the MeetUp site, and send an email on the day before the event?
