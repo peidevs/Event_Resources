@@ -26,5 +26,6 @@ var ATTENDEE_LIST = [
 "Mark Wright",
 "Mark Wright + 1",
 "Peter Rukavina",
-"Ian Morse"
+"Ian Morse",
+"Brent Mitton"
 ];
