@@ -1,16 +1,17 @@
 /*
 to enable: copy to ~/src/main/webapp/scooter.css
-to edit: edit ~/resources/skins/scooter_pei_flag.css
+to edit: edit ~/resources/skins/scooter_muppet.css
 
-yellow lion - #F7C636;  
-green tree  - #24531F;
-brown tree  - #4D2F1D;
-red         - 
+orange face - 240 143 43 - #F08C2B
+red hair - 229 42 29 - #E52A1D
+brown glasses - 124 71 38 - #7C4726
+green shirt - 167 199 102 - #A7C766
+eyes - 19 12 9 - #130C09
 */
 
 body, html{
     /*background:#ddf;*/
-    background:#F7C636;
+    background:#F08C2B;
     padding:0;
     margin:0;
     text-align:center;
@@ -21,7 +22,7 @@ body, html{
     position:relative;
 }
 .menu{
-    color:#B7271C;
+    color:#000000;
     width:300px;
     /* margin:10px auto 0 auto; */
     padding:0;
@@ -34,18 +35,23 @@ body, html{
 .menu div{
     position:absolute;
     width: 150px;
-    height:100px;
+    height:150px;
     background:white;
-    border:4px solid #4D2F1D;
+    border:8px solid #7C4726;
+    border-radius: 50%;
     line-height:40px;
     cursor:pointer;
 }
-
+#boxText{
+    color: #130C09;
+    padding-top: 40px;
+    display: inline-block;
+}
 #resetButton{
     position:absolute;
     left: 20px;
     top: 50px;
-    background: #24531F;
+    background: #E52A1D;
     color: #FFFFFF;
     font-size: 1em;
     font-weight: bold;
@@ -58,7 +64,7 @@ body, html{
     position:absolute;
     left: 20px;
     top: 110px;
-    background: #24531F;
+    background: #A7C766;
     color: #FFFFFF;
     font-size: 1em;
     font-weight: bold;
