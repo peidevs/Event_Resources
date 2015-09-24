@@ -12,3 +12,7 @@
 * who prints the "Hello my name is ..." labels? 
 * who is handling door prizes? is Scooter list correct?
 * did someone 'announce' via the MeetUp site, and send an email on the day before the event?
+
+#### Lessons learned
+* at CYC, a presenter wanted to play audio clips. We rented cables and an adapter box at Long & McQuade so that we could plug a stereo-mini jack into a Mac, and then a XLR (?) jack into the sound board.
+
