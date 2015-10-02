@@ -21,7 +21,7 @@ A montly entry template, for ease of use:
 This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Matt Duffy](http://twitter.com/medexperience) on [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) v [FLUID](http://www.slideshare.net/Kevlin/introducing-the-fluid-principles) design
 * [Christian Southgate](http://twitter.com/chridmeister) on a case study of design gone bad
-* [Evan Porter](http://twitter.com/evanepio)
+* [Evan Porter](http://twitter.com/evanepio) on the [Four Rules of Simple Design](http://martinfowler.com/bliki/BeckDesignRules.html)
 * [JB Rainsberger](http://twitter.com/jbrains) on developing design and programming skills
 
 ##### Announcements
