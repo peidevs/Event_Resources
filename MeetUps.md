@@ -2,7 +2,34 @@
 <!---
 Let's treat this file as a changelog of sorts, and just place new stuff
 at the top of the file, and keep old stuff.
+
+A montly entry template, for ease of use:
+#### Month
+
+##### Topics
+* [speaker](bio) on [topic](reference)
+
+##### Announcments
+* Announcement 1
+
+##### Sponsors
+* x sponsored by [sponsor](promo)
 -->
+#### October 2015
+
+##### Topics
+This month's theme was lightning talks on 'The Basics' and 'Best Practices'
+* [Matt Duffy](http://twitter.com/medexperience) on [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) v [FLUID](http://www.slideshare.net/Kevlin/introducing-the-fluid-principles) design
+* [Christian Southgate](http://twitter.com/chridmeister) on a case study of design gone bad
+* [Evan Porter](http://twitter.com/evanepio)
+* [JB Rainsberger](http://twitter.com/jbrains) on developing design and programming skills
+
+##### Announcements
+* [SAR Hackathon](http://www.sarscene.ca/2015/hackathon_e.asp) Oct 23-24
+* [Collide Conference](http://www.collidehalifax.com/) Oct 22-23
+* Open Data Book Club meeting
+
+##### Sponsors
 
 #### September 2015 
 
