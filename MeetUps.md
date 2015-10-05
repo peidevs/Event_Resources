@@ -25,6 +25,7 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [JB Rainsberger](http://twitter.com/jbrains) on developing design and programming skills
 
 ###### Announcements
+* [UX MeetUp](http://www.meetup.com/Charlottetown-UI-UX-Design/) Oct 13
 * [SAR Hackathon](http://www.sarscene.ca/2015/hackathon_e.asp) Oct 23-24
 * [Collide Conference](http://www.collidehalifax.com/) Oct 22-23
 * [Open Data Book Club](http://www.meetup.com/PEI-Developers/events/225763709/) Oct 27
