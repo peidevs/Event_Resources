@@ -31,6 +31,7 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Open Data Book Club](http://www.meetup.com/PEI-Developers/events/225763709/) Oct 27
 
 ###### Sponsors
+* Collide Conference pass sponsored by [Collide Conference](http://www.collidehalifax.com/)
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
 
 #### September 2015 
