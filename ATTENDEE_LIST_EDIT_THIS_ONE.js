@@ -9,5 +9,7 @@ var ATTENDEE_LIST = [
 "JB Rainsberger",
 "Christian S",
 "Christian S + 1",
-"Christopher VH"
+"Christopher VH",
+"Jonathan Forster",
+"Zyler F"
 ];
