@@ -32,9 +32,9 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 
 ###### Sponsors
 * Collide Conference pass sponsored by [Collide Conference](http://www.collidehalifax.com/)
-* video equipment loaned by [ScreenScape](http://www.screenscape.com)
 * [World's Best Intro to TDD](http://wbitdd.jbrains.ca) lifetime membership sponsored by [JB Rainsberger](http://www.jbrains.ca)
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+* video equipment loaned by [ScreenScape](http://www.screenscape.com)
 
 #### September 2015 
 
