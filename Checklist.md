@@ -13,6 +13,7 @@
 * did someone 'announce' via the MeetUp site, and send an email on the day before the event?
 
 #### Lessons learned
+* Consider using a timer, esp. for lightning talks. A standard technique is to demo a funny alarm, before the talks begin, and tell everyone that we are setting a timer. In this way, no one is offended by being cut off.
 * at CYC, a presenter wanted to play audio clips. We rented cables and an adapter box at Long & McQuade so that we could plug a stereo-mini jack into a Mac, and then a XLR (?) jack into the sound board.
 
 #### Older stuff
