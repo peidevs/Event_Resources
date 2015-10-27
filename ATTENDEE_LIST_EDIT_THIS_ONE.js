@@ -4,8 +4,6 @@ var ATTENDEE_LIST = [
 "Nicholas Phelan",
 "Evan Porter",
 "Chris",
-"Christian S",
-"Christian S + 1",
 "Mike Berger",
 "Andy Daggett"
 ];
