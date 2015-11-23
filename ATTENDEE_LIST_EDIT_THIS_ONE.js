@@ -9,5 +9,6 @@ var ATTENDEE_LIST = [
 "Francine Smith",
 "Rosemary Le Faive",
 "Allan Finney",
-"Adam McGuigan"
+"Adam McGuigan",
+"Alexandre C-V"
 ];
