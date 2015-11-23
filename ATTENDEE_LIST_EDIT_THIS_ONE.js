@@ -7,5 +7,7 @@ var ATTENDEE_LIST = [
 "Christian Southgate + 1",
 "Terry Smith",
 "Francine Smith",
-"Rosemary Le Faive"
+"Rosemary Le Faive",
+"Allan Finney",
+"Adam McGuigan"
 ];
