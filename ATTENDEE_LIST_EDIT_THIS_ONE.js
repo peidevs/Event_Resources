@@ -15,6 +15,6 @@ var ATTENDEE_LIST = [
 "Lincoln Maskey",
 "Dave Hyndman",
 "Christian Southgate",
-"Joshua Biggley",
+"Josh Biggley",
 "Mike Berger"
 ];
