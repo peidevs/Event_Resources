@@ -6,7 +6,6 @@ var ATTENDEE_LIST = [
 "Mark Wright",
 "Evan Porter",
 "Issac Grant",
-"Mike Berger",
 "Michael Gauthier",
 "Malcolm Hiseman",
 "Steve B",
