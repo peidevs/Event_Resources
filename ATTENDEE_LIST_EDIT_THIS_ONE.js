@@ -1,14 +1,21 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Nitheen Rao T",
+"Nitheen Rao T + 1",
+"Nolan Phillips",
+"Mark Wright",
 "Evan Porter",
+"Issac Grant",
 "Mike Berger",
-"Kevin MacPhail",
+"Michael Gauthier",
+"Malcolm Hiseman",
+"Steve B",
+"Steve B + 1",
+"Jonathan Bayer",
+"vinod",
+"Lincoln Maskey",
+"Dave Hyndman",
 "Christian Southgate",
-"Christian Southgate + 1",
-"Terry Smith",
-"Francine Smith",
-"Rosemary Le Faive",
-"Allan Finney",
-"Adam McGuigan",
-"Alexandre C-V"
+"Joshua Biggley",
+"Mike Berger"
 ];
