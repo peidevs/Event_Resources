@@ -20,7 +20,7 @@ A montly entry template, for ease of use:
 ###### Topics
 * [Ross Evans](http://twitter.com/thatQcode) on Web Application Security
 * [J.B. Rainsberger](http://twitter.com/jbrains) on Debugging Interactions
-* [Bob Shand](http://twitter.com/feralbob) on the [fastlane tools](https://fastlane.tools/)
+* [Bob Shand](http://twitter.com/feralbob) on [fastlane tools](https://fastlane.tools/)
 
 ###### Announcements
 * [Open Data Book Club](http://www.meetup.com/Open-Data-PEI) is promoted to proper MeetUp 
