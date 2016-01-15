@@ -15,6 +15,51 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### January 2016
+
+###### Topics
+* [Ross Evans](http://twitter.com/thatQcode) on Web Application Security
+* [J.B. Rainsberger](http://twitter.com/jbrains) on Debugging Interactions
+* [Bob Shand](http://twitter.com/feralbob) on the [fastlane tools](https://fastlane.tools/)
+
+###### Announcements
+* [Open Data Book Club](http://www.meetup.com/Open-Data-PEI) is promoted to proper MeetUp 
+* Open Data Book Club presented to [provincial Directors' Forum](http://peidevs.github.io/OpenDataBookClub/presentations/2015_DEC_17_Directors_Forum)
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](http://twitter.com/medexperience) 
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+* video equipment loaned by [ScreenScape](http://www.screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
+
+#### December 2015
+
+###### Topics
+This month's theme was lightning talks on 'The Basics' and 'Best Practices'
+* [Matt Duffy](http://twitter.com/medexperience) on Engineers PEI Robotics team
+* [Derek Campbell](http://twitter.com/derekcampbell1) on [Makerspace in Summerside](http://www.journalpioneer.com/News/Local/2015-12-11/article-4373225/Summerside-techies-building-co-op-for-artists,-inventors-and-tinkerers/1)
+
+###### Announcements
+* none (?)
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](http://twitter.com/medexperience) 
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+#### November 2015
+
+###### Topics
+The group support the local arts by going to see [Kooperman](http://www.imdb.com/title/tt4831954/).
+
 #### October 2015
 
 ###### Topics
