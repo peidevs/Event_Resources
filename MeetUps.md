@@ -43,7 +43,7 @@ A montly entry template, for ease of use:
 ###### Topics
 This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Matt Duffy](http://twitter.com/medexperience) on Engineers PEI Robotics team
-* [Derek Campbell](http://twitter.com/derekcampbell1) on [Makerspace in Summerside](http://www.journalpioneer.com/News/Local/2015-12-11/article-4373225/Summerside-techies-building-co-op-for-artists,-inventors-and-tinkerers/1)
+* [Derek Campbell](http://twitter.com/derekscampbell1) on [Makerspace in Summerside](http://www.journalpioneer.com/News/Local/2015-12-11/article-4373225/Summerside-techies-building-co-op-for-artists,-inventors-and-tinkerers/1)
 
 ###### Announcements
 * none (?)
@@ -54,11 +54,19 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### November 2015
 
 ###### Topics
 The group support the local arts by going to see [Kooperman](http://www.imdb.com/title/tt4831954/).
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](http://twitter.com/medexperience) 
+
+-----
 
 #### October 2015
 
@@ -75,11 +83,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Collide Conference](http://www.collidehalifax.com/) Oct 22-23
 * [Open Data Book Club](http://www.meetup.com/PEI-Developers/events/225763709/) Oct 27
 
+###### Cat Herder (organizer) for this month
+* [Derek Campbell](http://twitter.com/derekscampbell1) 
+
 ###### Sponsors
 * Collide Conference pass sponsored by [Collide Conference](http://www.collidehalifax.com/)
 * [World's Best Intro to TDD](http://wbitdd.jbrains.ca) lifetime membership sponsored by [JB Rainsberger](http://www.jbrains.ca)
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 * video equipment loaned by [ScreenScape](http://www.screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### September 2015 
 
@@ -91,11 +105,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Open Data Book Club](http://bit.ly/1JOrsr9) on 9/22
 * PEI Developers joins 20+ organizations in an [open letter](https://docs.google.com/document/d/1-VWzsWwt1uTBLkFEeSsogeBEXqeRAN5rjBPArnsKLgE/edit) asking federal political parties to endorse the principles of Open Data and Open Government during the upcoming election
 
+###### Cat Herder (organizer) for this month
+* [Derek Campbell](http://twitter.com/derekscampbell1) 
+
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * door-prizes sponsored by [ScreenScape](http://www.screenscape.com) and [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### August 2015 
 
@@ -106,11 +126,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 ###### Announcements 
 * [Global Day of Coderetreat, Nov 2015](http://coderetreat.org/events)
 
+###### Cat Herder (organizer) for this month
+* [Derek Campbell](http://twitter.com/derekscampbell1) 
+
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * door-prizes sponsored by [Michael Easter](http://twitter.com/30_for_60) and [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### July 2015 
 
@@ -125,11 +151,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * ITAP / IT Garage update
 * summer party
 
+###### Cat Herder (organizer) for this month
+* [Sean Whalley](http://twitter.com/SeanWhalley21) 
+
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### June 2015 
 
@@ -141,11 +173,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Robert Hughes](http://www.townofstratford.ca/robert-hughes-p-eng/), Town of Stratford
 * Recap - [International Open Data Conference and pre-events](http://opendatacon.org/) by [Michael Easter](http://twitter.com/codetojoy)
 
+###### Cat Herder (organizer) for this month
+* [Sean Whalley](http://twitter.com/SeanWhalley21) 
+
 ###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [ScreenScape](http://screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### May 2015 
 
@@ -158,11 +196,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [International Open Data Conference - Ottawa](http://opendatacon.org/)
 * [Open Data Summit- Ottawa](http://opendatasummit.ca/en/)
 
+###### Cat Herder (organizer) for this month
+* [Sean Whalley](http://twitter.com/SeanWhalley21) 
+
 ###### Sponsors
 * venue sponsored by [Sean Whalley](http://twitter.com/seanwhalley21)
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * video equipment loaned by [Binary Star](https://www.linkedin.com/company/binary-star) and [ScreenScape](http://screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### April 2015 
 
@@ -177,11 +221,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [International Open Data Conference - Ottawa](http://opendatacon.org/)
 * [Open Data Summit- Ottawa](http://opendatasummit.ca/en/)
 
+###### Cat Herder (organizer) for this month
+* [Michael Easter](http://twitter.com/codetojoy) 
+
 ###### Sponsors
 * venue sponsored by Michael Easter
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * projector etc loaned by [ScreenScape](http://screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### March 2015 
 
@@ -193,11 +243,17 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 * [Indie Developers Showcase](https://www.eventbrite.ca/e/indie-developers-showcase-tickets-16255356208)
 * potential class on embedded devices at UPEI in Fall 2015
 
+###### Cat Herder (organizer) for this month
+* [Michael Easter](http://twitter.com/codetojoy) 
+
 ###### Sponsors
 * venue sponsored by Michael Easter
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains](http://jetbrains.com) 
 * projector etc loaned by [ScreenScape](http://screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
 
 #### February 2015 
 
@@ -208,8 +264,12 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 ###### Announcements 
 * [CODE](http://open.canada.ca/en/canadian-open-data-experience-code)
 
+###### Cat Herder (organizer) for this month
+* [Michael Easter](http://twitter.com/codetojoy) 
+
 ###### Sponsors
 * venue sponsored by Michael Easter
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * projector etc loaned by [ScreenScape](http://screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
  
