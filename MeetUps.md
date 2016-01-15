@@ -61,7 +61,7 @@ This month's theme was lightning talks on 'The Basics' and 'Best Practices'
 #### November 2015
 
 ###### Topics
-The group support the local arts by going to see [Kooperman](http://www.imdb.com/title/tt4831954/).
+The group supported the local arts community by going to see [Kooperman](http://www.imdb.com/title/tt4831954/).
 
 ###### Cat Herder (organizer) for this month
 * [Matt Duffy](http://twitter.com/medexperience) 
