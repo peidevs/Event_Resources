@@ -8,7 +8,6 @@ var ATTENDEE_LIST = [
 "Michelle H",
 "Evan Porter",
 "Josh Biggley",
-"Nicholas Phelan",
 "Mike Berger",
 "Trish",
 "Alesia"
