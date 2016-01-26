@@ -6,7 +6,7 @@ var ATTENDEE_LIST = [
 "Nolan Phillips",
 "Nitheen Rao T",
 "Michelle H",
-"Evan Porter"
+"Evan Porter",
 "Josh Biggley",
 "Nicholas Phelan",
 "Mike Berger",
