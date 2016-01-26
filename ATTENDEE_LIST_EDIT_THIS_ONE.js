@@ -2,13 +2,9 @@
 var ATTENDEE_LIST = [
 "Jahanzaib R",
 "Onoriode I",
-"Dave Hyndman",
-"Nolan Phillips",
+"Mike M",
 "Nitheen Rao T",
 "Michelle H",
 "Evan Porter",
-"Josh Biggley",
-"Mike Berger",
-"Trish",
-"Alesia"
+"Mike Berger"
 ];
