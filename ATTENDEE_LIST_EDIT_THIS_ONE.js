@@ -6,5 +6,6 @@ var ATTENDEE_LIST = [
 "Nitheen Rao T",
 "Michelle H",
 "Evan Porter",
-"Mike Berger"
+"Mike Berger",
+"Ricardo A"
 ];
