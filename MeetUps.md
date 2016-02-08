@@ -15,6 +15,29 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### February 2016
+
+###### Topics
+* [Michael Gauthier](https://twitter.com/hypertextmike) on Distributed Computing for Web Applications
+* [Nolan Phillips](http://twitter.com/ncphi) on Object-Orientation in Javascript
+
+###### Announcements
+* Hack event, March 5, for [Open Data Day](http://opendataday.org/) . Details TBA
+* [Canadian Open Data Summit 2016](http://www.eventbrite.ca/e/canadian-open-data-summit-sommet-canadien-des-donnees-ouvertes-tickets-20001937333) registration is open. April 2016, Saint John NB
+* [Open Data Book Club](http://www.meetup.com/Open-Data-PEI/events/228548487/) MeetUp with Robert Hughes, CAO, Stratford on Feb. 23
+* Michael Easter on Open Data, CIPS PEI, February 18
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](http://twitter.com/evanepio) 
+
+###### Sponsors
+* venue sponsored by TBA
+* food sponsored by TBA
+* video equipment loaned by [ScreenScape](http://www.screenscape.com)
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+
+-----
+
 #### January 2016
 
 ###### Topics
