@@ -24,7 +24,7 @@ A montly entry template, for ease of use:
 ###### Announcements
 * Hack event, March 5, for [Open Data Day](http://opendataday.org/) . Details TBA
 * [Canadian Open Data Summit 2016](http://www.eventbrite.ca/e/canadian-open-data-summit-sommet-canadien-des-donnees-ouvertes-tickets-20001937333) registration is open. April 2016, Saint John NB
-* [Open Data Book Club](http://www.meetup.com/Open-Data-PEI/events/228548487/) MeetUp with Robert Hughes, CAO, Stratford on Feb. 23
+* Open Data Book Club [MeetUp](http://www.meetup.com/Open-Data-PEI/events/228548487/) with Robert Hughes, CAO, Stratford on February 23
 * Michael Easter on Open Data, CIPS PEI, February 18
 
 ###### Cat Herder (organizer) for this month
