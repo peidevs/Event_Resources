@@ -31,8 +31,8 @@ A montly entry template, for ease of use:
 * [Evan Porter](http://twitter.com/evanepio) 
 
 ###### Sponsors
-* venue sponsored by TBA
-* food sponsored by TBA
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com)
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
 
