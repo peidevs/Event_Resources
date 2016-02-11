@@ -30,6 +30,7 @@ A montly entry template, for ease of use:
 * Open Data Book Club [MeetUp](http://www.meetup.com/Open-Data-PEI/events/228548487/) with Robert Hughes, CAO, Stratford on February 23
 * Michael Easter on Open Data, CIPS PEI, February 18
 * O'Reilly Partnership Programme offers our membership 20% off O'Reilly conference passes, 40% O'Reilly print books and 50% off O'Reilly ebooks!
+* Northeast PHP Conference - Call for Presenters (http://2016.northeastphp.org/)
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
