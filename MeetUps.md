@@ -29,7 +29,7 @@ A montly entry template, for ease of use:
 * [Canadian Open Data Summit 2016](http://www.eventbrite.ca/e/canadian-open-data-summit-sommet-canadien-des-donnees-ouvertes-tickets-20001937333) registration is open. April 2016, Saint John NB
 * Open Data Book Club [MeetUp](http://www.meetup.com/Open-Data-PEI/events/228548487/) with Robert Hughes, CAO, Stratford on February 23
 * Michael Easter on Open Data, CIPS PEI, February 18
-* O'Reilly Partnership Programme offers our membership 20% off O'Reilly conference passes, 40% O'Reilly print books and 50% off O'Reilly ebooks!
+* O'Reilly Partnership Programme offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
 * Northeast PHP Conference - Call for Presenters (http://2016.northeastphp.org/)
 
 ###### Cat Herder (organizer) for this month
