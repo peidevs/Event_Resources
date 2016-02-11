@@ -40,6 +40,7 @@ A montly entry template, for ease of use:
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com)
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 -----
 
