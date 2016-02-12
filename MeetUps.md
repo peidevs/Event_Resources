@@ -21,7 +21,7 @@ A montly entry template, for ease of use:
 #### February 2016
 
 ###### Topics
-* [Michael Gauthier](https://twitter.com/hypertextmike) on Distributed Computing for Web Applications
+* [Michael Gauthier](https://twitter.com/hypertextmike) on [Queues](https://docs.google.com/presentation/d/10PfwftPn9WUVjpQsOOKUqMINL0vUsMyGY6SQAjK6Q5A/edit#slide=id.p) / Distributed Computing for Web Applications
 * [Nolan Phillips](http://twitter.com/ncphi) on Object-Orientation in Javascript
 
 ###### Announcements
