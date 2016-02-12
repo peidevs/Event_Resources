@@ -21,15 +21,15 @@ A montly entry template, for ease of use:
 #### February 2016
 
 ###### Topics
-* [Michael Gauthier](https://twitter.com/hypertextmike) on [Queues](https://docs.google.com/presentation/d/10PfwftPn9WUVjpQsOOKUqMINL0vUsMyGY6SQAjK6Q5A/edit#slide=id.p) / Distributed Computing for Web Applications
-* [Nolan Phillips](http://twitter.com/ncphi) on Object-Orientation in Javascript
+* [Michael Gauthier](https://twitter.com/hypertextmike) on Queues / Distributed Computing for Web Applications ([slides here](https://docs.google.com/presentation/d/10PfwftPn9WUVjpQsOOKUqMINL0vUsMyGY6SQAjK6Q5A/edit#slide=id.p))
+* [Nolan Phillips](http://twitter.com/ncphi) on Object-Orientation in Javascript ([code here](https://github.com/ncphillips/demo-oojs))
 
 ###### Announcements
 * Hack event, March 5, for [Open Data Day](http://opendataday.org/) . Details TBA
 * [Canadian Open Data Summit 2016](http://www.eventbrite.ca/e/canadian-open-data-summit-sommet-canadien-des-donnees-ouvertes-tickets-20001937333) registration is open. April 2016, Saint John NB
 * Open Data Book Club [MeetUp](http://www.meetup.com/Open-Data-PEI/events/228548487/) with Robert Hughes, CAO, Stratford on February 23
 * Michael Easter on Open Data, CIPS PEI, February 18
-* O'Reilly Partnership Programme offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
+* [O'Reilly Partnership Programme](http://www.oreilly.com/partner/) offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
 * Northeast PHP Conference - Call for Presenters (http://2016.northeastphp.org/)
 
 ###### Cat Herder (organizer) for this month
