@@ -7,7 +7,7 @@
 * if minors attend, someone should stay with them until their rides arrive (?)
 * do the speakers know how much time they have to present?
 * do the speakers have appropriate dongles for the projector?
-* ask speakers how they would like to be introduced 
+* ask speakers how they would like to be introduced / bio
 * do non-regular speakers know they can use a projector, and the # of people in attendance?
 * who is doing the "dev news" / Announcements ? who is covering Twitter / pics?
 * who is handling door prizes? is Scooter list correct?
