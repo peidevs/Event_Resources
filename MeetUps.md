@@ -25,6 +25,8 @@ A montly entry template, for ease of use:
 ##### Announcements
 * Northeast PHP Conference - Call for Papers
   * Deadline March 31st, 2016
+* Makerspace in Summerside: http://summersidemakerspace.ca
+  * Open House March 16th from 6 PM to 10 PM
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
