@@ -19,7 +19,7 @@ var ATTENDEE_LIST = [
 "Ben Sinnamon",
 "josie roman",
 "Patrick Williams",
-"mark Wright"
+"mark Wright",
 "philip parke",
 "Evan Porter",
 "Michael Berger",
