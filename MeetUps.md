@@ -22,6 +22,9 @@ A montly entry template, for ease of use:
 
 ##### Topics
 
+* **FabLab Atlantic** - Jeff Bowser
+* **SolidWorks 3D Modeling** - Steve Buss
+
 ##### Announcements
 * Northeast PHP Conference - Call for Papers
   * Deadline March 31st, 2016
@@ -32,6 +35,8 @@ A montly entry template, for ease of use:
 * [Evan Porter](http://twitter.com/evanepio) 
 
 ###### Sponsors
+
+* BinaryStar
 
 -----
 
