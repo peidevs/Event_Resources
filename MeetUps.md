@@ -36,7 +36,10 @@ A montly entry template, for ease of use:
 
 ###### Sponsors
 
-* BinaryStar
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* video equipment loaned by [ScreenScape](http://www.screenscape.com)
 
 -----
 
