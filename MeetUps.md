@@ -22,7 +22,8 @@ A montly entry template, for ease of use:
 
 ##### Topics
 
-* **FabLab Atlantic** - Jeff Bowser
+* **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, FabLab Atlantic
+An introduction to the Fab Lab and UPEI and it's current and future role.  A look at how additive manufacturing is changing how we solve problems like never before.
 * **SolidWorks 3D Modeling** - Steve Buss
 
 ##### Announcements
