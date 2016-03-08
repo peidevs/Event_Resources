@@ -22,9 +22,10 @@ A montly entry template, for ease of use:
 
 ##### Topics
 
-* **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, FabLab Atlantic
+* **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, FabLab Atlantic<br />
 An introduction to the Fab Lab and UPEI and it's current and future role.  A look at how additive manufacturing is changing how we solve problems like never before.
-* **SolidWorks 3D Modeling** - Steve Buss
+* **SolidWorks 3D Modeling** - Steve Buss<br />
+Going through design problems and using Solid Works to create a solution. A must-see for hobbyists and 3D-printer enthusiasts!
 
 ##### Announcements
 * Northeast PHP Conference - Call for Papers
