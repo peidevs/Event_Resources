@@ -30,8 +30,12 @@ Going through design problems and using Solid Works to create a solution. A must
 ##### Announcements
 * Northeast PHP Conference - Call for Papers
   * Deadline March 31st, 2016
-* Makerspace in Summerside: http://summersidemakerspace.ca
+* Makerspace in Summerside: [http://summersidemakerspace.ca](http://summersidemakerspace.ca)
   * Open House March 16th from 6 PM to 10 PM
+* Unity Tech Talks (Matt Duffy)
+* Open Data Day 2016 - Open Data Hackathon in PEI (Michael Easter)
+* Maritime DevCon - [Call for Speakers](http://maritimedevcon.ca/call-for-speakers/)
+* [O'Reilly Partnership Programme](http://www.oreilly.com/partner/) offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
@@ -42,6 +46,7 @@ Going through design problems and using Solid Works to create a solution. A must
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com)
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 -----
 
