@@ -22,10 +22,10 @@ A montly entry template, for ease of use:
 
 ##### Topics
 
-* **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, [FabLab Atlantic](http://www.upei.ca/engineering/fablab-atlantic)<br />
-An introduction to the Fab Lab and UPEI and it's current and future role.  A look at how additive manufacturing is changing how we solve problems like never before.
-* **SolidWorks 3D Modeling** - Steve Buss<br />
-Going through design problems and using Solid Works to create a solution. A must-see for hobbyists and 3D-printer enthusiasts!
+* **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, [FabLab Atlantic](http://www.upei.ca/engineering/fablab-atlantic)
+  * An introduction to the Fab Lab and UPEI and it's current and future role.  A look at how additive manufacturing is changing how we solve problems like never before.
+* **SolidWorks 3D Modeling** - Steve Buss
+  * Going through design problems and using Solid Works to create a solution. A must-see for hobbyists and 3D-printer enthusiasts!
 
 ##### Announcements
 * [Northeast PHP Conference](http://2016.northeastphp.org/) - Call for Papers
@@ -38,7 +38,10 @@ Going through design problems and using Solid Works to create a solution. A must
   * Event took place on March 5th 2016
 * Maritime DevCon - [Call for Speakers](http://maritimedevcon.ca/call-for-speakers/)
   * Event will take place June 4th 2016 - possibility of car pooling
-* [O'Reilly Partnership Programme](http://www.oreilly.com/partner/) offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
+* [O'Reilly Partnership Programme](http://www.oreilly.com/partner/) offers our membership:
+  * 20% off O'Reilly conference passes (use code USRG)
+  * 40% off most O'Reilly print books
+  * 50% off most O'Reilly ebooks (use code PCBW)!
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
