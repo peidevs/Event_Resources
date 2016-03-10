@@ -33,7 +33,7 @@ Going through design problems and using Solid Works to create a solution. A must
 * Makerspace in Summerside: [http://summersidemakerspace.ca](http://summersidemakerspace.ca)
   * Open House March 16th from 6 PM to 10 PM
 * Unity Tech Talks (Matt Duffy)
-* Open Data Day 2016 - Open Data Hackathon in PEI (Michael Easter)
+* [#OpenDataDay](http://opendataday.org/) 2016 - [PEI Open Data Hackathon](http://peidevs.github.io/OpenDataBookClub/2016/03/05/Open-Data-Day) (Michael Easter)
 * Maritime DevCon - [Call for Speakers](http://maritimedevcon.ca/call-for-speakers/)
 * [O'Reilly Partnership Programme](http://www.oreilly.com/partner/) offers our membership 20% off O'Reilly conference passes (use code USRG), 40% off most O'Reilly print books and 50% off most O'Reilly ebooks (use code PCBW)!
 
