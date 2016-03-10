@@ -28,7 +28,7 @@ An introduction to the Fab Lab and UPEI and it's current and future role.  A loo
 Going through design problems and using Solid Works to create a solution. A must-see for hobbyists and 3D-printer enthusiasts!
 
 ##### Announcements
-* Northeast PHP Conference - Call for Papers
+* [Northeast PHP Conference](http://2016.northeastphp.org/) - Call for Papers
   * Deadline March 31st, 2016
 * Makerspace in Summerside: [http://summersidemakerspace.ca](http://summersidemakerspace.ca)
   * Open House March 16th from 6 PM to 10 PM
