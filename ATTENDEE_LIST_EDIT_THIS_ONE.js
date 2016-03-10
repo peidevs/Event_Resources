@@ -1,5 +1,7 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Celito Felipetto",
+"Patrick C.",
 "Scott Gallant",
 "Jahanzaib R",
 "Lucas S",
