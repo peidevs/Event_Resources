@@ -18,6 +18,22 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### April 2016
+
+##### Topics
+* [Michael Dunleavy](http://www.lwlaw.com/people/dunleavy-michael/) on "Startup Legals 101" - A high-level overview of legal issues for startups, founders and employees
+* [Michael Gauthier](https://twitter.com/hypertextmike) on TLS
+
+##### Announcments
+* TBD
+
+###### Cat Herder (organizer) for this month
+* Evan Porter
+
+##### Sponsors
+* TBD
+
+
 #### March 2016
 
 ##### Topics
