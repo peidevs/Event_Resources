@@ -28,7 +28,7 @@ A montly entry template, for ease of use:
 * TBD
 
 ###### Cat Herder (organizer) for this month
-* Evan Porter
+* [Evan Porter](http://twitter.com/evanepio) 
 
 ##### Sponsors
 * TBD
