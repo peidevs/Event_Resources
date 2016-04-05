@@ -22,7 +22,7 @@ A montly entry template, for ease of use:
 
 ##### Topics
 * [Michael Dunleavy](http://www.lwlaw.com/people/dunleavy-michael/) on "Startup Legals 101" - A high-level overview of legal issues for startups, founders and employees
-* [Michael Gauthier](https://twitter.com/hypertextmike) on TLS
+* [Michael Gauthier](https://twitter.com/hypertextmike) on "Web Security using TLS" - An examination of how TLS works to secure your websites and services. We'll cover the inner workings of TLS, and how you can easily use it in your projects.
 
 ##### Announcments
 * TBD
