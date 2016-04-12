@@ -25,7 +25,9 @@ A montly entry template, for ease of use:
 * [Michael Gauthier](https://twitter.com/hypertextmike) on "Web Security using TLS" - An examination of how TLS works to secure your websites and services. We'll cover the inner workings of TLS, and how you can easily use it in your projects.
 
 ##### Announcments
-* TBD
+* Early Bird Tickets for [NE PHP](http://2016.northeastphp.org) are available until end of month (August 4th and 5th)
+* Early Bird Tickets for [Maritime Dev Con](http://maritimedevcon.ca) are available until end of month (June 4th)
+* Follow [#CODS16 on Twitter](https://twitter.com/search?q=%23CODS16&src=typd) later this month for Canadian Open Data Summit 2016 news.
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
