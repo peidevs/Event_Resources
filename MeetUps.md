@@ -25,15 +25,20 @@ A montly entry template, for ease of use:
 * [Michael Gauthier](https://twitter.com/hypertextmike) on "Web Security using TLS" - An examination of how TLS works to secure your websites and services. We'll cover the inner workings of TLS, and how you can easily use it in your projects.
 
 ##### Announcments
-* Early Bird Tickets for [NE PHP](http://2016.northeastphp.org) are available until end of month (August 4th and 5th)
-* Early Bird Tickets for [Maritime Dev Con](http://maritimedevcon.ca) are available until end of month (June 4th)
+* Early Bird Tickets for [NE PHP](http://2016.northeastphp.org) are available until end of month (conference held on August 4th and 5th in Charlottetown)
+* Early Bird Tickets for [Maritime Dev Con](http://maritimedevcon.ca) are available until end of month (conference held on June 4th in Fredeircton) - they are going fast and may already be gone
 * Follow [#CODS16 on Twitter](https://twitter.com/search?q=%23CODS16&src=typd) later this month for Canadian Open Data Summit 2016 news.
+* [ICTC Webinar: Privacy Obligations for Small Businesses](http://www.ictc-ctic.ca/pipedawebinar/) on April 19th, 12 PM to 1 PM - what businesses need to know about their privacy obligations under the Personal Information Protection and Electronic Document Act (PIPEDA)
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
 
 ##### Sponsors
-* TBD
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* projector rental sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 
 #### March 2016
