@@ -13,7 +13,6 @@ var ATTENDEE_LIST = [
 "Jarred Kenny",
 "Scott Gallant",
 "Adam LeBlanc",
-"Evan Porter",
 "Mike Gauthier",
 "Issac Grant",
 "Nicolas Phelan",
