@@ -20,18 +20,18 @@ A montly entry template, for ease of use:
 -->
 #### May 2016
 
-##### Topics
+###### Topics
 * [Matt Duffy](http://twitter.com/MEDexperience) - TBA
 * TBA
 
-##### Announcements
+###### Announcements
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * [Maritime Dev Con](http://maritimedevcon.ca) - June 4th in Fredericton
 
 ###### Cat Herder (organizer) for this month
 * [Michael Easter](http://twitter.com/codetojoy) 
 
-##### Sponsors (TBA)
+###### Sponsors (TBA)
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * projector rental sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
@@ -39,11 +39,11 @@ A montly entry template, for ease of use:
 
 #### April 2016
 
-##### Topics
+###### Topics
 * [Michael Dunleavy](http://www.lwlaw.com/people/dunleavy-michael/) on "Startup Legals 101" - A high-level overview of legal issues for startups, founders and employees
 * [Michael Gauthier](https://twitter.com/hypertextmike) on "Web Security using TLS" - An examination of how TLS works to secure your websites and services. We'll cover the inner workings of TLS, and how you can easily use it in your projects.
 
-##### Announcements
+###### Announcements
 * Early Bird Tickets for [NE PHP](http://2016.northeastphp.org) are available until end of month (conference held on August 4th and 5th in Charlottetown)
 * Early Bird Tickets for [Maritime Dev Con](http://maritimedevcon.ca) are available until end of month (conference held on June 4th in Fredericton) - they are going fast and may already be gone
 * Follow [#CODS16 on Twitter](https://twitter.com/search?q=%23CODS16&src=typd) later this month for Canadian Open Data Summit 2016 news.
@@ -52,7 +52,7 @@ A montly entry template, for ease of use:
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](http://twitter.com/evanepio) 
 
-##### Sponsors
+###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * projector rental sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
@@ -61,14 +61,14 @@ A montly entry template, for ease of use:
 
 #### March 2016
 
-##### Topics
+###### Topics
 
 * **Additive Manufacturing: Beyond the Prototype** - Jeff Bowser, [FabLab Atlantic](http://www.upei.ca/engineering/fablab-atlantic)
   * An introduction to the Fab Lab and UPEI and it's current and future role.  A look at how additive manufacturing is changing how we solve problems like never before.
 * **SolidWorks 3D Modeling** - Steve Buss
   * Going through design problems and using Solid Works to create a solution. A must-see for hobbyists and 3D-printer enthusiasts!
 
-##### Announcements
+###### Announcements
 * [Northeast PHP Conference](http://2016.northeastphp.org/) - Call for Papers
   * Deadline March 31st, 2016
 * Makerspace in Summerside: [http://summersidemakerspace.ca](http://summersidemakerspace.ca)
