@@ -9,7 +9,7 @@ A montly entry template, for ease of use:
 ##### Topics
 * [speaker](bio) on [topic](reference)
 
-##### Announcments
+##### Announcements
 * Announcement 1
 
 ###### Cat Herder (organizer) for this month
@@ -23,8 +23,8 @@ A montly entry template, for ease of use:
 ##### Topics
 * [Matt Duffy](http://twitter.com/MEDexperience) - TBA
 * TBA
-* 
-##### Announcments
+
+##### Announcements
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * [Maritime Dev Con](http://maritimedevcon.ca) - June 4th in Fredericton
 
@@ -43,7 +43,7 @@ A montly entry template, for ease of use:
 * [Michael Dunleavy](http://www.lwlaw.com/people/dunleavy-michael/) on "Startup Legals 101" - A high-level overview of legal issues for startups, founders and employees
 * [Michael Gauthier](https://twitter.com/hypertextmike) on "Web Security using TLS" - An examination of how TLS works to secure your websites and services. We'll cover the inner workings of TLS, and how you can easily use it in your projects.
 
-##### Announcments
+##### Announcements
 * Early Bird Tickets for [NE PHP](http://2016.northeastphp.org) are available until end of month (conference held on August 4th and 5th in Charlottetown)
 * Early Bird Tickets for [Maritime Dev Con](http://maritimedevcon.ca) are available until end of month (conference held on June 4th in Fredericton) - they are going fast and may already be gone
 * Follow [#CODS16 on Twitter](https://twitter.com/search?q=%23CODS16&src=typd) later this month for Canadian Open Data Summit 2016 news.
