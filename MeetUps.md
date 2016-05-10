@@ -28,7 +28,7 @@ A montly entry template, for ease of use:
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * [Maritime Dev Con](http://maritimedevcon.ca) - June 4th in Fredericton
 * [CIPS Talk by Chris Vessey](http://bit.ly/1T2ykqM) - May 19 in Charlottetown
-* 
+
 ###### Cat Herder (organizer) for this month
 * [Michael Easter](http://twitter.com/codetojoy) 
 
