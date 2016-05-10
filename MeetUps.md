@@ -22,19 +22,20 @@ A montly entry template, for ease of use:
 
 ###### Topics
 * [Matt Duffy](http://twitter.com/MEDexperience) - TBA
-* TBA
+* Recommended Resources / Show and Tell
 
 ###### Announcements
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * [Maritime Dev Con](http://maritimedevcon.ca) - June 4th in Fredericton
-
+* [CIPS Talk by Chris Vessey](http://bit.ly/1T2ykqM) - May 19 in Charlottetown
+* 
 ###### Cat Herder (organizer) for this month
 * [Michael Easter](http://twitter.com/codetojoy) 
 
 ###### Sponsors (TBA)
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
-* projector rental sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* video equipment loaned by [ScreenScape](http://www.screenscape.com)
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
 
 #### April 2016
