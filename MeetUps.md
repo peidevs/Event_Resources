@@ -32,7 +32,7 @@ A montly entry template, for ease of use:
 ###### Cat Herder (organizer) for this month
 * [Michael Easter](http://twitter.com/codetojoy) 
 
-###### Sponsors (TBA)
+###### Sponsors
 * venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * video equipment loaned by [ScreenScape](http://www.screenscape.com)
