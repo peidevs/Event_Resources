@@ -16,5 +16,5 @@ var ATTENDEE_LIST = [
 "Jordan P",
 "Brandon Banks",
 "Colin Crowther",
-"Maxim Uzun",
+"Maxim Uzun"
 ];
