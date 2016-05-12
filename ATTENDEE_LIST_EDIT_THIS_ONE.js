@@ -4,7 +4,7 @@ var ATTENDEE_LIST = [
 "Corey Weber",
 "Adam LeBlanc",
 "Ross Evans",
-"James O'H",
+"James O",
 "Jingtao Lian",
 "Michael G",
 "Malcolm Hiseman",
