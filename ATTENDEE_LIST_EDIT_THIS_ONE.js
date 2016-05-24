@@ -3,5 +3,6 @@ var ATTENDEE_LIST = [
 "Mike Berger",
 "Andy Black",
 "Chris Mears",
-"Jingtao Lian"
+"Jingtao Lian",
+"Nick Phelan"
 ];
