@@ -1,20 +1,7 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
-"Christian S",
-"Corey Weber",
-"Adam LeBlanc",
-"Ross Evans",
-"James O'H",
-"Jingtao Lian",
-"Michael Gauthier",
-"Malcolm Hiseman",
-"Mike MacKay",
-"Nicholas Phelan",
 "Mike Berger",
-"Christopher VH",
-"Ifo (DA_MAN)",
-"Jordan Patterson",
-"Brandon Banks",
-"Colin Crowther",
-"Maxim Uzun",
+"Andy Black",
+"Chris Mears",
+"Jingtao Lian"
 ];
