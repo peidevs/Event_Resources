@@ -18,6 +18,29 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### June 2016
+
+###### Topics
+* round-table on PEI Devs and what we can do better
+* [Matt Duffy](http://twitter.com/MEDexperience) - TBA
+* [Nolan Phillips](http://twitter.com/ncphi) - JavaScript Part 2 (The Prototype Strikes Back) 
+
+###### Announcements
+* [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
+* past events:
+    * [Maritime Dev Con](http://maritimedevcon.ca) - June 4th in Fredericton
+    * [PyCon](https://us.pycon.org/2016/) - May 28 - June 5 in Portland, OR
+
+###### Cat Herder (organizer) for this month
+* [Sean Whalley](http://twitter.com/seanwhalley21) 
+
+###### Sponsors
+* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+* [Evan Porter](http://twitter.com/evanepio)
+
 #### May 2016
 
 ###### Topics
