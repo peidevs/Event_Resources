@@ -32,7 +32,7 @@ A montly entry template, for ease of use:
 * past events:
     * [Maritime Dev Con](http://maritimedevcon.ca) - June 4 in Fredericton
     * [PyCon](https://us.pycon.org/2016/) - May 28 - June 5 in Portland, OR
-* Scooter 3.0
+* Scooter 3.0 (Codename Gonzo)
 
 ###### Cat Herder (organizer) for this month
 * [Sean Whalley](http://twitter.com/seanwhalley21) 
