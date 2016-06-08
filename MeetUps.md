@@ -26,17 +26,19 @@ A montly entry template, for ease of use:
 * [Nolan Phillips](http://twitter.com/ncphi) - JavaScript Part 2 (The Prototype Strikes Back) 
 
 ###### Announcements
+* Welcome to the Startup Zone
 * [Ladies Learning Code](http://bit.ly/1RVD6kz) - June 14 in Charlottetown
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * past events:
     * [Maritime Dev Con](http://maritimedevcon.ca) - June 4 in Fredericton
     * [PyCon](https://us.pycon.org/2016/) - May 28 - June 5 in Portland, OR
+* Scooter 3.0
 
 ###### Cat Herder (organizer) for this month
 * [Sean Whalley](http://twitter.com/seanwhalley21) 
 
 ###### Sponsors
-* venue sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
+* venue sponsored by Startup Zone (http://www.startupzone.ca/)
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
