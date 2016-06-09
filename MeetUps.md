@@ -23,10 +23,10 @@ A montly entry template, for ease of use:
 ###### Topics
 * round-table on PEI Devs and what we can do better
 * [Matt Duffy](http://twitter.com/MEDexperience) - TBA
-* [Nolan Phillips](http://twitter.com/ncphi) - JavaScript Part 2 (The Prototype Strikes Back) 
+* [Nolan Phillips](http://twitter.com/ncphi) - JavaScript Part 2 
 
 ###### Announcements
-* Welcome to the Startup Zone
+* Welcome to the [Startup Zone](http://www.startupzone.ca/)
 * [Ladies Learning Code](http://bit.ly/1RVD6kz) - June 14 in Charlottetown
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
@@ -39,7 +39,7 @@ A montly entry template, for ease of use:
 * [Sean Whalley](http://twitter.com/seanwhalley21) 
 
 ###### Sponsors
-* venue sponsored by Startup Zone (http://www.startupzone.ca/)
+* venue sponsored by [Startup Zone](http://www.startupzone.ca/)
 * food sponsored by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * ongoing MeetUp subscription by [Binary Star](https://www.linkedin.com/company/binary-star) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
