@@ -29,6 +29,7 @@ A montly entry template, for ease of use:
 * Welcome to the Startup Zone
 * [Ladies Learning Code](http://bit.ly/1RVD6kz) - June 14 in Charlottetown
 * [NE PHP](http://2016.northeastphp.org) - August 4th and 5th in Charlottetown
+* Global Day of Code Retreat - October 22nd TBD
 * past events:
     * [Maritime Dev Con](http://maritimedevcon.ca) - June 4 in Fredericton
     * [PyCon](https://us.pycon.org/2016/) - May 28 - June 5 in Portland, OR
