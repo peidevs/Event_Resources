@@ -9,9 +9,12 @@ var ATTENDEE_LIST = [
 "John K + 1",
 "Maxim Uzun",
 "Andy Black",
-"Mike MacKay",
 "Joshua B",
 "Mike Berger",
 "Ron Myers",
 "Chris Mears",
+"Mark Wright",
+"Onoriode I",
+"James M",
+"Jeremy"
 ];
