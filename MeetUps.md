@@ -35,8 +35,7 @@ A montly entry template, for ease of use:
 
 ###### Sponsors
 * venue sponsored by [Binary Star](http://www.binarystar.biz/)
-* food sponsored by [Binary Star](http://www.binarystar.biz/) 
-* ongoing MeetUp subscription by [Binary Star](http://www.binarystar.biz/) 
+* Cookies sponsored by [Sean Whalley](http://twitter.com/seanwhalley21) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 #### June 2016
