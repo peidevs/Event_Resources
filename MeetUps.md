@@ -18,6 +18,27 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### August 2016
+
+###### Topics
+* Conference Recap
+* [Matt Duffy](http://twitter.com/MEDexperience) and [Michael Easter](http://twitter.com/codetojoy) - from gist to GitHub artifacts
+
+###### Announcements
+* [Ladies Learning Code](https://twitter.com/learningcode) - Launch Event September 24th in Charlottetown
+* Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
+* PEIDevs Website - Looking for people to help
+* Scooter 3.0 (Codename Gonzo) - Putting off until Fall
+
+###### Cat Herder (organizer) for this month
+* [Sean Whalley](http://twitter.com/seanwhalley21) 
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* food sponsored by [Binary Star](http://www.binarystar.biz/) 
+* ongoing MeetUp subscription by [Binary Star](http://www.binarystar.biz/) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+
 #### June 2016
 
 ###### Topics
