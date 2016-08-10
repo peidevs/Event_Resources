@@ -21,7 +21,7 @@ A montly entry template, for ease of use:
 #### August 2016
 
 ###### Topics
-* Conference Recap
+* Conference Recap facilitated by [Evan Porter](http://twitter.com/evanepio)
 * [Matt Duffy](http://twitter.com/MEDexperience) and [Michael Easter](http://twitter.com/codetojoy) - from gist to GitHub artifacts
 
 ###### Announcements
