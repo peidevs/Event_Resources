@@ -7,7 +7,7 @@ As you probably know, our monthly meetings tend to consist of 2 presentations
 per night (with some variations). We are always on the lookout for new 
 material; this doc addresses some common concerns.
 
-For further questions, or to sign-up, contact us at peidevs @ gmail or via the Slack channel.
+For further questions, or to sign-up, please contact us at peidevs @ gmail or via the Slack channel.
 
 #### Why should I give a talk?
 
