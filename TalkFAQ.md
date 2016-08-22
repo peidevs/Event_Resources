@@ -56,7 +56,7 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
     * Give us your A/V requirements (e.g. HDMI/VGA adapter).
     * This is optional for us, but in general: consider having your talk both avilable online and available on your machine (if the network goes down).
     * If you are [shaving yaks](https://en.wiktionary.org/wiki/yak_shaving), just ask us. e.g. If you have code examples on GitHub, and feel pressure to put the code into slides (which can be a lot of work), challenge that assumption. _Is this necessary?_ . (Sometimes speakers jump from slides into an editor to show code.)
-    * Don't worry! There is always some stress in public-speaking, but remember that we are on your side, and truly grateful for your help. It is a fabulous feeling to receive applause at the end of the talk, and to know you made a difference.  
+    * Don't worry! There is always some stress in public-speaking, but remember that we are on your side, and truly grateful for your help. It is a fabulous feeling to receive applause at the end of the talk, and to know you made a difference. [Thanks!](http://bit.ly/2bJykf4) 
 
 
 
