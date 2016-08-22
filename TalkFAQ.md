@@ -39,8 +39,8 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
 #### I'm intimidated. Some speakers set a high bar (for a monthly meetup).
 
 * In 4 years, we've never mocked anyone (unless they enjoy it) and will come down hard on anyone who is disrespectful. We've seen the full spectrum from simple "I've downloaded this SDK and played with it" to highly polished presentations. It's all good. We fully recognize that, to be sustainable, we need to encourage informal presentations.
-* If you are junior level, or English isn't your first language, that's fine. We aren't judging your performance. We just want to geek out! 
-* There are ways to set expectations for the group. If you don't have time for fancy slides then the talk summary may read "in this informal talk, we'll look at X". Or it might read "I'd like to lead a discussion on X, but *I don't have time for fancy slides*".
+* If you are junior level, or English isn't your first language, that's fine. We aren't judging your performance. We are supportive and grateful to have you. We just want to geek out together! 
+* There are ways to set expectations for the group. If you don't have time for fancy slides then the talk summary could read "in this informal talk, we'll look at X". Or it might read "I'd like to lead a discussion on X, but *I don't have time for fancy slides*".
 
 #### My topic, X, is huge. Which parts of it are you interested in?
 
@@ -55,7 +55,7 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
     * Confirm the length of the talk with PEI Devs.
     * Give us your A/V requirements (e.g. HDMI/VGA adapter).
     * This is optional for us, but in general: consider having your talk both avilable online and available on your machine (if the network goes down).
-    * If you are [shaving yaks](https://en.wiktionary.org/wiki/yak_shaving), just ask us. e.g. If you have code examples on GitHub, and feel pressure to put the code into slides (which can be a lot of work), challenge that assumption. _Is this necessary?_ . (Sometimes speakers jump from slides into an editor to show code.)
+    * If you are [shaving yaks](https://en.wiktionary.org/wiki/yak_shaving), just ask us. e.g. If you have code examples on GitHub, and feel pressure to put the code into slides (which can be a lot of work), challenge that assumption. _Is this necessary?_ (Sometimes speakers simply jump from slides into an editor to show code.)
     * Don't worry! There is always some stress in public-speaking, but remember that we are on your side, and truly grateful for your help. It is a fabulous feeling to receive applause at the end of the talk, and to know you made a difference. [Thanks!](http://bit.ly/2bJykf4) 
 
 
