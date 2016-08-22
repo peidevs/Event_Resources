@@ -19,7 +19,17 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
 #### I could talk on X, but I don't know if it applies.
 
 * First, check [our log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) to see the diversity in talks. There's programming languages, hardware, Agile techniques, and a quadcopter demo. We're super-chill and open to almost anything.
+* Note that we're encouraging "beginner level" talks, so "Intro to X" is certainly an option.
 * If still in doubt, *ask us*. We don't bite! We can help shape the talk.
+
+#### Can you give me some example topics?
+
+* _Intro to X_, where X is a language, library, framework, tool, etc. We're open to beginner level talks, so "Intro to HTML 5" is perfectly reasonable.
+* _Top tips for X_. Share lessons learned. 
+* _Review of X_. Have you read a good/classic book? Share your insight with us.
+* _My Home Project_. Do you have a side-project? (e.g. a mobile app) We'd love to hear about it.
+* _Why I Hate X_. Everyone loves a good rant, esp. if it is barbed yet tongue-in-cheek.
+* _Open Forum on X_. When in doubt, become a facilitator and lead a discussion among the group. Sometimes, the best convos come from this.
 
 #### I don't really have a lot of time.
 
@@ -36,6 +46,7 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
 
 * Good question. There is a tension between "intro to X" and "given that we all know X, here are some nuances". Ask the group on Slack, or send us an email, and we'll try to find out. 
 * Consider inverting the question. What are you interested *in telling us*? Is there something cool/terrible that makes you want to stand on a table and shout? That's the good stuff. If the talk presumes prior knowledge of X, then set the expectaions in the summary.
+
 
 #### I've signed-up for a talk. What else should I know?
 
