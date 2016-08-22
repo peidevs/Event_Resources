@@ -14,7 +14,7 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
 * It's a great way to give back to the group. Past speakers, planners, sponsors, etc put a lot of effort into this thing, and we appreciate your help.
 * It's a safe place to practice presentation skills, which yield dividends in your career.
 * If you mention your employer in the intro, it is an advertising plug. The visibility benefits both you and your employer (tell them that you're giving a talk, even if the topic is unrelated).
-* If you are fuzzy on topic X, and sign up for a talk on X, you're forced to learn about it quickly. As they say, _the best way to learn is *to teach*!_
+* If you are fuzzy on topic X, and sign up for a talk on X, you're forced to learn about it quickly. As they say, _the best way to learn is **to teach**!_
 
 #### I could talk on X, but I don't know if it applies.
 
