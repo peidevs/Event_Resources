@@ -28,7 +28,7 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 * (If you'd like to be in the `peidevs` organization, just contact us. You're absolutely invited.)
 * If you'd like to submit a talk idea, create an issue and label it as `Question`.
 * You can do the same if you are interested in topic X, but don't want to give a talk on it. (i.e. so as to encourage others)
-* Vote on talks, ask questions, etc. Participate!
+* Vote on talks, ask questions, etc. Participate! (Note, this is an experiment: if you'd prefer to just shoot us an email, that's fine.)
 
 #### Can you give me some example topics?
 
