@@ -22,6 +22,14 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 * Note that we're encouraging "beginner level" talks, so "Intro to X" is certainly an option.
 * If still in doubt, *ask us*. We don't bite! We can help shape the talk.
 
+#### What's up with the issue-tracking on GitHub?
+
+* To spark dialogue about talks, we're using issues on [this GitHub project](https://github.com/peidevs/Event_Resources/issues).
+* (If you'd like to be in the `peidevs` organization, just contact us. You're absolutely invited.))
+* If you'd like to submit a talk idea, create an issue and label it as `Question`.
+* You can do the same if you are interested in topic X, but don't want to give a talk on it.
+* Vote on talks, ask questions, etc.
+
 #### Can you give me some example topics?
 
 * _Intro to X_, where X is a language, library, framework, tool, etc. We're open to beginner level talks, so "Intro to HTML 5" is perfectly reasonable.
