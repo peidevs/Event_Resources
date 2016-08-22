@@ -34,7 +34,7 @@ For further questions, or to sign-up, contact us at peidevs @ gmail or via the S
 
 #### My topic, X, is huge. Which parts of it are you interested in?
 
-* This is a reasonable question. There is a tension between "intro to X" and "given that we all know X, here are some nuances". Ask the group on Slack, or send us an email, and we'll try to find out. 
+* Good question. There is a tension between "intro to X" and "given that we all know X, here are some nuances". Ask the group on Slack, or send us an email, and we'll try to find out. 
 * Consider inverting the question. What are you interested *in telling us*? Is there something cool/terrible that makes you want to stand on a table and shout? That's the good stuff. If the talk presumes prior knowledge of X, then set the expectaions in the summary.
 
 #### I've signed-up for a talk. What else should I know?
