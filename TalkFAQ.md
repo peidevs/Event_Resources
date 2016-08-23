@@ -12,9 +12,9 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 #### Why should I give a talk?
 
 * It's a great way to give back to the group. Past speakers, planners, sponsors, etc put a lot of effort into this thing, and we need your help to sustain it.
-* It's a safe place to practice presentation skills, which yield dividends in your career.
-* If you mention your employer in the intro, it is an advertising plug. The visibility benefits both you and your employer (tell them that you're giving a talk, even if the topic is unrelated).
-* If you are fuzzy on topic X, and sign up for a talk on X, you're forced to learn about it quickly. As they say, _the best way to learn is **to teach**!_
+* It's a safe place to practice presentation skills, which will yield dividends in your career.
+* If you mention your employer in the intro, it is an advertising plug. The visibility benefits both you and your employer (tell them that you're giving a talk, even if the topic is unrelated to your day gig).
+* If you are fuzzy on topic X, and sign up for a talk on X, you're forced to learn about it quickly. _The best way to learn is **to teach**!_
 
 #### I could talk on X, but I don't know if it applies.
 
@@ -24,9 +24,9 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 
 #### What's up with the issue-tracking on GitHub?
 
-* To spark dialogue about talks, we're using issues on [this GitHub project](https://github.com/peidevs/Event_Resources/issues).
+* In an effort to spark dialogue about talks, we're using issues on [this GitHub project](https://github.com/peidevs/Event_Resources/issues).
 * (If you'd like to be in the `peidevs` organization, just contact us. You're absolutely invited.)
-* If you'd like to submit a talk idea, create an issue and label it as `Question`.
+* To submit a talk idea, create an issue and label it as `Question`.
 * You can do the same if you are interested in topic X, but don't want to give a talk on it. (i.e. so as to encourage others)
 * Vote on talks, ask questions, etc. Participate! (Note, this is an experiment: if you'd prefer to just shoot us an email, that's fine.)
 
@@ -55,7 +55,6 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 * Good question. There is a tension between "intro to X" and "given that we all know X, here are some nuances". Ask the group on Slack, or send us an email, and we'll try to find out. 
 * Consider inverting the question. What are you interested *in telling us*? Is there something cool/terrible that makes you want to stand on a table and shout? That's the good stuff. If the talk presumes prior knowledge of X, then set the expectations in the summary.
 
-
 #### I've signed-up for a talk. What else should I know?
 
 * We want to ensure that no one is surprised. A simple checklist:
@@ -65,6 +64,4 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
     * This is optional for us, but in general: consider having your talk both avilable online and available on your machine (if the network goes down).
     * If you are [shaving yaks](https://en.wiktionary.org/wiki/yak_shaving), just ask us. e.g. If you have code examples on GitHub, and feel pressure to put the code into slides (which can be a lot of work), challenge that assumption. _Is this necessary?_ (Sometimes speakers simply jump from slides into an editor to show code.)
     * Don't worry! There is always some stress in public-speaking, but remember that we are on your side, and truly grateful for your help. It is a fabulous feeling to receive applause at the end of the talk, and to know you made a difference. [Thanks!](http://bit.ly/2bJykf4) 
-
-
 
