@@ -18,6 +18,26 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### September 2016
+
+###### Topics
+* [Sean Whalley](http://twitter.com/seanwhalley21) - 
+* [Michael Easter](http://twitter.com/codetojoy) - 
+
+###### Announcements
+* [Ladies Learning Code](https://twitter.com/learningcode) - Launch Event September 24th in Charlottetown
+* Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
+* PEIDevs Website - Looking for people to help
+* Join our Github Team
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](http://twitter.com/evanepio) 
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* Cookies sponsored by [Sean Whalley](http://twitter.com/seanwhalley21) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+
 #### August 2016
 
 ###### Topics
