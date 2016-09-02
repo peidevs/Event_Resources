@@ -34,8 +34,7 @@ A montly entry template, for ease of use:
 * [Evan Porter](http://twitter.com/evanepio) 
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
-* Cookies sponsored by [Sean Whalley](http://twitter.com/seanwhalley21) 
+* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 #### August 2016
