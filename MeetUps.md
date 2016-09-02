@@ -21,8 +21,8 @@ A montly entry template, for ease of use:
 #### September 2016
 
 ###### Topics
-* [Sean Whalley](http://twitter.com/seanwhalley21) - 
-* [Michael Easter](http://twitter.com/codetojoy) - 
+* [Sean Whalley](http://twitter.com/seanwhalley21) - Deleting Code for Fun and Profit	
+* [Michael Easter](http://twitter.com/codetojoy) - A Random Walk Down Presentation Street
 
 ###### Announcements
 * [Ladies Learning Code](https://twitter.com/learningcode) - Launch Event September 24th in Charlottetown
