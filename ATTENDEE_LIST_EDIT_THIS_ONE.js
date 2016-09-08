@@ -15,7 +15,5 @@ var ATTENDEE_LIST = [
 "Mike M",
 "Jim M",
 "Marie-Eve",
-"Marie-Eve + 1",
-"Timothy S",
-"Timothy + 1"
+"Marie-Eve + 1"
 ];
