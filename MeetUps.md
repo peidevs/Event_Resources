@@ -26,7 +26,7 @@ A montly entry template, for ease of use:
 
 ###### Announcements
 * [Ladies Learning Code](https://twitter.com/learningcode) - Launch Event September 24 in Charlottetown
-* [Open Data Book Club](http://bit.ly/2cBvhp5): presentation by Paul Alan from Elections PEI - September 27
+* [Open Data Book Club](http://bit.ly/2cBvhp5): presentation by Paul Alan from Elections PEI on upcoming plebiscite - September 27
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
 * PEIDevs Website - Looking for people to help
 * Join our Github Team
