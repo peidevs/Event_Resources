@@ -10,6 +10,8 @@ var ATTENDEE_LIST = [
 "Jahanzaib R",
 "Sean M",
 "Michael G",
+"Michael G + 1",
+"Ross E",
 "Nolan P",
 "Mike B",
 "Nimna E",
