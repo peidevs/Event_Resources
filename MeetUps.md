@@ -18,6 +18,23 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+#### October 2016
+
+###### Topics
+* 	
+* 
+
+###### Announcements
+* Beer and Bytes 
+* Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
+
+###### Cat Herder (organizer) for this month
+* 
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+
 #### September 2016
 
 ###### Topics
