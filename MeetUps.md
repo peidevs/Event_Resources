@@ -27,6 +27,7 @@ A montly entry template, for ease of use:
 ###### Announcements
 * Beer and Bytes 
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
+* Recap of LLC Code Day Workshop on Interactive Storytelling and Gamemaking with HTML and CSS.
 
 ###### Cat Herder (organizer) for this month
 * 
