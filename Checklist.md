@@ -2,7 +2,7 @@
 #### 2+ weeks in advance
 
 * obviously, confirm venue, food, speakers, Wifi details
-* Remember, if you are the [Cat Herder](https://en.wikipedia.org/wiki/Herding_cats), feel free to delegate tasks. You don't have to do it all yourself.
+* Remember, if you are the [Cat Herder](https://en.wikipedia.org/wiki/Herding_cats), feel free to delegate tasks. You don't have to do it all yourself. **Thank you** for taking this on!
 * do the speakers know how much time they have to present?
 * do the speakers have appropriate dongles for the projector?
 * do non-regular speakers know they can use a projector, and the # of people in attendance?
