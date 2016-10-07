@@ -21,20 +21,27 @@ A montly entry template, for ease of use:
 #### October 2016
 
 ###### Topics
-* 	
+* 	[Jordan Patterson](https://twitter.com/jtjpatterson) - An introduction to Amazon Web Services using EC2 and RDS
 * 
 
 ###### Announcements
 * Beer and Bytes 
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
 * Recap of LLC Code Day Workshop on Interactive Storytelling and Gamemaking with HTML and CSS.
+* Girls Learning Code - Nov 12 1pm-4pm @ Startupzone. Ages 8-13
+* [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
+
+    Startup Weekend is a 54 hour event, where attendees pitch ideas, form teams and start companies. These events are very community focused and provide a place for budding entrepreneurs to find co-founders, mentors and momentum for their ideas.
+ 
+    The participants that attend have 60 seconds to make a pitch (optional), the pitches are whittled down to the top ideas, and then teams form around the ideas to come out with several developed companies or projects. Finally, the weekend culminates with demonstrations in front of an audience of judges and potential investors.
 
 ###### Cat Herder (organizer) for this month
-* 
+* Mike Berger
 
 ###### Sponsors
 * venue sponsored by [Binary Star](http://www.binarystar.biz/) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
+* Jordan Patterson (Door Prizes)
 
 #### September 2016
 
