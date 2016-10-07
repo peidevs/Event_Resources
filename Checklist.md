@@ -11,7 +11,7 @@
 * do non-regular speakers know they can use a projector, and the # of people in attendance?
 * who is doing the "dev news" / Announcements ? who is covering Twitter / pics?
 * who is handling door prizes? is Scooter list correct?
-* did someone 'announce' via the MeetUp site, and send an email on the day before the event?
+* did someone 'announce' via the MeetUp site (a week in advance), and send an email reminder (day before the event)?
 
 #### Lessons learned
 * Consider using a timer, esp. for lightning talks. A standard technique is to demo a funny alarm, before the talks begin, and tell everyone that we are setting a timer. In this way, no one is offended by being cut off.
