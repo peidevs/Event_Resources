@@ -21,8 +21,8 @@ A montly entry template, for ease of use:
 #### October 2016
 
 ###### Topics
-* 	[Jordan Patterson](https://twitter.com/jtjpatterson) - An introduction to Amazon Web Services using EC2 and RDS
-* 
+* [Jordan Patterson](https://twitter.com/jtjpatterson) - An introduction to Amazon Web Services using EC2 and RDS
+* Ifo Ikede - CI and Github
 
 ###### Announcements
 * Beer and Bytes 
