@@ -28,9 +28,10 @@ A montly entry template, for ease of use:
 * Beer and Bytes 
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
 * Recap of LLC Code Day Workshop on Interactive Storytelling and Gamemaking with HTML and CSS.
-* Open Data Book Club - TBD
+* Open Data Book Club - 10/27 (?) at UPEI
+* LLC PEI documentary screening - 10/27 @ [Startup Zone](http://twitter.com/startupzonepei)
 * November PEI Devs: Tracy Wood, COO with IT Shared Services, Gov't of PEI will present on IT procurement.
-* Girls Learning Code - Nov 12 1pm-4pm @ Startupzone. Ages 8-13
+* Girls Learning Code - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
 * [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
 
     Startup Weekend is a 54 hour event, where attendees pitch ideas, form teams and start companies. These events are very community focused and provide a place for budding entrepreneurs to find co-founders, mentors and momentum for their ideas.
