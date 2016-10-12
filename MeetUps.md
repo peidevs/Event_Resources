@@ -22,12 +22,14 @@ A montly entry template, for ease of use:
 
 ###### Topics
 * [Jordan Patterson](https://twitter.com/jtjpatterson) - An introduction to Amazon Web Services using EC2 and RDS
-* Ifo Ikede - CI and Github
+* [Ifo Ikede](http://twitter.com/Afrohealer) - CI and Github
 
 ###### Announcements
 * Beer and Bytes 
 * Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
 * Recap of LLC Code Day Workshop on Interactive Storytelling and Gamemaking with HTML and CSS.
+* Open Data Book Club - TBD
+* November PEI Devs: Tracy Wood, COO with IT Shared Service, Gov't of PEI will present on IT procurement.
 * Girls Learning Code - Nov 12 1pm-4pm @ Startupzone. Ages 8-13
 * [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
 
