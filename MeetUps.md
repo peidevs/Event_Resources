@@ -31,7 +31,7 @@ A montly entry template, for ease of use:
 * LLC PEI [documentary screening](https://www.eventbrite.ca/e/charlottetown-code-documentary-screening-on-october-27th-at-6pm-tickets-26849926854) - 10/27 @ [Startup Zone](http://twitter.com/startupzonepei)
 * [Open Data Book Club](http://bit.ly/2dXqZvi) - 10/27 at Robertson Library, UPEI. Part of [International Open Access Week](http://www.openaccessweek.org/)
 * November PEI Devs: Tracy Wood, COO with IT Shared Services, Gov't of PEI will present on IT procurement.
-* Girls Learning Code - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
+* [Girls Learning Code](http://ladieslearningcode.com/girlscodeday/2016/) - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
 * [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
 
     Startup Weekend is a 54 hour event, where attendees pitch ideas, form teams and start companies. These events are very community focused and provide a place for budding entrepreneurs to find co-founders, mentors and momentum for their ideas.
