@@ -26,10 +26,10 @@ A montly entry template, for ease of use:
 
 ###### Announcements
 * Beer and Bytes 
-* Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016) TBD
+* Global Day of Code Retreat - [October 22nd](http://coderetreat.org/profiles/blogs/announcing-global-day-of-coderetreat-2016), venue TBD
 * Recap of LLC Code Day Workshop on Interactive Storytelling and Gamemaking with HTML and CSS.
-* Open Data Book Club - 10/27 (?) at UPEI
-* LLC PEI documentary screening - 10/27 @ [Startup Zone](http://twitter.com/startupzonepei)
+* LLC PEI [documentary screening](https://www.eventbrite.ca/e/charlottetown-code-documentary-screening-on-october-27th-at-6pm-tickets-26849926854) - 10/27 @ [Startup Zone](http://twitter.com/startupzonepei)
+* [Open Data Book Club](http://bit.ly/2dXqZvi) - 10/27 at Robertson Library, UPEI. Part of [International Open Access Week](http://www.openaccessweek.org/)
 * November PEI Devs: Tracy Wood, COO with IT Shared Services, Gov't of PEI will present on IT procurement.
 * Girls Learning Code - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
 * [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
