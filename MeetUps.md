@@ -18,6 +18,8 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
+# http://peidevs.github.io
+
 #### October 2016
 
 ###### Topics
