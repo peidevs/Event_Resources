@@ -18,7 +18,7 @@ A montly entry template, for ease of use:
 ##### Sponsors
 * x sponsored by [sponsor](promo)
 -->
-# http://peidevs.github.io
+<center>peidevs.github.io</center>
 
 #### October 2016
 
