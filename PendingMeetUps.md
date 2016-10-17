@@ -1,7 +1,6 @@
 
 #### November 2016
 
-###### Topics
 * cat-herder is Michael Easter
 * venue is Startup Zone
 * speaker 1: Tracy Wood on IT procurement
@@ -9,13 +8,11 @@
 
 #### January 2016
 
-###### Topics
-* Jim Murphy on AWS or DevOps (not confirmed) 
-* Ross Evans on machine learning (not confirmed... could be February instead)
+* speaker 1: Jim Murphy on AWS or DevOps (not confirmed) 
+* speaker 2: Ross Evans on machine learning (not confirmed... could be February instead)
 
 #### February 2016
 
-###### Topics
 * TBD
 
 #### Misc
