@@ -10,7 +10,7 @@
 
 ###### Topics
 * Jim Murphy on AWS or DevOps (not confirmed) 
-* Ross Evans on machine learning (not confirmed)
+* Ross Evans on machine learning (not confirmed... could be February instead)
 
 #### February 2016
 
