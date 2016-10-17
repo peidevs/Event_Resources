@@ -2,7 +2,9 @@
 #### before booking speakers
 
 * Ask other elders if there any committed speakers for the upcoming month. We have a history of getting wires crossed when Cat Herder A takes over for Cat Herder B.
-* Also check the Google Doc spreadsheet `Event Schedule` and the GitHub issues for `Event_Resources`
+* check the following:
+    * [PendingMeetUps.md](https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md)
+    * [GitHub Issues](https://github.com/peidevs/Event_Resources/issues)
 
 #### 2+ weeks in advance
 
