@@ -20,6 +20,25 @@ A montly entry template, for ease of use:
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2016
+
+###### Topics
+* TBA
+* TBA
+
+###### Announcements
+* Global Day of Code Retreat - recap
+* [Girls Learning Code](http://ladieslearningcode.com/girlscodeday/2016/) - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
+* [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
+    * Startup Weekend is a 54 hour event, where attendees pitch ideas, form teams and start companies. These events are very community focused and provide a place for budding entrepreneurs to find co-founders, mentors and momentum for their ideas.
+    * The participants that attend have 60 seconds to make a pitch (optional), the pitches are whittled down to the top ideas, and then teams form around the ideas to come out with several developed companies or projects. Finally, the weekend culminates with demonstrations in front of an audience of judges and potential investors.
+
+###### Cat Herder (organizer) for this month
+* [Michael Easter](http://twitter.com/codetojoy)
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
+
 #### October 2016
 
 ###### Topics
