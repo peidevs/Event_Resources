@@ -18,4 +18,5 @@
 #### Misc
 
 * ping Ron M or Christian S about TypeScript talk
+* TODO: ping Suhaib to touch base about his talk that was bumped from November
 
