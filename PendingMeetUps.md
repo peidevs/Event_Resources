@@ -18,5 +18,5 @@
 #### Misc
 
 * ping Ron M or Christian S about TypeScript talk
-* TODO: ping Suhaib to touch base about his talk that was bumped from November
+* TODO: ping Suhaib to touch base about his talk that was bumped from November. He is based in Nova Scotia and did a JavaScript workshop that was a hit. He'll need lead-time before coming to PEI. He works with Dustin and Binary Star.
 
