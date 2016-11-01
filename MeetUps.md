@@ -37,7 +37,8 @@ A montly entry template, for ease of use:
 * [Michael Easter](http://twitter.com/codetojoy)
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
+* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
 
 #### October 2016
 
