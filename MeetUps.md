@@ -24,7 +24,7 @@ A montly entry template, for ease of use:
 
 ###### Topics
 * TBA
-* TBA
+* Kody D on [Web Experience Toolkit](https://wet-boew.github.io/v4.0-ci/index-en.html)
 
 ###### Announcements
 * Global Day of Code Retreat - recap
