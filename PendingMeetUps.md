@@ -8,15 +8,16 @@
 
 #### January 2016
 
-* speaker 1: Jim Murphy on AWS or DevOps (not confirmed) 
-* speaker 2: Ross Evans on machine learning (not confirmed... could be February instead)
+* cat-herder is TBD
+* workshop with Suhaib Qaiser on Angular JS (confirmed)
 
 #### February 2016
 
-* TBD
+* cat-herder is TBD
+* speaker 1: Jim Murphy on AWS or DevOps (not confirmed) 
+* speaker 2: Ross Evans on machine learning (not confirmed)
 
 #### Misc
 
 * ping Ron M or Christian S about TypeScript talk
-* TODO: ping Suhaib to touch base about his talk that was bumped from November. He is based in Nova Scotia and did a JavaScript workshop that was a hit. He'll need lead-time before coming to PEI. He works with Dustin and Binary Star.
 
