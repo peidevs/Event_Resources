@@ -9,7 +9,7 @@
 #### January 2017
 
 * cat-herder is TBD
-* workshop with Suhaib Qaiser on Angular JS (confirmed)
+* workshop with Suhaib Qaiser on Angular JS (confirmed). Style similar to [this event](http://shiftkeylabs.ca/calendar/build-minesweeper-with-angularjs/)
 
 #### February 2017
 
