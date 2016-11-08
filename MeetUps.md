@@ -23,15 +23,16 @@ A montly entry template, for ease of use:
 #### November 2016
 
 ###### Topics
-* TBA
+* Tracy Wood, COO ITSS, Gov't of PEI, on ITSS/IT procurement
 * Kody D on [Web Experience Toolkit](https://wet-boew.github.io/v4.0-ci/index-en.html)
 
 ###### Announcements
 * Global Day of Code Retreat - recap
-* [Girls Learning Code](http://ladieslearningcode.com/girlscodeday/2016/) - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
+* National 'Girls Learning Code' Day: [Game-Making with Scratch](https://www.eventbrite.ca/e/charlottetown-national-girls-learning-code-day-game-making-with-scratch-girls-ages-8-13-parent-on-tickets-28054810694) - Nov 12 1pm-4pm @ [Startup Zone](https://twitter.com/startupzonepei). Ages 8-13
 * [Startup Weekend](http://pei.up.co/events/9854) - Nov 18-20
     * Startup Weekend is a 54 hour event, where attendees pitch ideas, form teams and start companies. These events are very community focused and provide a place for budding entrepreneurs to find co-founders, mentors and momentum for their ideas.
     * The participants that attend have 60 seconds to make a pitch (optional), the pitches are whittled down to the top ideas, and then teams form around the ideas to come out with several developed companies or projects. Finally, the weekend culminates with demonstrations in front of an audience of judges and potential investors.
+* PEI [Open Data Book Club](http://www.meetup.com/Open-Data-PEI/events/235416807/) - Nov 22
 * PEI Devs December Social
 * PEI Devs meetups booked for Jan, Feb 2017
 
@@ -41,6 +42,7 @@ A montly entry template, for ease of use:
 ###### Sponsors
 * venue sponsored by [Binary Star](http://www.binarystar.biz/)
 * A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
+* door prize by [ScreenScape Networks](http://screenscape.com)
 
 #### October 2016
 
