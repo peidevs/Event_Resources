@@ -23,7 +23,7 @@ A montly entry template, for ease of use:
 #### November 2016
 
 ###### Topics
-* Tracy Wood, COO ITSS, Gov't of PEI, on ITSS/IT procurement
+* Tracy Wood, Chief Operating Officer IT Shared Services, Gov't of PEI, on ITSS/IT procurement
 * Kody D on [Web Experience Toolkit](https://wet-boew.github.io/v4.0-ci/index-en.html)
 
 ###### Announcements
