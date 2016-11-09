@@ -43,6 +43,7 @@ A montly entry template, for ease of use:
 * venue sponsored by [Binary Star](http://www.binarystar.biz/)
 * A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
 * door prize by [ScreenScape Networks](http://screenscape.com)
+* [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 #### October 2016
 
