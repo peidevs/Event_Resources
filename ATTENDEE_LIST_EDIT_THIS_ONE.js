@@ -17,6 +17,5 @@ var ATTENDEE_LIST = [
 "Ryan M",
 "Jordan P",
 "Neil M",
-"Steve",
 "Jim M"
 ];
