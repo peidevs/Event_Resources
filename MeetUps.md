@@ -1,22 +1,8 @@
-
 <!---
-Let's treat this file as a changelog of sorts, and just place new stuff
-at the top of the file, and keep old stuff.
+Update as appropriate for each MeetUp.
 
-A montly entry template, for ease of use:
-#### Month
-
-##### Topics
-* [speaker](bio) on [topic](reference)
-
-##### Announcements
-* Announcement 1
-
-###### Cat Herder (organizer) for this month
-* [name]
-
-##### Sponsors
-* x sponsored by [sponsor](promo)
+************* SEE PENDING MEETUP INFO HERE:
+see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
