@@ -1,10 +1,7 @@
 
-#### November 2016
+#### December 2016
 
-* cat-herder is Michael Easter
-* venue is Startup Zone
-* speaker 1: Tracy Wood on IT procurement
-* speaker 2: Kody D on Web Toolkit
+* N/A ... social
 
 #### January 2017
 
