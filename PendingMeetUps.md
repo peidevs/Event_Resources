@@ -22,4 +22,5 @@
 #### Misc
 
 * ping Ron M or Christian S about TypeScript talk
+* ping Michael E about Jenkins 2/Pipeline-as-code talk
 
