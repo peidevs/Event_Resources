@@ -6,6 +6,20 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### January 2017
+
+###### Topics
+* [Suhaib Qaiser](https://twitter.com/suhaibqaiser) facilitates [coding workshop](https://www.meetup.com/PEI-Developers/events/232998004/) on Angular JS
+
+###### Announcements
+* PEI Devs: Open Data Day Hackathon, March 4, 2017
+
+###### Cat Herder (organizer) for this month
+* [Michael Easter](http://twitter.com/codetojoy)
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+
 #### November 2016
 
 ###### Topics
