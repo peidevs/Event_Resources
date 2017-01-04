@@ -1,11 +1,7 @@
 
-#### December 2016
-
-* N/A ... social
-
 #### January 2017
 
-* cat-herder is TBD
+* cat-herder is Michael Easter
 * workshop with Suhaib Qaiser on Angular JS (confirmed). Style similar to [this event](http://shiftkeylabs.ca/calendar/build-minesweeper-with-angularjs/)
 
 #### February 2017
