@@ -7,7 +7,7 @@
 #### February 2017
 
 * cat-herder is TBD
-* speaker 1: Jim Murphy on AWS or DevOps (confirmed) 
+* speaker 1: Jim Murphy on AWS or DevOps (confirmed in JAN 2017) 
 * speaker 2: Ross Evans on machine learning (confirmed)
 
 #### March 2017
