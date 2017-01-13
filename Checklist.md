@@ -39,5 +39,10 @@
 * for long events (e.g. hackathons), be sure to vacate the premises on time. The security staff get upset if we linger around.
 * Some elders have registered the notion that the name "hackathon" does not encourage gender-diversity
 
+#### Lessons learned for coding workshops
+* All material must be available on the web prior to the event, for reference, and to reduce reliance on projector display
+* For remote facilitators, prefer Google Hangout over Skype
+* For remote facilitators, plan to have helpers on the floor in the local venue
+
 #### Older stuff
 * who prints the "Hello my name is ..." labels? 
