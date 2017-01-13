@@ -19,6 +19,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
 
 #### November 2016
 
