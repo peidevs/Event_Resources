@@ -6,6 +6,21 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### February 2017
+
+###### Topics
+* Jim Murphy - Dev Ops or AWS
+* Ross Evans - Machine Learning
+
+###### Announcements
+* [Open Data Day Hackathon, March 4, 2017](http://peidevs.github.io/OpenDataBookClub/2017/02/04/Hackathon-and-Open-Data-Workshop.html) 
+
+###### Cat Herder (organizer) for this month
+* [Nolan Phillips](http://twitter.com/ncphi)
+
+###### Sponsors
+* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+
 #### January 2017
 
 ###### Topics
