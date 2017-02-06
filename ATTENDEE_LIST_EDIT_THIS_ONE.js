@@ -1,13 +1,22 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
-"Bob S",
-"Terry S",
-"Ron M",
-"Jeremy",
-"Mike M",
-"Josh B",
-"Evan P",
 "Kody D",
-"Andy B",
-"Mike B"
+"Jarred K",
+"Abel",
+"Saleh A",
+"BJ M",
+"Ron M",
+"Paul M",
+"Mike M",
+"Brent M",
+"Philip P",
+"Ross E",
+"Jim M",
+"Mark S",
+"Ryan M",
+"Christopher VH",
+"Jordan P",
+"Jeremy N",
+"Roy K",
+"Meric A"
 ];
