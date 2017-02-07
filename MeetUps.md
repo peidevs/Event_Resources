@@ -14,6 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Announcements
 * [Open Data Day Hackathon, March 4, 2017](http://peidevs.github.io/OpenDataBookClub/2017/02/04/Hackathon-and-Open-Data-Workshop.html) 
+* Northeast PHP - [Open Call For Papers](http://cfp.northeastphp.org/) (Deadline April 15) 
 
 ###### Cat Herder (organizer) for this month
 * [Nolan Phillips](http://twitter.com/ncphi)
