@@ -1,5 +1,6 @@
 // auto-generated from NAMES.txt
 var ATTENDEE_LIST = [
+"Nimna E",
 "Kody D",
 "Jarred K",
 "Abel",
@@ -8,9 +9,9 @@ var ATTENDEE_LIST = [
 "Ron M",
 "Paul M",
 "Mike M",
-"Brent M",
 "Philip P",
 "Ross E",
+"Ross E + 1",
 "Jim M",
 "Mark S",
 "Ryan M",
