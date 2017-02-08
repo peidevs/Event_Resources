@@ -15,6 +15,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Announcements
 * [Open Data Day Hackathon, March 4, 2017](http://peidevs.github.io/OpenDataBookClub/2017/02/04/Hackathon-and-Open-Data-Workshop.html) 
 * Northeast PHP - [Call For Papers](http://cfp.northeastphp.org/) (Deadline April 15) 
+* PEI Devs Book Club
+   * Book: [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=as_li_ss_tl?ie=UTF8&qid=1484878293&sr=8-1&keywords=the+five+dysfunctions+of+a+team&linkCode=ll1&tag=jbrains.ca-20&linkId=583328be7a21bfd386d296f0dcd4270a)
+   * Date: 7PM Thursday, February 16, 2017, 
+   * Location: Joe Rainsberger's Home in Summerside
 
 ###### Cat Herder (organizer) for this month
 * [Nolan Phillips](http://twitter.com/ncphi)
