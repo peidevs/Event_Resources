@@ -1,4 +1,4 @@
-February 9th 2017
+March
 
 - cat-herder: Nolan
 - speaker 1: Jim Murphy on AWS or DevOps (confirmed in JAN 2017) 
@@ -10,7 +10,7 @@ February 9th 2017
   1. AWS Certification Study Guide – https://www.amazon.com/dp/1119138558
   1. Echo Dot (2nd Gen) – https://www.amazon.com/dp/B01DFKC2SO/ref=ods_xs_dp_oop
 
-March 2017
+April 2017
 
 - cat-herder: Nolan
 - speaker 1: Jordan Patterson on Docker (confirmed) 
@@ -18,18 +18,10 @@ March 2017
 - venue:
 - food: 
 
-April 2017
-
-- cat-herder: Nolan
-- speaker 1:
-- speaker 2:
-- venue:
-- food: 
-
 May 2017
 
 - cat-herder: Michael Gauthier
-- speaker 1:
+- speaker 1: Ron Myers on Migrating to Component, Typescript, Async/Await
 - speaker 2:
 - venue:
 - food: 
