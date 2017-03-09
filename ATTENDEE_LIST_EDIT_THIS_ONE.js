@@ -15,5 +15,7 @@ var ATTENDEE_LIST = [
 'Jeremy N',
 'Matthew McC',
 'Jim M',
-'Jordan P'
+'Jordan P',
+'Ross E',
+'RossE+1 (Sam)'
 ];
