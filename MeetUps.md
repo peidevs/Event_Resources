@@ -6,7 +6,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
-#### February 2017
+#### March 2017
 
 ###### Topics
 * Jim Murphy - Dev Ops or AWS
