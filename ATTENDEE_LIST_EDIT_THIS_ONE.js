@@ -4,7 +4,7 @@ var ATTENDEE_LIST = [
 'Sean M',
 'Mike M',
 'Paul M',
-'Gervais deM'
+'Gervais deM',
 'Nimna E',
 'Bipin S',
 'Brent M',
