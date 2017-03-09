@@ -3,6 +3,7 @@ var ATTENDEE_LIST = [
 'Jarred K',
 'Sean M',
 'Mike M',
+  /*
 'Paul M',
 'Gervais deM',
 'Nimna E',
@@ -18,5 +19,6 @@ var ATTENDEE_LIST = [
 'Jim M',
 'Jordan P',
 'Ross E',
+*/
 'RossE+1 (Sam)'
 ];
