@@ -1,4 +1,5 @@
-// auto-generated from NAMES.txt
+
+var NUM_ATTENDEES = 30;
 
 function generateNumericList(n) {
   var list = [];
@@ -10,5 +11,4 @@ function generateNumericList(n) {
   return list;
 }
 
-var NUM_ATTENDEES = 30;
 var ATTENDEE_LIST = generateNumericList(NUM_ATTENDEES);
