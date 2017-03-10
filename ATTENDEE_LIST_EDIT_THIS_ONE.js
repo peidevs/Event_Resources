@@ -1,26 +1,13 @@
 // auto-generated from NAMES.txt
-var ATTENDEE_LIST = [
-'Jarred K',
-'Sean M',
-'Mike M',
-'Paul M',
-'Gervais deM',
-'Nimna E',
-'Bipin S',
-'Brent M',
-'Paul',
-'Christopher VH',
-'Philip P',
-'Pratik',
-'roy k',
-'Jeremy N',
-'Matthew McC',
-'Jim M',
-'Jordan P',
-'Ross E',
-'RossE+1 (Sam)',
-'Ron M',
-'Ron M + 1',
-'Guest 1',
-'Guest 2'
-];
+
+function generateNumericList(n) {
+  var list = [];
+  
+  for (int i = 1; i <= n; i++) {
+    list.push(i);
+  }
+  
+  return list;
+}
+
+var ATTENDEE_LIST = generateNumericList(30);
