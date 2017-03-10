@@ -10,4 +10,5 @@ function generateNumericList(n) {
   return list;
 }
 
-var ATTENDEE_LIST = generateNumericList(30);
+var NUM_ATTENDEES = 30;
+var ATTENDEE_LIST = generateNumericList(NUM_ATTENDEES);
