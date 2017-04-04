@@ -2,7 +2,7 @@ April 2017
 
 - cat-herder: Nolan
 - speaker 1: Jordan Patterson on Docker (confirmed) 
-- speaker 2:
+- speaker 2: Evan Porter on Django
 - venue: Startup Zone
 - food: 
 - announcements:
@@ -14,7 +14,7 @@ May 2017
 
 - cat-herder: Michael Gauthier
 - speaker 1: Ron Myers on Migrating to Component, Typescript, Async/Await
-- speaker 2:
+- speaker 2: Matt on Lessons from a recovering asshole
 - venue:
 - food: 
 
