@@ -21,7 +21,7 @@ May 2017
 June 2017
 
 - cat-herder: Michael Gauthier
-- speaker 1: Ricardo Angel, Data Acquisition Appliance (Raspberry Pi project with Python) ... pending approval
+- speaker 1: Ricardo Angel, Data Acquisition Appliance (Raspberry Pi project with Python) 
 - speaker 2:
 - venue:
 - food: 
