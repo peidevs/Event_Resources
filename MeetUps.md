@@ -27,6 +27,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* O'Reilly Media
 
 #### March 2017
 
