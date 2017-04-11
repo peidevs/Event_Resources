@@ -13,13 +13,15 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * speaker 2: Evan Porter on Django
 
 ###### Announcements
-* Northeast PHP - [Call For Papers](http://cfp.northeastphp.org/) (Deadline April 15) 
+* [Northeast PHP - Call For Papers & Early Bird Tickets](http://cfp.northeastphp.org/) (Deadline April 15) 
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
 * PEI Devs Book Club
    * Book: [Becoming a Technical Leader](https://www.amazon.ca/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=sr_1_1?ie=UTF8&qid=1491910107&sr=8-1&keywords=becoming+a+technical+leader)
    * Date: 7PM Thursday, April 27, 2017, 
    * Location: Joe Rainsberger's Home in Summerside
-* Many companies hiring: Check the Jobs channel in slack
+* Many companies hiring:
+  * Forestry.io is hiring a developer.
+* Meeting of the Elders next week, contact Sean Whalley with anything you want discussed.
 
 
 ###### Cat Herder (organizer) for this month
