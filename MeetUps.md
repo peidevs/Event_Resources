@@ -23,6 +23,11 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
   * Forestry.io is hiring a developer.
 * Meeting of the Elders next week, contact Sean Whalley with anything you want discussed.
 
+###### Sponsors
+* Binary Star
+* Maximus
+* O'Reilly Media
+* JetBrains
 
 ###### Cat Herder (organizer) for this month
 * [Nolan Phillips](http://twitter.com/ncphi)
