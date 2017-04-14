@@ -28,6 +28,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Maximus
 * O'Reilly Media
 * JetBrains
+* Michael Easter
 
 ###### Cat Herder (organizer) for this month
 * [Nolan Phillips](http://twitter.com/ncphi)
