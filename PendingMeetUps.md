@@ -36,5 +36,6 @@ July 2017
 
 Misc
 
+- Jordan P has offered to do a 2nd Docker talk whenever ([see thread](https://github.com/peidevs/Event_Resources/issues/31))
 - ping Ron M or Christian S about TypeScript talk
 - ping Michael E about Jenkins 2/Pipeline-as-code talk
