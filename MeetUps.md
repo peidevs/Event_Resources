@@ -6,11 +6,30 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### May 2017
+
+###### Topics
+* speaker 1: [Ron Myers](https://twitter.com/RonKMyers) on async/await in TypeScript
+* speaker 2: [Matt Duffy](https://twitter.com/MEDexperience) on leadership
+
+###### Announcements
+* [Maritime DevCon](https://maritimedevcon.ca/) June 3, Fredericton NB
+* [Northeast PHP](http://2017.northeastphp.org/) (Deadline April 15) August 9-11, Charlottetown
+* [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+
+###### Sponsors
+* Binary Star
+* O'Reilly Media
+* JetBrains
+
+###### Cat Herder (organizer) for this month
+* [Michael Gauthier](http://twitter.com/hypertextmike)
+
 #### April 2017
 
 ###### Topics
-* speaker 1: Jordan Patterson on Docker
-* speaker 2: Evan Porter on Django
+* speaker 1: [Jordan Patterson](https://twitter.com/jtjpatterson) on Docker
+* speaker 2: [Evan Porter](https://twitter.com/evanepio) on Django
 
 ###### Announcements
 * [Northeast PHP - Call For Papers & Early Bird Tickets](http://cfp.northeastphp.org/) (Deadline April 15) 
