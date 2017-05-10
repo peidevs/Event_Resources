@@ -13,6 +13,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * speaker 2: [Matt Duffy](https://twitter.com/MEDexperience) on effective team leadership
 
 ###### Announcements
+* New PEIDevs website
+* PEIDevs meeting and code-of-conduct
 * [Maritime DevCon](https://maritimedevcon.ca/) June 3, Fredericton NB
 * [Northeast PHP](http://2017.northeastphp.org/) (Deadline April 15) August 9-11, Charlottetown
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
