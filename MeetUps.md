@@ -10,7 +10,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Topics
 * speaker 1: [Ron Myers](https://twitter.com/RonKMyers) on async/await in TypeScript
-* speaker 2: [Matt Duffy](https://twitter.com/MEDexperience) on leadership
+* speaker 2: [Matt Duffy](https://twitter.com/MEDexperience) on effective team leadership
 
 ###### Announcements
 * [Maritime DevCon](https://maritimedevcon.ca/) June 3, Fredericton NB
