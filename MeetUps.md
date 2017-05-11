@@ -23,6 +23,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Binary Star
 * O'Reilly Media
 * JetBrains
+* [Michael Easter](https://twitter.com/codetojoy)
 
 ###### Cat Herder (organizer) for this month
 * [Michael Gauthier](http://twitter.com/hypertextmike)
