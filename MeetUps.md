@@ -16,7 +16,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * New PEIDevs website
 * PEIDevs meeting and code-of-conduct
 * [Maritime DevCon](https://maritimedevcon.ca/) June 3, Fredericton NB
-* [Northeast PHP](http://2017.northeastphp.org/) (Deadline April 15) August 9-11, Charlottetown
+* [Northeast PHP](http://2017.northeastphp.org/) August 9-11, Charlottetown
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
 
 ###### Sponsors
