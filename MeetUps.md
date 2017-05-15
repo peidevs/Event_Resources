@@ -203,7 +203,7 @@ CANCELED DUE TO WEATHER
 
 ###### Topics
 * round-table on PEI Devs and what we can do better
-* [Matt Duffy](http://twitter.com/MEDexperience) - TBA
+* [Matt Duffy](http://twitter.com/MEDexperience) - Pain-Driven Development
 * [Nolan Phillips](http://twitter.com/ncphi) - JavaScript Part 2 
 
 ###### Announcements
@@ -229,7 +229,7 @@ CANCELED DUE TO WEATHER
 #### May 2016
 
 ###### Topics
-* [Matt Duffy](http://twitter.com/MEDexperience) - TBA
+* [Matt Duffy](http://twitter.com/MEDexperience) - Running with Numbers: Math and Metrics for Software
 * Recommended Resources / Show and Tell
 
 ###### Announcements
