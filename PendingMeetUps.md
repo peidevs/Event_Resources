@@ -18,3 +18,4 @@ July 2017
 Misc
 
 - Jordan P has offered to do a 2nd Docker talk whenever ([see thread](https://github.com/peidevs/Event_Resources/issues/31))
+- Michael E offers to do Java 9 modules at some point ([see thread](https://github.com/peidevs/Event_Resources/issues/55))
