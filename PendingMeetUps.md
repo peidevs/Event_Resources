@@ -3,8 +3,8 @@ June 2017
 
 - cat-herder: Michael Gauthier
 - speaker 1: Ricardo Angel, Data Acquisition Appliance (Raspberry Pi project with Python) 
-- speaker 2:
-- venue:
+- speaker 2: Jordan Patterson, Docker Composer
+- venue: Startup Zone
 - food: 
 
 July 2017
