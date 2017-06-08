@@ -9,8 +9,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### June 2017
 
 ###### Topics
-* speaker 1: Ricardo Angel on Raspberry Pi
-* speaker 2: Jordan Patterson on Docker part 2
+* speaker 1: [Ricardo Angel](https://twitter.com/adviceontech) on Raspberry Pi
+* speaker 2: [Jordan Patterson](https://twitter.com/jtjpatterson) on Docker, Docker Compose
 
 ###### Announcements
 * [Maritime DevCon](https://maritimedevcon.ca/) recap
@@ -31,7 +31,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Cat Herder (organizer) for this month
 * [Michael Gauthier](http://twitter.com/hypertextmike)
-
 
 #### May 2017
 
