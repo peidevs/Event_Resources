@@ -6,6 +6,31 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### June 2017
+
+###### Topics
+* speaker 1: Ricardo Angel on Raspberry Pi
+* speaker 2: Jordan Patterson on Docker 2
+
+###### Announcements
+* [Maritime DevCon](https://maritimedevcon.ca/) recap
+* UPEI Embedded Devices course offered again in Fall 2017
+* [New PEIDevs website](https://peidevs.github.io/homepageBeta/)
+* [Northeast PHP](http://2017.northeastphp.org/) August 9-11, Charlottetown
+* [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+* Logos! We need your opinion. 🚲
+* PEIDevs meeting and code-of-conduct. When ready it will be posted to Slack.
+
+###### Sponsors
+* Binary Star
+* O'Reilly Media
+* JetBrains
+* Matt Duffy
+
+###### Cat Herder (organizer) for this month
+* [Michael Gauthier](http://twitter.com/hypertextmike)
+
+
 #### May 2017
 
 ###### Topics
