@@ -2,10 +2,15 @@
 July 2017
 
 - cat-herder: Michael Gauthier
-- speaker 1:
+- Summer Social
+
+August 2017
+
+- cat-herder: Evan Porter
+- speaker 1: Michael Easter
 - speaker 2:
-- venue:
-- food: 
+- venue: Startup Zone (need to confirm)
+- food: likely veggie/fruit tray(s)
 
 ### Misc
 
