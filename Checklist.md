@@ -1,7 +1,7 @@
 
 #### recurring tasks
 
-* Please check the peidevs email account on a regular basis (every 7-10 days or so)
+* Please check the peidevs email account on a regular basis (every 7-10 days or so). Or delegate by requesting elder volunteers per month, etc.
 
 #### before booking speakers
 
