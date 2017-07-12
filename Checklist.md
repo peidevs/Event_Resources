@@ -1,4 +1,8 @@
 
+#### repeating tasks
+
+* Please check the peidevs email account on a regular basis (every 7-10 days or so)
+
 #### before booking speakers
 
 * Ask other elders if there any committed speakers for the upcoming month. We have a history of getting wires crossed when Cat Herder A takes over for Cat Herder B.
