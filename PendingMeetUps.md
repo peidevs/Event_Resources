@@ -1,7 +1,15 @@
-September 2017
+# September 2017
 
 - cat-herder: Evan Porter
 - speaker 1: Michael Easter - Java 9 Modules ([see thread](https://github.com/peidevs/Event_Resources/issues/55)).
+- speaker 2:
+- venue: Startup Zone (need to confirm)
+- food: likely veggie/fruit tray(s)
+
+# October 2017
+
+- cat-herder: Evan Porter
+- speaker 1: Jordan Patterson - Docker
 - speaker 2:
 - venue: Startup Zone (need to confirm)
 - food: likely veggie/fruit tray(s)
