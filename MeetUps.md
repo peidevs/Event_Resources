@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### September 2017
+
+###### Topics
+* speaker 1: Michael Easter on "Moonshine on the Subway: An Intro To Java 9 Modules"
+* Group discussion on ergonomics
+
+###### Announcements
+* [Northeast PHP](http://2017.northeastphp.org/) Recap
+* PEI Devs new Code of Conduct
+* Logos! we haven't posted this to Slack yet
+* [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+
+###### Sponsors
+* TBA
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
 #### June 2017
 
 ###### Topics
