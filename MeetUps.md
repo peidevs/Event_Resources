@@ -9,8 +9,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### September 2017
 
 ###### Topics
-* speaker 1: Michael Easter on "Moonshine on the Subway: An Intro To Java 9 Modules"
-* Group discussion on ergonomics
+* speaker 1: [Michael Easter](https://twitter.com/codetojoy) on "Moonshine on the Subway: An Intro To Java 9 Modules"
+* speaker 2: Sean Whalley will lead a group discussion on ergonomics
 
 ###### Announcements
 * [Northeast PHP](http://2017.northeastphp.org/) Recap
