@@ -15,8 +15,11 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Announcements
 * [Northeast PHP](http://2017.northeastphp.org/) Recap
 * PEI Devs new Code of Conduct
-* Logos! we haven't posted this to Slack yet
+* PEI Devs new site officially launched ([Link](http://peidevs.github.io/))
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+* Annual Renewal of Startup Zone
+   * Thanks to new sponsors [Silver Orange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
+   * As well as Binary Star for continued sponsorship
 
 ###### Sponsors
 * [Binary Star](http://www.binarystar.biz) - venue
