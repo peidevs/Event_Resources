@@ -19,7 +19,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
 
 ###### Sponsors
-* TBA
+* [Binary Star](http://www.binarystar.biz) - venue
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
