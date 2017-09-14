@@ -17,6 +17,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * PEI Devs new Code of Conduct
 * PEI Devs new site officially launched ([Link](http://peidevs.github.io/))
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+* The Robotics Club (part of Engineers PEI)is planning a scratch programming day in either November or December and are looking for volunteers (email peirobots at gmail dot com)
 * Annual Renewal of Startup Zone
    * Thanks to new sponsors [Silver Orange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
    * As well as Binary Star for continued sponsorship
