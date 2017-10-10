@@ -6,6 +6,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### October 2017
+
+###### Topics
+* speaker 1: [Chris Macrae](https://twitter.com/chrisdmacrae) on "The Modern Website"
+* speaker 2: [Jordan Patterson](https://twitter.com/jtjpatterson) "Showing us Some Stuff With Docker"
+
+###### Announcements
+* [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+* The Robotics Club (part of Engineers PEI) is planning a Scratch Programming Day in either November or December and are looking for volunteers (email peirobots at gmail dot com)
+* Annual Renewal of Startup Zone
+   * Thanks to new sponsors [Silver Orange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
+   * As well as Binary Star for continued sponsorship
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](https://www.binarystar.biz) 
+* [Silveer Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
 #### September 2017
 
 ###### Topics
