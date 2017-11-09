@@ -6,6 +6,32 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2017
+
+###### Recruitment and Hiring Panel
+
+Panelists:
+
+* Dustin Sparks from [Binary Star](http://www.binarystar.ca/)
+* Jordan Patterson from [Forestry.io](https://forestry.io/)
+* Michael Gauthier from [Silver Orange](https://www.silverorange.com/)
+* Ian Morse from [ScreenScape](https://www.screenscape.com/)
+* Patrick Charles from [MAXIMUS / DeltaWare](http://www.maximuscanada.ca/) 
+* Wendy MacIntyre from [resolveHR](http://www.resolvehr.ca/)
+
+
+###### Announcements
+* [Global Day of Code Retreat](http://coderetreat.org/) is November 18
+* The Robotics Club (part of Engineers PEI) is planning a Scratch Programming Day in either November or December and are looking for volunteers (email peirobots at gmail dot com)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
 #### October 2017
 
 ###### Topics
