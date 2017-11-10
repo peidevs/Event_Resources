@@ -13,7 +13,7 @@ Here's a list of our most popular channels:
 
 ### The Obligatory Formal Stuff
 
-Please note that Slack is a public forum that reflects on the reputation of PEI Devs. So, we have a [Code of Conduct](http://peidevs.github.io/code/) but the gist is "Act like you're in public, at one of our meet-ups".
+Please note that Slack is a public forum that reflects on the reputation of PEI Devs. So, we have a [Code of Conduct](http://peidevs.github.io/code/). Please check it out (the gist is "Act like you're in public, at one of our meet-ups").
 
 ### Thanks
 
