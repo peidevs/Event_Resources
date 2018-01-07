@@ -6,6 +6,22 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### January 2018
+
+###### Topics
+* speaker 1: [James O'Halloran](https://twitter.com/jamespohalloran) on Developing Miner Meltdown
+* speaker 2: [Sean Whalley](https://twitter.com/SeanWhalley21) on Developing a Static Website with Hugo
+
+###### Announcements
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](https://twitter.com/medExperience)
+
 #### November 2017
 
 ###### Recruitment and Hiring Panel
