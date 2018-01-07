@@ -9,7 +9,7 @@ Here's a list of our most popular channels:
 * `#jobs` - job postings
 * `#peidevs` - coding, or the PEI Devs group itself
 * `#bookclub` - a reading group, often hosted in Summerside 
-* `#opendatabookclub` - *Not* a book club (it's a long story)! Discussion on Open Data and Open Gov
+* `#opendata` - discussion on Open Data and Open Gov (formerly the _Open Data Book Club_)
 
 ### The Obligatory Formal Stuff
 
