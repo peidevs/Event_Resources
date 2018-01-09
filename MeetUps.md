@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### January 2018
 
 ###### Topics
-* speaker 1: [James O'Halloran](https://twitter.com/jamespohalloran) on Developing Miner Meltdown
+* speaker 1: [James O'Halloran](https://twitter.com/jamespohalloran) on Lessons Learned Developing Miner Meltdown
 * speaker 2: [Sean Whalley](https://twitter.com/SeanWhalley21) on Developing a Static Website with Hugo
 
 ###### Announcements
