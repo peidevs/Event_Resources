@@ -10,6 +10,7 @@ Here's a list of our most popular channels:
 * `#peidevs` - coding, or the PEI Devs group itself
 * `#bookclub` - a reading group, often hosted in Summerside 
 * `#opendata` - discussion on Open Data and Open Gov (formerly the _Open Data Book Club_)
+* `#blockchain` - discussion on, well ... 
 
 ### The Obligatory Formal Stuff
 
