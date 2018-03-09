@@ -2,7 +2,7 @@
 # APR 2018
 
 - cat-herder: Evan Porter
-- speaker 1: Elections PEI ???
+- speaker 1: Elections PEI ??? Touch base with M. Easter. The `opendatapei` gmail account was used for communication.
 - speaker 2: Pierre Bassaler on GDPR. (commited) Issue [here](https://github.com/peidevs/Event_Resources/issues/77)
 - venue: Startup Zone 
 

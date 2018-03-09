@@ -14,6 +14,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Announcements
 
+* N/A
+
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
@@ -25,9 +27,12 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### February 2018
 
 ###### Topics
-* speaker 1: TODO: fill this in?
+
+* Lightning Talks by Michael Gauthier, Bob Shand, Sean MacKay, Matt Duffy, Chris Macrae, Jordan Patterson
 
 ###### Announcements
+
+* N/A
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
