@@ -6,6 +6,37 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### March 2018
+
+###### Topics
+
+* speaker 1: Open Forum on _unpopular opinions_
+
+###### Announcements
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](https://twitter.com/medExperience)
+
+#### February 2018
+
+###### Topics
+* speaker 1: TODO: fill this in?
+
+###### Announcements
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Matt Duffy](https://twitter.com/medExperience)
+
 #### January 2018
 
 ###### Topics
