@@ -7,8 +7,8 @@
 ## References from March 2018
 
 * Example [unpopular opinions thread](https://www.reddit.com/r/programming/comments/63zg6f/what_unpopular_opinions_do_you_have_about/) on `/r/programming`
-* [Safari Books Online](https://www.safaribooksonline.com/)
 * [Recommended podcasts](https://github.com/peidevs/Resources/blob/master/PodcastList.md)
+* [Safari Books Online](https://www.safaribooksonline.com/)
 
 ## Sponsors
 
