@@ -10,11 +10,17 @@
 * click on green icon to go into the spreadsheet
 * scroll to bottom of spreadsheet to see latest
 
-#### Slack
+#### new Slack instructions
+
+* in `#elders` channel: `/nominate jdoe@example.ca`
+* wait
+* please update Google Form that the invite has been sent
+
+#### Old Slack instructions
 
 * in Slack, click on drop-down under your name
 * click on 'Invite people'
-* be sure to update Google Form that the invite has been serviced
+* please update Google Form that the invite has been sent
 
 That's it! Thanks.
 
