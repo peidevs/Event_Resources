@@ -8,6 +8,14 @@
 - speaker 2: Elections PEI (confirmed) 
 - venue: Startup Zone 
 
+# MAY 2018
+
+- cat-herder: Evan Porter
+- speaker 1: Chris Macrae on _CSS @ Scale_
+- speaker 2: TBD
+- venue: Startup Zone
+
+
 ### Misc
 
 * consider reaching out to UPEI (e.g. Dr Gordon MacDonald) for an info session on the new Data Analytics program as part of the new School of Math and CS
