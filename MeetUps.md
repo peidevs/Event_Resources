@@ -6,6 +6,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+
+#### April 2018
+
+###### Topics
+
+* Presentation 1: Pierre Bassaler on _General Data Protection Regulation_ (new European Union regulation)
+* Presentation 2: Elections PEI on _Introduction, New Website, & Data Sets_
+
+###### Announcements
+
+* Happy Birthday PEI Devs!
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
+
 #### March 2018
 
 ###### Topics
