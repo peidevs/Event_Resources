@@ -13,10 +13,15 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 * Presentation 1: Pierre Bassaler on _General Data Protection Regulation_ (new European Union regulation)
 * Presentation 2: Elections PEI on _Introduction, New Website, & Data Sets_
+    * Tim Garrity, Chief Electoral Officer
+    * Stephanie Roberts, Deputy Chief Electoral Officer
+    * Paul Alan, Communication Director
 
 ###### Announcements
 
-* Happy Birthday PEI Devs!
+* Happy Birthday PEI Devs! Six years!
+* [Maritime DevCon](https://maritimedevcon.ca/) in June (tickets on sale 4/16)
+* [PEI Designers](https://www.meetup.com/peidesign/) reboot on April 24
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
