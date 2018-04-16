@@ -13,6 +13,13 @@
     * [PIA Knowledge Bases](https://www.cnil.fr/sites/default/files/atoms/files/cnil-pia-3-en-knowledgebases.pdf)
     * [GitHub repo](https://github.com/LINCnil)
 
+## Elections PEI
+
+* the website and our brainstorm doc
+
+    * [website](http://www.electionspei.ca/)
+    * [brainstorm doc](https://github.com/peidevs/OpenDataBookClub/blob/master/doc/meetings/MAR_2018_E_PEI.md)
+
 ## Sponsors
 
 * [Forestry](https://forestry.io/)
