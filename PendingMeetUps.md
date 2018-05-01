@@ -1,13 +1,3 @@
-
-# APR 2018
-
-- cat-herder: Evan Porter
-- Evan P: opening, announcement, 6th anni acknowledgement?
-- speaker 1: Pierre Bassaler on GDPR. (confirmed) Pierre anticipates 20 minute talk. Given Facebook/Cambridge A, there could be a ton of discussion so we may have to watch the time.
-- Michael E: quick overview of Open Data, example? 
-- speaker 2: Elections PEI (confirmed) 
-- venue: Startup Zone 
-
 # MAY 2018
 
 - cat-herder: Evan Porter
