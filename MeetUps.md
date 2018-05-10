@@ -6,6 +6,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### May 2018
+
+###### Topics
+
+* Presentation 1: [Sean Whalley](https://twitter.com/seanwhalley21) on _Google Firebase_
+* Presentation 2: Paul Maxan on _Reverse Engineering Inmarsat-C_
+
+###### Announcements
+
+* [Maritime DevCon](https://maritimedevcon.ca/) on Saturday June 16th (tickets on sale now)
+* New Trello User Group started by Jodi LeBlanc
+* [PEI Designers](https://www.meetup.com/peidesign/) reboot on April 24
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
 
 #### April 2018
 
