@@ -17,7 +17,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 * [Maritime DevCon](https://maritimedevcon.ca/) on Saturday June 16th (tickets on sale now)
 * New Trello User Group started by Jodi LeBlanc
-* [PEI Designers](https://www.meetup.com/peidesign/) reboot on April 24
+* [PEI Designers](https://www.meetup.com/peidesign/) on May 29th
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
