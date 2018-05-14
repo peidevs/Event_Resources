@@ -24,6 +24,7 @@
 * ask speakers how they would like to be introduced / bio
 * update [monthly outline](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md) with speakers, sponsors, announcements, etc. We use this as a slide before Speaker #1.
     * It is wise to ask for announcements in the `#general` channel on Slack (or Twitter?) to ensure that we get everything.
+    * Check known organizations (e.g. PEI LLC, PEI Designers) explicitly
 * update the [human-readable log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md)
 
 #### 1-2 days prior to event
