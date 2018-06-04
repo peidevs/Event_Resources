@@ -1,11 +1,11 @@
-# JUN 2018
+## JUN 2018
 
 - cat-herder: Evan Porter
 - speaker 1: Chris Macrae on _CSS @ Scale_
 - speaker 2: TBD
 - venue: Startup Zone
 
-# booking
+### booking
 
 * We've booked Carol Mayne and Justin Muttart for 13-SEP-2018 re: Gov't of PEI Open Data Portal
 
