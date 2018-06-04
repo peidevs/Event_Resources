@@ -8,6 +8,7 @@
 ### SEP 2018 (1 booked in advance)
 
 * We've booked Carol Mayne and Justin Muttart for 13-SEP-2018 re: Gov't of PEI Open Data Portal
+  * **TODO** write to Carol and offer the entire evening (e.g. 75-90 minute talk including Q&A)
 
 ### Misc
 
