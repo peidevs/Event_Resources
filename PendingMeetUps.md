@@ -5,7 +5,7 @@
 - speaker 2: TBD
 - venue: Startup Zone
 
-### booking
+### SEP 2018 (1 booked in advance)
 
 * We've booked Carol Mayne and Justin Muttart for 13-SEP-2018 re: Gov't of PEI Open Data Portal
 
