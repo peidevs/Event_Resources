@@ -6,6 +6,29 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### June 2018
+
+###### Topics
+
+* Presentation 1: [Chris Macrae](https://twitter.com/chrisdmacrae) on "Front-End Components with [Stencil.js](https://stenciljs.com/)"
+* Presentation 2: [Bob Shand](https://twitter.com/feralbob) regales us with tales of [Augmented World Expo](https://augmentedworldexpo.com/) in Santa Clara, California
+
+###### Announcements
+
+* Elections PEI published 2017 [data set](http://www.electionspei.ca/index.php?number=1046908&lang=E) with [Open Data License](http://www.gov.pe.ca/photos/original/EPEI_ODLICENCE.pdf)
+    * Recall our April 2018 MeetUp with the team 
+    * We created some visualizations [here](https://github.com/peidevs/OpenDataBookClub/blob/master/doc/LocalResources.md)
+* [Maritime DevCon](https://maritimedevcon.ca/) on Saturday June 16
+    * Fredericton, NB
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
 #### May 2018
 
 ###### Topics
