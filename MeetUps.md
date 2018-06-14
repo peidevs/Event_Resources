@@ -21,7 +21,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Maritime DevCon](https://maritimedevcon.ca/) on Saturday June 16
     * Fredericton, NB
 * Startup Zone [2nd anniversary social](https://www.eventbrite.ca/e/startup-zone-is-turning-two-tickets-46808046126) June 22, 4pm - 6pm (RSVP)
-* [Jordan Patterson](https://twitter.com/jtjpatterson) & [Scott Gallant](https://twitter.com/scottgallant) (from one of our sponsors, [Forestry.io](https://forestry.io/#/) are nominated for Fusion Charlottetown's [Entrepreneurship and Employment Award](https://www.surveymonkey.com/survey-taken/?sm=PwCZPAUfWoN865M2qFnXbXxU_2BJ3Ty0XySEMg6uuGUF3ZK2Nnu1LyD4avEBQVgXZtumB7hKh6El55vDeReLLsAHaSsgtlYHxagJXPy4dOZ9Q_3D)
+* [Jordan Patterson](https://twitter.com/jtjpatterson) & [Scott Gallant](https://twitter.com/scottgallant) (from one of our sponsors, [Forestry.io](https://forestry.io/#/)) are nominated for Fusion Charlottetown's [Entrepreneurship and Employment Award](https://www.surveymonkey.com/survey-taken/?sm=PwCZPAUfWoN865M2qFnXbXxU_2BJ3Ty0XySEMg6uuGUF3ZK2Nnu1LyD4avEBQVgXZtumB7hKh6El55vDeReLLsAHaSsgtlYHxagJXPy4dOZ9Q_3D)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
