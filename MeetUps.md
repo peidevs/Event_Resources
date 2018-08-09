@@ -6,6 +6,29 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### August 2018
+
+###### Topics
+
+* Volunteers will give a 5 to 10 minute talk on a tecology / project that brings them joy. Or whatever.
+
+###### Announcements
+
+* In September We'll have a representative from the province talk to us about the recently launched PEI Open Data Portal.
+* Summer Social in July was a success. Thanks to all attendees.
+* Canada Learning Code has an event on September 22: National Learn to Code Day
+    * Intro to Browser Extensions with JavaScript
+* November 17 will be GDCR. PEI Devs might hold one here in Charlottetown. Stay tuned.
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* [Evan Porter](https://twitter.com/evanepio)
+
+
 #### June 2018
 
 ###### Topics
