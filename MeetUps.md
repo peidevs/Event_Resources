@@ -10,11 +10,11 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Topics
 
-* Volunteers will give a 5 to 10 minute talk on a tecology / project that brings them joy. Or whatever.
+* Volunteers will give a 5 to 10 minute talk on a technology / project that brings them joy. Or whatever.
 
 ###### Announcements
 
-* In September We'll have a representative from the province talk to us about the recently launched PEI Open Data Portal.
+* In September, we'll have a representative from the province talk to us about the recently launched PEI Open Data Portal.
 * Summer Social in July was a success. Thanks to all attendees.
 * Canada Learning Code has an event on September 22: National Learn to Code Day
     * Intro to Browser Extensions with JavaScript
