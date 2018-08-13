@@ -1,14 +1,19 @@
-## JUN 2018
+## SEP 2018
 
-- cat-herder: Evan Porter
-- speaker 1: Chris Macrae on _CSS @ Scale_
-- speaker 2: TBD
+- cat-herder: M. Easter
+- speaker 1: Carol Mayne and Justin Muttart on PEI Open Data portal
+- speaker 2: we're giving CM and JM the whole night
 - venue: Startup Zone
 
-### SEP 2018 (1 booked in advance)
+## OCT 2018
 
-* We've booked Carol Mayne and Justin Muttart for 13-SEP-2018 re: Gov't of PEI Open Data Portal
-  * **TODO** write to Carol and offer the entire evening (e.g. 75-90 minute talk including Q&A)
+- cat-herder: M. Easter
+- speaker 1 (pending): Kelly H with Code for Canada
+
+## NOV 2018
+
+- cat-herder: M. Easter
+- speakers: TBD
 
 ### Misc
 
