@@ -8,12 +8,13 @@
 ## OCT 2018
 
 - cat-herder: M. Easter
-- speaker 1 (pending): Kelly H with Code for Canada
+- potentially a Student Night per Slack convo
 
 ## NOV 2018
 
 - cat-herder: M. Easter
-- speakers: TBD
+- speaker 1 (confirmed): Kelly H with Code for Canada
+- TODO: Kelly will touch base beforehand to confirm the content of the talk.
 
 ### Misc
 
