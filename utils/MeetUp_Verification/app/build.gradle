@@ -1,0 +1,32 @@
+
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = 'org.peidevs.Main'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile project(':csv_transformer')
+    compile group: 'org.codehaus.groovy', name: 'groovy-all', version: '2.4.2'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.mockito', name: 'mockito-all', version: '1.9.5'
+}
+
+run {
+    args '/Users/measter/src/github/peidevs/Event_Resources'
+}
+
+project.ext.stagingDir = 'staging'
+
+installDist.doFirst {
+    ant.delete(dir: project.ext.stagingDir)
+}
+
+installDist {
+    into project.ext.stagingDir
+}
+

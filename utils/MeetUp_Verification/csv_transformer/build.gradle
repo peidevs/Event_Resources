@@ -1,0 +1,15 @@
+
+apply plugin: 'groovy'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'com.xlson.groovycsv:groovycsv:1.0'
+    compile group: 'org.codehaus.groovy', name: 'groovy-all', version: '2.4.2'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.mockito', name: 'mockito-all', version: '1.9.5'
+}
+
