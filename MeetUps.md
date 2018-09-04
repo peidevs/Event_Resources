@@ -6,6 +6,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### September 2018
+
+###### Topics
+
+* Carol Mayne and team on the new [Open Data Portal](https://data.princeedwardisland.ca/) for the Gov't of PEI
+
+###### Announcements
+
+* Canada Learning Code has an event on September 22: National Learn to Code Day
+    * Intro to Browser Extensions with JavaScript
+* November 17 will be GDCR. PEI Devs might hold one here in Charlottetown. Stay tuned.
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter]https://twitter.com/codetojoy)
+
 #### August 2018
 
 ###### Topics
@@ -27,7 +47,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
-
 
 #### June 2018
 
