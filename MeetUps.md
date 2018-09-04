@@ -24,7 +24,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Silver Orange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
-* Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter]https://twitter.com/codetojoy)
+* Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter](https://twitter.com/codetojoy)
 
 #### August 2018
 
