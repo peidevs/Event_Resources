@@ -16,6 +16,12 @@
 - speaker 1 (confirmed): Kelly H with Code for Canada
 - TODO: Kelly will touch base beforehand to confirm the content of the talk.
 
+## JAN 2019
+
+- cat-herder: 
+- speaker 1 (unconfirmed): Adam LeBlanc GraphQL
+- TODO: Adam will touch base beforehand to confirm the content of the talk.
+
 ### Misc
 
 * consider reaching out to UPEI (e.g. Dr Gordon MacDonald) for an info session on the new Data Analytics program as part of the new School of Math and CS
