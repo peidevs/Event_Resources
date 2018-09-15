@@ -1,9 +1,3 @@
-## SEP 2018
-
-- cat-herder: M. Easter
-- speaker 1: Carol Mayne and Justin Muttart on PEI Open Data portal
-- speaker 2: we're giving CM and JM the whole night
-- venue: Startup Zone
 
 ## OCT 2018
 
