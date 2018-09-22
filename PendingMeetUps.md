@@ -2,7 +2,8 @@
 ## OCT 2018
 
 - cat-herder: M. Easter
-- potentially a Student Night per Slack convo
+- speaker 1 (tentative): Bob Shand on Apple devices
+- speaker 2 (tentative): M Easter on something? or Paul Maxan on Marine Nav part II
 
 ## NOV 2018
 
