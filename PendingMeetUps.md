@@ -9,6 +9,7 @@
 
 - cat-herder: M. Easter
 - speaker 1 (confirmed): Kelly H with Code for Canada
+- speaker 2: let's just hang out and be social, which people seem to enjoy more than a second talk
 - TODO: Kelly will touch base beforehand to confirm the content of the talk.
 
 ## JAN 2019
