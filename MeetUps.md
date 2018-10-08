@@ -15,7 +15,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Announcements
 
-* [Code for Canada](https://codefor.ca/) at our November Meetup
+* November MeetUp: [Code for Canada](https://codefor.ca/) video-call from Ottawa
 * [Global Day Code Retreat](https://www.coderetreat.org/), November 17. 
     * No formal event this year
     * Join Slack if interested in organic hang-out
