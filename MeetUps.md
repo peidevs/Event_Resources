@@ -6,6 +6,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### October 2018
+
+###### Topics
+
+* [Bob Shand](https://twitter.com/feralbob) on Apple Mobile-Device Management
+* [Paul Maxan](https://twitter.com/microp11) on Inmarsat-C (redux)
+
+###### Announcements
+
+* [Code for Canada](https://codefor.ca/) at our November Meetup
+* [Global Day Code Retreat](https://www.coderetreat.org/), November 17 
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter](https://twitter.com/codetojoy)
+
 #### September 2018
 
 ###### Topics
