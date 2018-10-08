@@ -11,7 +11,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Topics
 
 * [Bob Shand](https://twitter.com/feralbob) on Apple Mobile-Device Management
-* [Paul Maxan](https://twitter.com/microp11) on Inmarsat-C (redux)
+* [Paul Maxan](https://twitter.com/microp11sat) on Inmarsat-C (redux)
 
 ###### Announcements
 
