@@ -15,6 +15,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Announcements
 
+* Extra Life gaming marathon fundraiser for children's hospitals: Oct 27, 9am-9pm, Startup Zone
 * November MeetUp: [Code for Canada](https://codefor.ca/) video-call from Ottawa
 * [Global Day Code Retreat](https://www.coderetreat.org/), November 17. 
     * No formal event this year
