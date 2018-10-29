@@ -1,14 +1,9 @@
 
-## OCT 2018
-
-- cat-herder: M. Easter
-- speaker 1: Bob Shand on Apple devices
-- speaker 2: Paul Maxan on Marine Nav part II
 
 ## NOV 2018
 
 - cat-herder: M. Easter
-- speaker 1 (confirmed): Kelly H with Code for Canada
+- speaker 1: TBD
 - speaker 2: let's just hang out and be social, which people seem to enjoy more than a second talk
 - TODO: Kelly will touch base beforehand to confirm the content of the talk.
 
@@ -26,3 +21,4 @@
     * part 1: [Issue 73](https://github.com/peidevs/Event_Resources/issues/73)
     * note part 2 seemed to make a lot of sense at the time, unclear if it does now
 * An offer from Nolan Phillips about whatever. Dunno. We'll find out later. [Issue 74](https://github.com/peidevs/Event_Resources/issues/74)
+* Consider touching base with Kelly Halseth in 2019 to talk about Code for Canada (contact M. Easter for details)
