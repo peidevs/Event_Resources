@@ -6,6 +6,8 @@
 - speaker 1: TBD
 - speaker 2: let's just hang out and be social, which people seem to enjoy more than a second talk
 - TODO: Kelly will touch base beforehand to confirm the content of the talk.
+
+### Announcements
 - GDCR remote Nov 17 https://twitter.com/coderetreat/status/1057311789438984193
 
 ## JAN 2019
