@@ -6,6 +6,28 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2018
+
+###### Topics
+
+* Lightning Talks
+* Hang-out
+
+###### Announcements
+
+* First official Trello community event, Nov 20. [Details here](https://aug.atlassian.com/events/details/startup-grind-pei-trello-events-presents-ignite-your-productivity-with-trello#/)
+* [Global Day Code Retreat](https://www.coderetreat.org/), November 17. 
+    * No formal event this year
+    * Remote GDCR. [Details here](https://www.eventbrite.com/e/remote-global-day-of-coderetreat-tickets-52004086623)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Michael Easter. [PEI twitter](https://twitter.com/30_for_60), or [software-dev twitter](https://twitter.com/codetojoy)
+
 #### October 2018
 
 ###### Topics
