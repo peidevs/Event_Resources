@@ -38,6 +38,12 @@
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
 * afterwards, update the [csv log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) with the attendance (the # of sign-ups on MeetUp is good enough)
 
+#### on night of the event (Startup Zone)
+
+* the SZ co-ordinator asked us to:
+    * ensure that the projector is retracted
+    * ensure that dishes are put in the dishwasher and not left in the sink
+
 #### Lessons learned
 * Does the venue allow minors? If minors attend, someone should stay with them until their rides arrive (?)
 * Consider using a timer, esp. for lightning talks. A standard technique is to demo a funny alarm, before the talks begin, and tell everyone that we are setting a timer. In this way, no one is offended by being cut off.
