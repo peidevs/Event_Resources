@@ -4,8 +4,8 @@
 - cat-herder: TBD
 - speaker 1 (unconfirmed from quite awhile ago): Adam LeBlanc GraphQL
 - TODO: Adam will touch base beforehand to confirm the content of the talk.
-- TODO: Startup Zone ?
-- TODO: MeetUp subscription
+- TODO: when do we renew contract with Startup Zone ?
+- TODO: when do we renew MeetUp subscription ?
 
 ## FEB 2019
 
