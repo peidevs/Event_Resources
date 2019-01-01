@@ -18,7 +18,7 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 
 #### I could talk on X, but I don't know if it applies.
 
-* First, check [our log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) to see the diversity in talks. There's programming languages, hardware, Agile techniques, and a quadcopter demo. We're super-chill and open to almost anything.
+* First, check [our log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps_v2.csv) to see the diversity in talks. There's programming languages, hardware, Agile techniques, and a quadcopter demo. We're super-chill and open to almost anything.
 * Note that we're encouraging "beginner level" talks, so "Intro to X" is certainly an option.
 * If still in doubt, *ask us*. We don't bite! We can help shape the talk.
 
