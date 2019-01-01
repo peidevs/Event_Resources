@@ -1,9 +1,11 @@
 
 ## JAN 2019
 
-- cat-herder: 
-- speaker 1 (unconfirmed): Adam LeBlanc GraphQL
+- cat-herder: TBD
+- speaker 1 (unconfirmed from quite awhile ago): Adam LeBlanc GraphQL
 - TODO: Adam will touch base beforehand to confirm the content of the talk.
+- TODO: Startup Zone ?
+- TODO: MeetUp subscription
 
 ## FEB 2019
 
