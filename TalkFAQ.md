@@ -7,7 +7,7 @@ As you probably know, our monthly meetings tend to consist of 1-2 presentations
 per night (with some variations). We are always on the lookout for new 
 material; this doc addresses some common concerns.
 
-For further questions, or to sign-up, please contact us at peidevs @ gmail or via the Slack channel. Also, see the [GitHub issues](https://github.com/peidevs/Event_Resources/issues) (explained below).
+For further questions, or to sign-up, please contact us at peidevs @ gmail or via our [Slack channel](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform). Also, see the [GitHub issues](https://github.com/peidevs/Event_Resources/issues) (explained below).
 
 #### Why should I give a talk?
 
