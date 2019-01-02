@@ -3,7 +3,7 @@
 
 #### Background 
 
-As you probably know, our monthly meetings tend to consist of 2 presentations
+As you probably know, our monthly meetings tend to consist of 1-2 presentations
 per night (with some variations). We are always on the lookout for new 
 material; this doc addresses some common concerns.
 
