@@ -46,7 +46,7 @@ For further questions, or to sign-up, please contact us at peidevs @ gmail or vi
 
 #### I'm intimidated. Some speakers set a high bar (for a monthly meetup).
 
-* In 4 years, we've never mocked anyone (unless they enjoy it) and will come down hard on anyone who is disrespectful. We've seen the full spectrum from simple "I've downloaded this SDK and played with it" to highly polished presentations. It's all good. We fully recognize that, to be sustainable, we need to encourage informal presentations.
+* In 7+ years, we've never mocked anyone (unless they enjoy it) and will come down hard on anyone who is disrespectful. We've seen the full spectrum from simple "I've downloaded this SDK and played with it" to highly polished presentations. It's all good. We fully recognize that, to be sustainable, we need to encourage informal presentations.
 * If you are junior level, or English isn't your first language, that's fine. We aren't judging your performance. We are supportive and grateful to have you. We just want to geek out together! 
 * There are ways to set expectations for the group. If you don't have time for fancy slides then the talk summary could read "in this informal talk, we'll look at X". Or it might read "I'd like to lead a discussion on X, but *I don't have time for fancy slides*".
 
