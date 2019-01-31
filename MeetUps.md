@@ -10,6 +10,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Topics
 
+* Machine Learning 101 – Mathew Larade
+* Hang-out
+
+###### Announcements
+
+* Happy Valentines Day!
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Nolan Phillips
+
+#### January 2019
+
+###### Topics
+
 * Lightning Talks
 * Hang-out
 
