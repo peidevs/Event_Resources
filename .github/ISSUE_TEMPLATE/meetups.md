@@ -1,6 +1,10 @@
 ---
 name: Meetup
 about: Create an issue for planning an event.
+title: ''
+labels: Meetup
+assignees: ''
+
 ---
 
 ## Talks
