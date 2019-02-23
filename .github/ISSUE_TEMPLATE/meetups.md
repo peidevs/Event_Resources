@@ -11,7 +11,7 @@ assignees: ''
 
 Not sure who is presenting?
 
-* [Github Issues](https://github.com/peidevs/Event_Resources/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aquestion)
+* [Github Issues](https://github.com/peidevs/Event_Resources/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22Talk+Idea%22+)
 * Ask the other Elders
 
 <!--Event Ideas
