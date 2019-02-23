@@ -2,7 +2,7 @@
 name: Talk Idea
 about: Create an issue with a talk to present to PEI Devs.
 title: ''
-labels: 'question'
+labels: Talk Idea
 assignees: ''
 
 ---
