@@ -27,6 +27,7 @@ Lightning Talks
 - [ ] Signup Sheet
 
 Socializing
+- [ ] Stickers / Markers for Names
 
 -->
 
