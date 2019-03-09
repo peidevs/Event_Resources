@@ -6,7 +6,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
-#### January 2019
+#### March 2019
+
+###### Topics
+
+* Service Design
+* Hang-out
+
+###### Announcements
+
+<!-- TBD -->
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Nolan Phillips
+
+#### February 2019
 
 ###### Topics
 
