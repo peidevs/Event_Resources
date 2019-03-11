@@ -15,7 +15,13 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Announcements
 
-<!-- TBD -->
+* Island Entertainment Expo
+   * http://islandexpo.ca
+* Maritime Dev Con 
+  * https://maritimedevcon.ca/
+  * June 8th
+  * Call for speakers will be soon.
+  * Interested in sponsoring? sponsor@maritimedevcon.ca.
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
