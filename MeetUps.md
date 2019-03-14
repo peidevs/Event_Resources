@@ -6,7 +6,32 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
-#### January 2019
+#### March 2019
+
+###### Topics
+
+* Service Design
+* Hang-out
+
+###### Announcements
+
+* Island Entertainment Expo
+   * http://islandexpo.ca
+* Maritime Dev Con 
+  * https://maritimedevcon.ca/
+  * June 8th
+  * Call for speakers will be soon.
+  * Interested in sponsoring? sponsor@maritimedevcon.ca.
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Cat Herder (organizer) for this month
+* Nolan Phillips
+
+#### February 2019
 
 ###### Topics
 
