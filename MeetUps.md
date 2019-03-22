@@ -5,6 +5,29 @@ Update as appropriate for each MeetUp.
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
+#### April 2019
+
+##### Topics
+* ?
+* Hang-out
+
+##### Announcements
+
+* Maritive Dev Con is June 8th
+* PEI Pride is hosting a Rupaul Drag Race showing after this event for the next couple months
+  * Everyone is welcome
+  * Goes from 9:30-10:30 ?
+  * They are accepting donations
+  * They are liscenced to give away alcohol
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Nolan Phillips (Cali-co-cat Herder)
+* Michael Gauthier (Cali-co-cat Herder & Host)
 
 #### March 2019
 
