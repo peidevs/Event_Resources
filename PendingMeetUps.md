@@ -1,7 +1,9 @@
 
-## MAR 2019
+## April 2019
 
-- speaker 1 : confirmed? Farzad?? Evan mentioned it at January 2019 meetup
+Nolan's away that week so Michael G. will be hosting. 
+
+No leads on talks yet. Lightning?
 
 ### Misc
 
