@@ -8,7 +8,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### April 2019
 
 ##### Topics
-* ?
+* Lightning Talks!
 * Hang-out
 
 ##### Announcements
@@ -26,8 +26,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Silver Orange](https://silverorange.com) 
 
 ###### Organizers
-* Nolan Phillips (Cali-co-cat Herder)
 * Michael Gauthier (Cali-co-cat Herder & Host)
+* Nolan Phillips (Cali-co-cat Herder)
 
 #### March 2019
 
