@@ -13,8 +13,12 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
-* Maritive Dev Con is June 8th
-* PEI Pride is hosting a Rupaul Drag Race showing after this event for the next couple months
+* [Maritime Dev Con](https://maritimedevcon.ca/) is June 8th
+* [ACENET](https://www.ace-net.ca/)
+  * ACENET is a regional consortium of post-secondary institutions that is partnered with [Compute Canada](https://www.computecanada.ca/). ACENET offers training, consulting, and access to super-computing resources.
+  * ACENET Solutions is a federally incorporated non-profit. In July, its new state-of-the-art computer cluster is available. 
+  * Stay tuned for a visit from a representative. 
+* [Pride PEI](https://pridepei.ca/) is hosting a Rupaul Drag Race showing after this event for the next couple months
   * Everyone is welcome
   * Goes from 9:30-10:30 ?
   * They are accepting donations
