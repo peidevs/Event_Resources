@@ -22,7 +22,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
   * Everyone is welcome
   * Goes from 9:30-10:30 ?
   * They are accepting donations
-  * They are liscenced to give away alcohol
+  * They are licensed to give away alcohol
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
