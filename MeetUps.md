@@ -13,6 +13,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
+* This month marks 7th anniversary of PEI Devs!
 * [Maritime Dev Con](https://maritimedevcon.ca/) is June 8th
 * [ACENET](https://www.ace-net.ca/)
   * ACENET is a regional consortium of post-secondary institutions that is partnered with [Compute Canada](https://www.computecanada.ca/). ACENET offers training, consulting, and access to super-computing resources.
