@@ -57,7 +57,7 @@ TBD
 
 ## Meetup Day
 
-- [ ] Update the [CSV](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv)
+- [ ] Update the [CSV](https://github.com/peidevs/Event_Resources/blob/master/MeetUps_v2.csv)
 
 ## Resources
 
