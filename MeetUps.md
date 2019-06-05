@@ -5,6 +5,25 @@ Update as appropriate for each MeetUp.
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
+
+#### June 2019
+
+##### Topics
+* Adapt & Overcome with Matt Duffy
+* Hang-out
+
+##### Announcements
+
+* TBD
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Michael Easter
+
 #### May 2019
 
 ##### Topics
