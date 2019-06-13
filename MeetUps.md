@@ -9,12 +9,13 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### June 2019
 
 ##### Topics
-* Adapt & Overcome with Matt Duffy
+* Adapt & Overcome with [Matt Duffy](https://maritimedevcon.ca/speakers/#mattduffy)
 * Hang-out
 
 ##### Announcements
 
-* TBD
+* Maritime Dev Con took place June 8
+* Pride PEI?
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
