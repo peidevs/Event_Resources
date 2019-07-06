@@ -6,11 +6,14 @@ Welcome to the PEI Devs Slack team!
 Here's a list of our most popular channels:
 
 * `#general` - general discussion 
+* `#intros` - if you're new to our Slack, say hello here. Feel free to write a brief bio with your interests etc.
 * `#jobs` - job postings
 * `#peidevs` - coding, or the PEI Devs group itself
 * `#bookclub` - a reading group, often hosted in Summerside 
 * `#opendata` - discussion on Open Data and Open Gov (formerly the _Open Data Book Club_)
-* `#blockchain` - discussion on, well ... 
+* `#q_and_a` - Questions and Answers on tech topics
+    * Note that Slack is not necessarily the ideal medium for big topics
+    * Be sure to discern fact from opinion. Techies can be quite opinionated :-)
 
 ### The Obligatory Formal Stuff
 
