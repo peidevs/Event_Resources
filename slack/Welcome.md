@@ -12,6 +12,7 @@ Here's a list of our most popular channels:
 * `#bookclub` - a reading group, often hosted in Summerside 
 * `#opendata` - discussion on Open Data and Open Gov (formerly the _Open Data Book Club_)
 * `#q_and_a` - Questions and Answers on tech topics
+    * Stuck with a problem? Brain-storming an idea? Maybe someone can help out.
     * Note that Slack is not necessarily the ideal medium for big topics
     * Be sure to discern fact from opinion. Techies can be quite opinionated :-)
 
