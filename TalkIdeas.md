@@ -1,5 +1,14 @@
 # Talk Ideas
 
+## FAQ: How do I sign up for a talk?
+
+* Do you have a talk idea? Great!
+* Some ways to contact us:
+    * Our Slack channel. Request an invite [here](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform) 
+    * Write to us at peidevs @t gmail.com
+    * Talk to an organizer (aka "elder") at a MeetUp
+* It is generally easy to be accepted for a talk. Though we may have to check to see if we've had a talk recently on that topic, or if someone is already booked for that topic.
+
 ## Intro
 
 * July 2019
