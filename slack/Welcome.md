@@ -6,7 +6,7 @@ Welcome to the PEI Devs Slack team!
 Here's a list of our most popular channels:
 
 * `#general` - general discussion 
-* `#intros` - if you're new to our Slack, say hello here. Feel free to write a brief bio with your interests etc.
+* `#intros` - **if you're new** to our Slack, say hello here. Feel free to write a brief bio with your interests etc.
 * `#jobs` - job postings
 * `#peidevs` - coding, or the PEI Devs group itself
 * `#bookclub` - a reading group, often hosted in Summerside 
