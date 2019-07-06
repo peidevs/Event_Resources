@@ -80,14 +80,14 @@
 ### Kotlin
 * [link](https://github.com/peidevs/Event_Resources/issues/64)
 
-### Talk Idea: Code Licensing
+### Code Licensing
 * What are various open-source licenses? what do they mean?
 * [link](https://github.com/peidevs/Event_Resources/issues/54)
 
-### Talk Idea: Spring Boot
+### Spring Boot
 * [link](https://github.com/peidevs/Event_Resources/issues/53)
 
-### Talk Idea: Reverse engineering: Methods of safely(-ish) deconstructing code
+### Reverse engineering: Methods of safely(-ish) deconstructing code
 * Matt Duffy: While the idea for this talk came to me while reverse engineering a js bookmarklet, I believe many of the topics are generally applicable to any legacy codebase. (At least that's where I learned them.)
 * Reverse engineering does bring with it several unique constraints which could also be covered peripherally if there was interest ...
 * full details [here](https://github.com/peidevs/Event_Resources/issues/50)
@@ -98,7 +98,7 @@
 ### War-O implementation in language X
 * [link](https://github.com/peidevs/Event_Resources/issues/48)
 
-### Talk Idea: Cultural effects in/on Software Development (and the nature of work in general)
+### Cultural effects in/on Software Development (and the nature of work in general)
 * Matt Duffy: This is still willy-nilly in my head, but this might be a talk, or a guided discussion, or an open table.\n\nI'm interested in how workplace culture affects how we work.
 * full description [here](https://github.com/peidevs/Event_Resources/issues/47)
 
