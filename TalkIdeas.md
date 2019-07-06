@@ -1,4 +1,11 @@
-## Talk Ideas
+# Talk Ideas
+
+## Intro
+
+* July 2019
+* This is "product backlog" of talk ideas.
+* It replaces the old GitHub issues [here](https://github.com/peidevs/Event_Resources/issues).
+* For existing ideas with longer descriptions, we link to the original issue. Though those issues might go away at any time.
 
 ### REST or GraphQL client tools
 * Discussion about Postman or Insomnia or a comparo between them
@@ -18,7 +25,7 @@
 ### behavioral science/psychology in software
 * [link](https://github.com/peidevs/Event_Resources/issues/85)
 
-### Talk Idea: Gov't of Canada Developers Exchange
+### Gov't of Canada Developers Exchange
 * See [here](https://gcdevexchange-carrefourproggc.org/en)
 * Though it would probably be a remote talk via Google Hangout, we should reach out to someone with the feds to get a talk on the Developers Exchange. 
 * [link](https://github.com/peidevs/Event_Resources/issues/84)
