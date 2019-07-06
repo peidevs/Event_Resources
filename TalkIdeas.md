@@ -88,8 +88,9 @@
 * [link](https://github.com/peidevs/Event_Resources/issues/53)
 
 ### Talk Idea: Reverse engineering: Methods of safely(-ish) deconstructing code
-* "While the idea for this talk came to me while reverse engineering a js bookmarklet, I believe many of the topics are generally applicable to any legacy codebase. (At least that's where I learned them.)\n\nReverse engineering does bring with it several unique constraints which could also be covered peripherally if there was interest:\n- IT security: how to determine if the code under inspection will completely pwn you and steps to mitigate\n- rapid feedback to build context: the code is 'throwaway' provided you've taken a few basic steps (keeping a golden master, putting the code under test into source control, saving progress often) and you're in a situation most programmers are uncomfortable to find themselves in: with a complete dearth of context.\n\nThis talk could be a lightning talk: which would probably take the form of a high-level commentary on the steps taken for a specific reverse engineering session. \nIt could also be expanded into a full-feature commentary with context on the methods being used and their relation to typical and familiar 'forward engineering' methods.\n\nI could give this talk (but would also be super pumped to see how someone else would approach it and compare notes afterwards) if I were to give it I would need at least 2 months to prepare the lightning talk and perhaps an additional month for the full-length presentation.
-* [link](https://github.com/peidevs/Event_Resources/issues/50)
+* While the idea for this talk came to me while reverse engineering a js bookmarklet, I believe many of the topics are generally applicable to any legacy codebase. (At least that's where I learned them.)
+* Reverse engineering does bring with it several unique constraints which could also be covered peripherally if there was interest ...
+* full details [here](https://github.com/peidevs/Event_Resources/issues/50)
 
 ### Jenkins Pipeline As Code
 * [link](https://github.com/peidevs/Event_Resources/issues/49)
