@@ -30,10 +30,10 @@
 * Though it would probably be a remote talk via Google Hangout, we should reach out to someone with the feds to get a talk on the Developers Exchange. 
 * [link](https://github.com/peidevs/Event_Resources/issues/84)
 
-### : Micronaut
+### Micronaut
 * [link](https://github.com/peidevs/Event_Resources/issues/83)
 
-### : OpenFaaS
+### OpenFaaS
 * [OpenFaaS](https://www.openfaas.com/) is an open-source project that is analogous to AWS Lambda. It enables 'serverless functions' and resides on top of Docker and Kubernetes. 
 * [link](https://github.com/peidevs/Event_Resources/issues/82)
 
@@ -68,7 +68,7 @@
 * UPEI's new [SMCS](http://www.upei.ca/programsandcourses/mathematical-and-computational-sciences)
 * [link](https://github.com/peidevs/Event_Resources/issues/66)
 
-### : Kotlin
+### Kotlin
 * [link](https://github.com/peidevs/Event_Resources/issues/64)
 
 ### Talk Idea: Code Licensing
@@ -100,3 +100,24 @@
 
 ### Angular JS (latest version)
 * [link](https://github.com/peidevs/Event_Resources/issues/43)
+
+### Math/Stats refresher
+* Matt Duffy
+* [link](https://github.com/peidevs/Event_Resources/issues/42)
+
+### PL/SQL
+* Michael B and Michael G
+* [link](https://github.com/peidevs/Event_Resources/issues/33)
+
+### Privacy in connected age
+* Matt Duffy
+* [link](https://github.com/peidevs/Event_Resources/issues/30) 
+
+### GitHub
+* Matt Duffy, Michael G
+* [link](https://github.com/peidevs/Event_Resources/issues/21)
+
+### Git
+* Matt Duffy
+* [link](https://github.com/peidevs/Event_Resources/issues/20)
+
