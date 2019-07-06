@@ -88,7 +88,7 @@
 * [link](https://github.com/peidevs/Event_Resources/issues/53)
 
 ### Talk Idea: Reverse engineering: Methods of safely(-ish) deconstructing code
-* While the idea for this talk came to me while reverse engineering a js bookmarklet, I believe many of the topics are generally applicable to any legacy codebase. (At least that's where I learned them.)
+* Matt Duffy: While the idea for this talk came to me while reverse engineering a js bookmarklet, I believe many of the topics are generally applicable to any legacy codebase. (At least that's where I learned them.)
 * Reverse engineering does bring with it several unique constraints which could also be covered peripherally if there was interest ...
 * full details [here](https://github.com/peidevs/Event_Resources/issues/50)
 
