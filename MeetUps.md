@@ -6,6 +6,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### August 2019
+
+##### Topics
+* Table-top Arcade Cabinet with Raspberry Pi by [Jordan Patterson](https://twitter.com/jtjpatterson)
+* Hang-out
+
+##### Announcements
+
+* no July summer social
+* PEI Devs survey (check email or DM us)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* [Evan Porter](https://twitter.com/evanepio)
+
 #### June 2019
 
 ##### Topics
