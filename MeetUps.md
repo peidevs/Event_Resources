@@ -16,6 +16,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 * no July summer social
 * PEI Devs survey (check email or DM us)
+* Silverorange is looking for a front end developer.
+* Protocase in Sydney Nova Scotia is also looking to hire
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
