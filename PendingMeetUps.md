@@ -3,6 +3,10 @@
 
 * lightning talks
 
+## Oct 2019
+
+* Scott Gallant
+
 ### Misc
 
 * Oct 2019: Scott Gallant, per Nolan P
