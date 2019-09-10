@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### September 2019
+
+##### Topics
+* Lightning Talks
+* Hang-out
+
+##### Announcements
+
+* PEI Devs survey results
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### August 2019
 
 ##### Topics
