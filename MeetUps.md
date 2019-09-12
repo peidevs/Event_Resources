@@ -15,6 +15,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ##### Announcements
 
 * PEI Devs survey results
+* October Meetup starts at 7:30 PM, not 7:00 PM
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
