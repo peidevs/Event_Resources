@@ -6,6 +6,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### October 2019
+
+##### Topics
+* The future of content management by Scott Gallant
+* Hang-out
+
+##### Announcements
+
+* Extra-Life event on Oct 26th at Startup Zone - play games and support children's hospitals. Join the team! Collect Pledges!
+* Digital Skills Course for Skills PEI. They’re seeking some people to do a few workshops on digital skills
+* Global Day of Code Retreat on November 16th, November 15th for companies - 10th anniversary!
+* Startup Zone has new 3D printer with demo for coffee chat on October 11
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Nolan Phillips and Evan Porter
+
 #### September 2019
 
 ##### Topics
