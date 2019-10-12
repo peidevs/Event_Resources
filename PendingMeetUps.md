@@ -1,16 +1,11 @@
 
-## Sep 2019 
+## NOV 2019
 
-* lightning talks
-
-## Oct 2019
-
-* Scott Gallant
+* cat-herder: Nolan
+* TBD
 
 ### Misc
 
-* Oct 2019: Scott Gallant, per Nolan P
-* Oct/Nov 2019: Nolan willing to cat-herd
 * Jordan P is always up to speak on something
     * Aug 2019 he mentioned Kubernetes, possibly  
 * Mat Larade may be able to speak on ACENET
