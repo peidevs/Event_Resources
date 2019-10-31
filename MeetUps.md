@@ -6,6 +6,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2019
+
+##### Topics
+* iOS 13 Killed the Radio Star by Bob Shand
+* Hang-out
+
+##### Announcements
+
+* Global Day of Code Retreat on November 16th, November 15th for companies - 10th anniversary!
+  * Forestry.io will be hosting GDCR November 15th at their office
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Nolan Phillips
+
 #### October 2019
 
 ##### Topics
