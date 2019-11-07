@@ -4,8 +4,12 @@
 * cat-herder: Nolan
 * JBrains is doing a 2 hour evolutionary design workshop
 
-## February
+## February 2019
 * Jeremy Noonan is giving a presentation
+
+## March 2019
+
+...
 
 
 ### Misc
