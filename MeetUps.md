@@ -16,6 +16,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 * Global Day of Code Retreat on November 16th, November 15th for companies - 10th anniversary!
   * Forestry.io will be hosting GDCR November 15th at their office
+* Forestry.io is hiring
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
