@@ -14,6 +14,7 @@
 
 ### Misc
 
+* Fenil on image recognition
 * Jordan P is always up to speak on something
     * Aug 2019 he mentioned Kubernetes, possibly  
 * Mat Larade may be able to speak on ACENET
