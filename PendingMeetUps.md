@@ -11,7 +11,17 @@
 * Oluwademilade Dammy Adisa (can contact via Meetup) expressed interest in presenting a hangman game he developed.
 
 ## April 2020
+
+* cat-herder: Matt
 * Matt Duffy topic TBD
+
+## May 2020
+
+* cat-herder: Matt
+
+## June 2020
+
+* cat-herder: Matt
 
 ...
 
