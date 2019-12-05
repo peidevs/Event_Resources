@@ -10,6 +10,9 @@
 ## March 2020
 * Oluwademilade Dammy Adisa (can contact via Meetup) expressed interest in presenting a hangman game he developed.
 
+## April 2020
+* Matt Duffy topic TBD
+
 ...
 
 
