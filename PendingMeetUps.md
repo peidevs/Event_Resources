@@ -5,9 +5,11 @@
 * JBrains is doing a 2 hour evolutionary design workshop
 
 ## February 2020
+* cat-herder: Evan
 * Jeremy Noonan is giving a presentation
 
 ## March 2020
+* cat-herder: Evan
 * Oluwademilade Dammy Adisa (can contact via Meetup) expressed interest in presenting a hangman game he developed.
 
 ## April 2020
