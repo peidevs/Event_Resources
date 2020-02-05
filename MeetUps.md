@@ -6,6 +6,36 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### February 2020
+
+##### Topics
+* Torq Specs by Jeremy Noonan
+* Hang-out
+
+##### Announcements
+* ???
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Evan Porter
+
+#### January 2020
+
+##### Topics
+* 2-hour evolutionary Design Workshop presented by J. B. Rainsberger
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Nolan Phillips
+
 #### November 2019
 
 ##### Topics
