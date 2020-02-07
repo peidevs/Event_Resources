@@ -13,7 +13,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Hang-out
 
 ##### Announcements
-* ???
+* Maritime Dev Con 2020 - potentially in June
+* Stackoverflow 2020 Dev Survey
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
