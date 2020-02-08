@@ -13,8 +13,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Hang-out
 
 ##### Announcements
-* Maritime Dev Con 2020 - potentially in June
-* Stackoverflow 2020 Dev Survey
+* [Maritime Dev Con 2020](https://maritimedevcon.ca/) : June 12-13, Fredericton NB
+* Stack Overflow [2020 Developer Survey](https://stackoverflow.blog/2020/02/05/the-2020-developer-survey-is-now-open/)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
