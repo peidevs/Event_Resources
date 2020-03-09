@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### March 2020
+
+##### Topics
+* JavaScript Prototype Jeremy Noonan
+* Hang-out
+
+##### Announcements
+* [Maritime Dev Con 2020](https://maritimedevcon.ca/) : June 12-13, Fredericton NB
+* [Maritime Dev Con Call for Speakers](https://maritimedevcon.ca/call-for-speakers-2020/) - Tuesday March 31st Deadline!
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Evan Porter
+
 #### February 2020
 
 ##### Topics
