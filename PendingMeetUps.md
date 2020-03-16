@@ -5,7 +5,7 @@
 ## April 2020
 
 * cat-herder: Matt
-* Matt Duffy topic TBD
+* Matt Duffy: What's your type?
 
 ## May 2020
 
@@ -15,6 +15,7 @@
 ## June 2020
 
 * cat-herder: Matt
+* Chris Macrae: Nuke.Build
 
 ...
 
