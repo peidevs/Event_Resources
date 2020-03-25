@@ -1,7 +1,3 @@
-## March 2020
-* cat-herder: Evan
-* Oluwademilade Dammy Adisa (can contact via Meetup) expressed interest in presenting a hangman game he developed.
-
 ## April 2020
 
 * cat-herder: Matt
