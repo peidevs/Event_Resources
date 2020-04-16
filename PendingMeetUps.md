@@ -6,7 +6,7 @@
 ## May 2020
 
 * cat-herder: Matt
-* Potentially Mat Larade
+* TBD
 
 ## June 2020
 
