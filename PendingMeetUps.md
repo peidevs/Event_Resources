@@ -1,12 +1,7 @@
-## April 2020
-
-* cat-herder: Matt
-* Matt Duffy: What's your type?
-
 ## May 2020
 
 * cat-herder: Matt
-* TBD
+* Evan Porter: Python Tooling
 
 ## June 2020
 
