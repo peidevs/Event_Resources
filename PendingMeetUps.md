@@ -1,8 +1,3 @@
-## May 2020
-
-* cat-herder: Matt
-* Evan Porter: Python Tooling
-
 ## June 2020
 
 * cat-herder: Matt
