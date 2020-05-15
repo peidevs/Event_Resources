@@ -6,6 +6,38 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### May 2020
+
+##### Topics
+* Evan Porter: Python Tooling
+
+##### Announcements
+* Forestry might be hiring
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Matt Duffy
+
+#### April 2020
+
+##### Topics
+* Pandemic Hang-out
+
+##### Announcements
+* None
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [Silver Orange](https://silverorange.com) 
+
+###### Organizers
+* Matt Duffy
+
 #### March 2020
 
 ##### Topics
