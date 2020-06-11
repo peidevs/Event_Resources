@@ -13,7 +13,14 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 * silverorange is hiring a React Native devloper
-* Matt's keyboard thing
+* Matt's keyboard thing:
+    * Do you want to build your own keyboard?  I’m organising a project to build your own mechanical keyboard!  I’m using the ergodox design www.ergodox.io, ordering the electronics and pcbs, either ordering the case materials or having the cases 3d printed at the library and then sending them out to people who have signed up.  
+    Prices are TBD and are sensitive to options and the number of people interested.  It will be quite a bit less expensive than the assembled version of this design ($320US and up), and probably cheaper than the online group buy kits (~$200).  Current indications point to the price starting around $150 US for a kit.  
+    So what does that get you?  All the pieces you need to assemble the keyboard: blank circuit boards, a set of key switches of your choice, key caps, all the other electronic components, and a case: the case is the part that holds all the other parts together, think a chassis for a car, not a carrying case.  
+    Then what do you do?  That’s the best part: you build it! That will include programming the microcontroller, installing the keys into the case, soldering the keys and other components to the circuitboards, putting the caps on the keys and cinching the whole thing tight!  
+    You’re interested, I can tell. So what do you do now?  Let me know.  I put in a test order a couple days ago to confirm for myself that all the components are compatible with the design.  If that goes well, the group buy will be placed late June.  
+    You can contact me here in almost any channel, or via DM.  
+    Thanks for your time and interest!  
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
