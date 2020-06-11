@@ -22,6 +22,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Organizers
 * Matt Duffy
+* Evan Porter
 
 #### May 2020
 
