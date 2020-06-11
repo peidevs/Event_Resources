@@ -5,6 +5,23 @@ Update as appropriate for each MeetUp.
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
+#### May 2020
+
+##### Topics
+* Chris Macrae: Nuke.Build
+* Round-table: working from home during a pandemic
+
+##### Announcements
+* silverorange is hiring a React Native devloper
+* Matt's keyboard thing
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* Matt Duffy
 
 #### May 2020
 
