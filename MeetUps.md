@@ -42,7 +42,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Matt Duffy
@@ -58,7 +58,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Matt Duffy
@@ -76,7 +76,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Evan Porter
@@ -94,7 +94,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Evan Porter
@@ -107,7 +107,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Nolan Phillips
@@ -127,7 +127,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Nolan Phillips
@@ -148,7 +148,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Nolan Phillips and Evan Porter
@@ -168,7 +168,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * [Michael Easter](https://twitter.com/codetojoy)
@@ -183,13 +183,13 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 * no July summer social
 * PEI Devs survey (check email or DM us)
-* Silverorange is looking for a front end developer.
+* silverorange is looking for a front end developer.
 * Protocase in Sydney Nova Scotia is also looking to hire
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * [Evan Porter](https://twitter.com/evanepio)
@@ -208,7 +208,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Michael Easter
@@ -231,7 +231,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Nolan Phillips
@@ -259,7 +259,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Organizers
 * Michael Gauthier (Cali-co-cat Herder & Host)
@@ -285,7 +285,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Nolan Phillips
@@ -304,7 +304,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Nolan Phillips
@@ -323,7 +323,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Evan Porter
@@ -345,7 +345,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Michael Easter. [PEI twitter](https://twitter.com/30_for_60), or [software-dev twitter](https://twitter.com/codetojoy)
@@ -370,7 +370,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter](https://twitter.com/codetojoy)
@@ -390,7 +390,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * Michael Easter. [PEI twitter](https://twitter.com/30_for_60), [software-dev twitter](https://twitter.com/codetojoy)
@@ -412,7 +412,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -437,7 +437,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -460,7 +460,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -484,7 +484,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -503,7 +503,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Matt Duffy](https://twitter.com/medExperience)
@@ -521,7 +521,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Matt Duffy](https://twitter.com/medExperience)
@@ -537,7 +537,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Matt Duffy](https://twitter.com/medExperience)
@@ -550,7 +550,7 @@ Panelists:
 
 * Dustin Sparks from [Binary Star](http://www.binarystar.ca/)
 * Jordan Patterson from [Forestry.io](https://forestry.io/)
-* Michael Gauthier from [Silver Orange](https://www.silverorange.com/)
+* Michael Gauthier from [silverorange](https://www.silverorange.com/)
 * Ian Morse from [ScreenScape](https://www.screenscape.com/)
 * Patrick Charles from [MAXIMUS / DeltaWare](http://www.maximuscanada.ca/) 
 * Wendy MacIntyre from [resolveHR](http://www.resolvehr.ca/)
@@ -563,7 +563,7 @@ Panelists:
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -578,13 +578,13 @@ Panelists:
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
 * The Robotics Club (part of Engineers PEI) is planning a Scratch Programming Day in either November or December and are looking for volunteers (email peirobots at gmail dot com)
 * Annual Renewal of Startup Zone
-   * Thanks to new sponsors [Silver Orange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
+   * Thanks to new sponsors [silverorange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
    * As well as Binary Star for continued sponsorship
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
-* [Silver Orange](https://silverorange.com) 
+* [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -602,7 +602,7 @@ Panelists:
 * [Global Day of Code Retreat](http://coderetreat.org/) is November 18
 * The Robotics Club (part of Engineers PEI) is planning a Scratch Programming Day in either November or December and are looking for volunteers (email peirobots at gmail dot com)
 * Annual Renewal of Startup Zone
-   * Thanks to new sponsors [Silver Orange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
+   * Thanks to new sponsors [silverorange](https://www.silverorange.com/) and [Forestry.io](https://forestry.io/)
    * As well as Binary Star for continued sponsorship
 
 ###### Sponsors
@@ -708,7 +708,7 @@ Panelists:
 * Companies Hiring:
   * Binary Star
   * Forestry.io
-  * Silver Orange 
+  * silverorange 
 
 
 ###### Cat Herder (organizer) for this month
