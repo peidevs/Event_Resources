@@ -1,31 +1,32 @@
 Date,#,Venue,Cat Herder,Type,Speaker 1, Topic 1,Speaker 2, Topic 2,Sponsors,A/V Support,Type Context
-MAY 2020,15,SZ,Evan Porter,,Evan Porter,Python Tools,,,"Forestry,Silver Orange,Binary Star",,
-APR 2020,16,SZ,Evan Porter,,Matt Duffy,Pandemic Hangout,,,"Forestry,Silver Orange,Binary Star",,
-MAR 2020,7,SZ,Evan Porter,,Nolan Phillips,OO the JS Way,,,"Forestry,Silver Orange,Binary Star",,
-FEB 2020,16,SZ,Evan Porter,,Jeremy Noonan,Torq Specs,,,"Forestry,Silver Orange,Binary Star",,
-JAN 2020,21,SZ,Evan Porter,,J.B. Rainsberger,Evolutionary Design,,,"Forestry,Silver Orange,Binary Star",,
-NOV 2019,23,SZ,Nolan Phillips,,Bob Shand,iOS 13,Nolan Phillips,GitHub actions,"Forestry,Silver Orange,Binary Star",,
-OCT 2019,19,SZ,Nolan Phillips,,Scott Gallant,Future of CMS,,,"Forestry,Silver Orange,Binary Star",,
-SEP 2019,24,SZ,Michael Easter,L,,Lightning Talks,,,"Forestry,Silver Orange,Binary Star",,"Bob Shand,Michael Gauthier,Nolan Phillips,Finn Lidbetter,Lujain Asraf/Ala'a Emad,Chronic Twitch"
-AUG 2019,20,SZ,Evan Porter,,Jordan Patterson,Raspberry Pi Arcade,,,"Forestry,Silver Orange,Binary Star",,
-JUN 2019,25,SZ,Michael Easter,,Matt Duffy,Adapter Pattern,,,"Forestry,Silver Orange,Binary Star",,
-MAY 2019,26,SZ,Nolan Phillips,,Fred Campos,GraphQL,,,"Forestry,Silver Orange,Binary Star",,
-APR 2019,29,SZ,Michael Gauthier,L,,Lightning Talks,,,"Forestry,Silver Orange,Binary Star",,"Bob Shand,Michael Gauthier,Fred Campos,Encourage Family App(?)"
-MAR 2019,31,SZ,Nolan Phillips,,Farzad Sedghipour,Service Design,,,"Forestry,Silver Orange,Binary Star",,
-FEB 2019,41,SZ,Nolan Phillips,,Mathew Larade,Machine Learning,Bob Shand,Text Files,"Forestry,Silver Orange,Binary Star",,
-JAN 2019,21,SZ,Evan Porter,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry,Silver Orange,Binary Star",,"Paul Maxan,Nolan Phillips,Michael Gauthier,Jordan Patterson,J.B.,Mark Wright,James O'Holloran"
-NOV 2018,15,SZ,Michael Easter,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry,Silver Orange,Binary Star,Michael Easter",,"Bob Shand,Evan Porter,Michael Gauthier,Jordan Patterson,Evan Theriault,Paul Maxan"
-OCT 2018,31,SZ,Michael Easter,,Bob Shand,Apple MDM,Paul Maxan,Inmarsat-C II,"Forestry,Silver Orange,Binary Star,Michael Easter",,
-SEP 2018,44,SZ,Michael Easter,,Carol Mayne,Open Data Portal,Sean Whalley,Education Data,"Forestry,Silver Orange,Binary Star,Michael Easter",,
-AUG 2018,21,SZ,Evan Porter,L,Lightning Talks 1,,Lightning Talks 2,,"Forestry, Silver Orange, Binary Star",,"Michael Easter,Bob Shand,Nolan Phillips,Frank Yu,,Paul Maxan,Dave Goddard,Jordan Patterson"
-JUN 2018,22,SZ,Evan Porter,,Bob Shand,AR/VR,Chris Macrae,Stencil JS,"Forestry, Silver Orange, Binary Star",,
-MAY 2018,26,SZ,Evan Porter,,Sean Whalley,Firebase,Paul Maxan,Inmarsat-C I,"Forestry, Silver Orange, Binary Star",,
-APR 2018,27,SZ,Evan Porter,,Pierre Bassaler,EU GDPR,Tim Garrity,Elections PEI,"Forestry, Silver Orange, Binary Star",,
-MAR 2018,10,SZ,Matt Duffy,,Matt Duffy,Unpopular Opinions,,,"Forestry, Silver Orange, Binary Star",,
-FEB 2018,24,SZ,Matt Duffy,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry, Silver Orange, Binary Star",,"Michael Gauthier,Bob Shand,Sean MacKay,Matt Duffy,Chris Macrae,Jordan Patterson"
-JAN 2018,24,SZ,Matt Duffy,,James O'Halloran,Miner Meltdown,Sean Whalley,Hugo,"Forestry, Silver Orange, Binary Star",,
-NOV 2017,30,SZ,Evan Porter,P,,Hiring and Recruitment Panel,,,"Forestry, Silver Orange, Binary Star",,"Dustin Sparks, Jordan Patterson, Michael Gauthier, Ian Morse, Patrick Charles, Wendy MacIntyre"
-OCT 2017,19,SZ,Evan Porter,,Chris Macrae,The Modern Website,Jordan Patterson,Showing Us Some Stuff in Docker,"Forestry, Silver Orange, Binary Star",,
+JUN 2020,12,SZ,Evan Porter,,Chris Macrae,Nuke Build,Evan Porter,Remote Work,"Forestry,silverorange,Binary Star",,
+MAY 2020,15,SZ,Evan Porter,,Evan Porter,Python Tools,,,"Forestry,silverorange,Binary Star",,
+APR 2020,16,SZ,Evan Porter,,Matt Duffy,Pandemic Hangout,,,"Forestry,silverorange,Binary Star",,
+MAR 2020,7,SZ,Evan Porter,,Nolan Phillips,OO the JS Way,,,"Forestry,silverorange,Binary Star",,
+FEB 2020,16,SZ,Evan Porter,,Jeremy Noonan,Torq Specs,,,"Forestry,silverorange,Binary Star",,
+JAN 2020,21,SZ,Evan Porter,,J.B. Rainsberger,Evolutionary Design,,,"Forestry,silverorange,Binary Star",,
+NOV 2019,23,SZ,Nolan Phillips,,Bob Shand,iOS 13,Nolan Phillips,GitHub actions,"Forestry,silverorange,Binary Star",,
+OCT 2019,19,SZ,Nolan Phillips,,Scott Gallant,Future of CMS,,,"Forestry,silverorange,Binary Star",,
+SEP 2019,24,SZ,Michael Easter,L,,Lightning Talks,,,"Forestry,silverorange,Binary Star",,"Bob Shand,Michael Gauthier,Nolan Phillips,Finn Lidbetter,Lujain Asraf/Ala'a Emad,Chronic Twitch"
+AUG 2019,20,SZ,Evan Porter,,Jordan Patterson,Raspberry Pi Arcade,,,"Forestry,silverorange,Binary Star",,
+JUN 2019,25,SZ,Michael Easter,,Matt Duffy,Adapter Pattern,,,"Forestry,silverorange,Binary Star",,
+MAY 2019,26,SZ,Nolan Phillips,,Fred Campos,GraphQL,,,"Forestry,silverorange,Binary Star",,
+APR 2019,29,SZ,Michael Gauthier,L,,Lightning Talks,,,"Forestry,silverorange,Binary Star",,"Bob Shand,Michael Gauthier,Fred Campos,Encourage Family App(?)"
+MAR 2019,31,SZ,Nolan Phillips,,Farzad Sedghipour,Service Design,,,"Forestry,silverorange,Binary Star",,
+FEB 2019,41,SZ,Nolan Phillips,,Mathew Larade,Machine Learning,Bob Shand,Text Files,"Forestry,silverorange,Binary Star",,
+JAN 2019,21,SZ,Evan Porter,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry,silverorange,Binary Star",,"Paul Maxan,Nolan Phillips,Michael Gauthier,Jordan Patterson,J.B.,Mark Wright,James O'Holloran"
+NOV 2018,15,SZ,Michael Easter,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry,silverorange,Binary Star,Michael Easter",,"Bob Shand,Evan Porter,Michael Gauthier,Jordan Patterson,Evan Theriault,Paul Maxan"
+OCT 2018,31,SZ,Michael Easter,,Bob Shand,Apple MDM,Paul Maxan,Inmarsat-C II,"Forestry,silverorange,Binary Star,Michael Easter",,
+SEP 2018,44,SZ,Michael Easter,,Carol Mayne,Open Data Portal,Sean Whalley,Education Data,"Forestry,silverorange,Binary Star,Michael Easter",,
+AUG 2018,21,SZ,Evan Porter,L,Lightning Talks 1,,Lightning Talks 2,,"Forestry, silverorange, Binary Star",,"Michael Easter,Bob Shand,Nolan Phillips,Frank Yu,,Paul Maxan,Dave Goddard,Jordan Patterson"
+JUN 2018,22,SZ,Evan Porter,,Bob Shand,AR/VR,Chris Macrae,Stencil JS,"Forestry, silverorange, Binary Star",,
+MAY 2018,26,SZ,Evan Porter,,Sean Whalley,Firebase,Paul Maxan,Inmarsat-C I,"Forestry, silverorange, Binary Star",,
+APR 2018,27,SZ,Evan Porter,,Pierre Bassaler,EU GDPR,Tim Garrity,Elections PEI,"Forestry, silverorange, Binary Star",,
+MAR 2018,10,SZ,Matt Duffy,,Matt Duffy,Unpopular Opinions,,,"Forestry, silverorange, Binary Star",,
+FEB 2018,24,SZ,Matt Duffy,L,,Lightning Talks 1, ,Lightning Talks 2,"Forestry, silverorange, Binary Star",,"Michael Gauthier,Bob Shand,Sean MacKay,Matt Duffy,Chris Macrae,Jordan Patterson"
+JAN 2018,24,SZ,Matt Duffy,,James O'Halloran,Miner Meltdown,Sean Whalley,Hugo,"Forestry, silverorange, Binary Star",,
+NOV 2017,30,SZ,Evan Porter,P,,Hiring and Recruitment Panel,,,"Forestry, silverorange, Binary Star",,"Dustin Sparks, Jordan Patterson, Michael Gauthier, Ian Morse, Patrick Charles, Wendy MacIntyre"
+OCT 2017,19,SZ,Evan Porter,,Chris Macrae,The Modern Website,Jordan Patterson,Showing Us Some Stuff in Docker,"Forestry, silverorange, Binary Star",,
 SEP 2017,20,SZ,Evan Porter,,Michael Easter,Java 9 Modules,Sean Whalley,Ergonomics,Binary Star,,
 JUN 2017,23,SZ,Michael Gauthier,,Ricardo Angel,Raspberry Pi,Jordan Patterson,Docker Compose,Binary Star,,
 MAY 2017,26,SZ,Michael Gauthier,,Ron Myers,TypeScript,Matt Duffy,Effective Teams,Binary Star,,
