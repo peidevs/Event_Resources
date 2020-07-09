@@ -1,7 +1,8 @@
 Date,#,Venue,Cat Herder,Type,Speaker 1, Topic 1,Speaker 2, Topic 2,Sponsors,A/V Support,Type Context
-JUN 2020,12,SZ,Evan Porter,,Chris Macrae,Nuke Build,Evan Porter,Remote Work,"Forestry,silverorange,Binary Star",,
-MAY 2020,15,SZ,Evan Porter,,Evan Porter,Python Tools,,,"Forestry,silverorange,Binary Star",,
-APR 2020,16,SZ,Evan Porter,,Matt Duffy,Pandemic Hangout,,,"Forestry,silverorange,Binary Star",,
+JUL 2020,14,V,Evan Porter,L,,Lightning Talks,,,"Forestry,silverorange,Binary Star",,"Evan Theriault,Paul Maxan"
+JUN 2020,12,V,Evan Porter,,Chris Macrae,Nuke Build,Evan Porter,Remote Work,"Forestry,silverorange,Binary Star",,
+MAY 2020,15,V,Evan Porter,,Evan Porter,Python Tools,,,"Forestry,silverorange,Binary Star",,
+APR 2020,16,V,Evan Porter,,Matt Duffy,Pandemic Hangout,,,"Forestry,silverorange,Binary Star",,
 MAR 2020,7,SZ,Evan Porter,,Nolan Phillips,OO the JS Way,,,"Forestry,silverorange,Binary Star",,
 FEB 2020,16,SZ,Evan Porter,,Jeremy Noonan,Torq Specs,,,"Forestry,silverorange,Binary Star",,
 JAN 2020,21,SZ,Evan Porter,,J.B. Rainsberger,Evolutionary Design,,,"Forestry,silverorange,Binary Star",,
