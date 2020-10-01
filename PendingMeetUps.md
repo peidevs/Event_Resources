@@ -1,12 +1,3 @@
-## June 2020
-
-* cat-herder: Matt
-* Chris Macrae: Nuke.Build (30 minutes)
-* Roundtable, or open discussion on working from home (staying sane, being productive)
-
-...
-
-
 ### Misc
 
 * Fenil on image recognition
