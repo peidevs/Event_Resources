@@ -6,6 +6,38 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### October 2020
+
+##### Topics
+* ? 
+
+##### Announcements
+* ?
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* ?
+
+#### September 2020
+
+##### Topics
+* Lightning Talks 
+
+##### Announcements
+* ?
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* Evan Porter
+
 #### July 2020
 
 ##### Topics
