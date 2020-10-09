@@ -14,7 +14,9 @@
     - [Nightscout](http://www.nightscout.info/)
 * Misc
     - PEI Devs' [eerie, unintentional recreation](https://twitter.com/30_for_60/status/706992363185577985?cn=cmV0d2VldA%3D%3D&refsrc=email) of Caravaggio's 'The Supper at Emmaus'
-    - Andrew Burke: [4 Weird Things about Dates/Time](https://www.youtube.com/watch?v=ROVsRhc6T5s) 
+    - Andrew Burke: 4 Weird Things about Dates/Time
+        - [main page](https://www.shindigital.com/time)
+        - [Maritime DevCon video](https://www.youtube.com/watch?v=ROVsRhc6T5s) 
  
 ## Sponsors
 
