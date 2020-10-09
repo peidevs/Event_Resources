@@ -1,10 +1,5 @@
 
-## Our Links
-
-* [Our website](http://peidevs.github.io/)
-* [Request Slack invite](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
-
-## Notes
+## Notes for OCT 2020 
 
 * Next.js (Nolan)
     - [Next.js](https://nextjs.org/)
@@ -26,3 +21,9 @@
 * [Forestry](https://forestry.io/)
 * [Binary Star](http://www.binarystar.biz/)
 * [Silver Orange](https://www.silverorange.com/)
+
+## Our Links
+
+* [Our website](http://peidevs.github.io/)
+* [Request Slack invite](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
