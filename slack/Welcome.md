@@ -16,6 +16,7 @@ Here's a list of our most popular channels:
     * Note that Slack is not necessarily the ideal medium for big topics
         * But don't let that deter you. If a topic is too large, someone might (?) suggest getting coffee or chatting at a MeetUp.
     * Be sure to discern fact from opinion. Techies can be quite opinionated :-)
+* `#market` - stuff for sale
 
 ### The Obligatory Formal Stuff
 
