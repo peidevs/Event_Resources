@@ -3,39 +3,32 @@
  * converted to AMD spec
  */
 define(function () {
-    return {
-        shuffleNames: function (array) {
+  return {
+    shuffleNames: function (array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
 
-            for (var i = array.length - 1; i > 0; i--) {
-                var j = Math.floor(Math.random() * (i + 1));
-                var temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-            }
+      return array;
+    },
 
-            return array;
-        },
+    pickOne: function (array) {
+      const index = this.getRandom(0, array.length - 1);
+      return array[index];
+    },
 
-        pickOne: function (array) {
-            var index = this.getRandom(0, array.length - 1);
-            return array[index];
-        },
+    oneInNChance: function (numChances) {
+      const x = this.getRandom(1, numChances);
+      const result = x == 1;
 
-        oneInNChance: function (numChances) {
-            var result = false;
+      return result;
+    },
 
-            var x = this.getRandom(1, numChances);
-
-            if (x == 1) {
-                result = true;
-            }
-
-            return result;
-        },
-
-        getRandom: function (min, max) {
-            var x = Math.floor(Math.random() * (max - min + 1)) + min;
-            return x;
-        }
-    };
+    getRandom: function (min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    },
+  };
 });
