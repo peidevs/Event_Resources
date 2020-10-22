@@ -61,7 +61,7 @@ task generateAttendeeListEditThisOne() {
         
         new File("src/main/webapp/ATTENDEE_LIST_EDIT_THIS_ONE.js").withWriter { writer ->
             writer.write("// auto-generated from NAMES.txt\n")
-            writer.write("var ATTENDEE_LIST = [\n");
+            writer.write("let ATTENDEE_LIST = [\n");
             writer.write(names.toString())
             writer.write("];");
         }

@@ -1,5 +1,5 @@
 // auto-generated from NAMES.txt
-var ATTENDEE_LIST = [
+let ATTENDEE_LIST = [
 "Mark Wright",
 "Kyron Stubbs",
 "Roy Kressin",
