@@ -2,6 +2,6 @@
 
 set -e
 
-./gradlew generateDevHtml 
+./gradlew -q generateDevHtml 
 
 python -m http.server
