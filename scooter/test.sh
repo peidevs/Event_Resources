@@ -1,3 +1,7 @@
-gradle generateDevHtml 
+#!/bin/bash
 
-python -m SimpleHTTPServer
+set -e
+
+./gradlew generateDevHtml 
+
+python -m http.server

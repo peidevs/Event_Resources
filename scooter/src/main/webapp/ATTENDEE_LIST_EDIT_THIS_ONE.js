@@ -5,7 +5,7 @@ var ATTENDEE_LIST = [
 "Roy Kressin",
 "Nicholas Phelan",
 "Ross Evans",
-"Ross Evans + 1",
+"Ross Evans",
 "Mike Berger",
 "J.B. Rainsberger",
 "Christian Southgate",

@@ -10,9 +10,9 @@ Requires:
 * [Python](http://www.python.org/)
 
 One Way To Test Jasmine Specs:
-* run ./test.sh
+* `./test.sh`
 * open dev.html as file and use test link
 
 One Way To Run the App:
-* run ./run.sh
+* `./run.sh`
 * open dev.html as file and use run link (it adds a token so caching isn't a problem)
