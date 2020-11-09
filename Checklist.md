@@ -21,6 +21,7 @@
 #### 1 week in advance
 
 * announce/tweet MeetUp (this can be done sooner if things are set)
+    - Note that Meetup will remove the Announce button, if it is not announced within 7 days of the event. According to [this](https://help.meetup.com/hc/en-us/articles/360002864932-Announcing-your-events#:~:text=If%20you%20don't%20make,one%20day%20before%20the%20event.), there is an auto-announce feature that kicks in.
 * ask speakers how they would like to be introduced / bio
 * update [monthly outline](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md) with speakers, sponsors, announcements, etc. We use this as a slide before Speaker #1.
     * It is wise to ask for announcements in the `#general` channel on Slack (or Twitter?) to ensure that we get everything.
