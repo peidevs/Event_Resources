@@ -32,6 +32,13 @@
 
 * send out an email reminder
 * are there door prizes? is Scooter configured?
+* Google Meet instructions:
+    - Log into gmail with PEI Devs account
+    - In upper right, find 9-dot icon/button next to PEI Devs log. Click button
+    - From list of Google Apps, choose Calendar
+    - From calendar, click the scheduled meetup
+    - From Pop up, click blue “Join with Google Meet” button
+    - (alternative: perhaps just sign into Google with PEIDevs account and click the link. That might also work)
 
 #### on night of the event (for regular MeetUps)
 
