@@ -6,13 +6,30 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2020
+
+##### Topics
+* [Matt Duffy](https://twitter.com/medexperience) on ethics
+* Lightning talks  
+
+##### Announcements
+* TBD 
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### October 2020
 
 ##### Topics
-* ? 
+* Lightning Talks 
 
 ##### Announcements
-* ?
+* TBD
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
