@@ -10,7 +10,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Topics
 * Open forum: 
-    - what technologies will you study, for 2021? 
+    - what technologies will you study (if any) in 2021? 
     - related:
         - what resources do you use? (e.g. books, Udemy, O'Reilly Learning, etc)
         - do you have a study plan? how do you decide where to invest time/$
