@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Jan 2021
 
 ##### Topics
-* Open forum: 
+* Open forum (online, not in-person) : 
     - what technologies will you study (if any) in 2021? 
     - related:
         - what resources do you use? (e.g. books, Udemy, O'Reilly Learning, etc)
