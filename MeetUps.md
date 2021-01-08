@@ -6,6 +6,29 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### Jan 2021
+
+##### Topics
+* Open forum: 
+    - what technologies will you study, for 2021? 
+    - related:
+        - what resources do you use? (e.g. books, Udemy, O'Reilly Learning, etc)
+        - do you have a study plan? how do you decide where to invest time/$
+    - theme inspired by [this guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0), a decent overview of web development
+        - we have no affiliation with content creator
+        - it starts out with simplistic info, but is long enough to cover a lot of ground
+
+##### Announcements
+* TBD 
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### November 2020
 
 ##### Topics
