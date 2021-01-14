@@ -39,6 +39,7 @@
     - From calendar, click the scheduled meetup
     - From Pop up, click blue “Join with Google Meet” button
     - (alternative: perhaps just sign into Google with PEIDevs account and click the link. That might also work)
+    - share link in Slack and can edit the MeetUp to put the link there as well
 
 #### on night of the event (for regular MeetUps)
 
