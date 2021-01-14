@@ -26,6 +26,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * see `#jobs` channel in our Slack team
 * ScreenScape [acquired by Spectrio](https://www.screenscape.com/blog/spectrio-acquires-screenscape/)
 * Startup Zone is not currently hosting in-person events re: COVID-19
+* We are always looking for new speakers: just ping us with your idea!
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
