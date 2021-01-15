@@ -21,9 +21,9 @@
 * Resources
     - hacker news, reddit
         - even dreaded "flame wars" can be useful to understand the landscape
-    - online videos, *especially* at 1.5x, 2x speed
-        - Udemy
-        - Twitch streams
+    - online videos
+        - Udemy *especially* at 1.5x, 2x speed (!)
+        - Twitch live-streams
     - open-source contributions
     - PEI Devs (ahem)
         - e.g. commit to a presentation as a strong motivator to learn
