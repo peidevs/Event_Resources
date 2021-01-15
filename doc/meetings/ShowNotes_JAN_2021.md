@@ -2,6 +2,7 @@
 ## Notes for JAN 2021
 
 * Interests
+    - note: this list is not intended to be exhaustive. These aren't "meeting minutes".
     - People listed a wide range, encompassing many languages, frameworks.
     - new Apple, VR, blockchain, quantum
     - Graph QL, Apache Spark
