@@ -40,6 +40,9 @@
     - From Pop up, click blue “Join with Google Meet” button
     - (alternative: perhaps just sign into Google with PEIDevs account and click the link. That might also work)
     - share link in Slack and can edit the MeetUp to put the link there as well
+    - note that Google Meet may time-out
+        - announce at the start of the meeting that this could happen, and have a back-up plan
+        - e.g. start another meeting and put the link in Slack/MeetUp
 
 #### on night of the event (for regular MeetUps)
 
