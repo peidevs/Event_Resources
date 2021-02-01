@@ -1,3 +1,8 @@
+### Upcoming
+
+* FEB 2021: unknown
+* MAR 2021: Josh Biggley on Observability 
+
 ### Misc
 
 * Joshua B offers (in OCT 2020):
