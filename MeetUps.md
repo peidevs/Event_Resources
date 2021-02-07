@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### Feb 2021
+
+##### Topics
+* [Bob Shand](https://twitter.com/feralbob) on iOS App Clips
+* [Michael Easter](https://twitter.com/codetojoy) on "Why Rust?"
+
+##### Announcements
+* potential mega-summit for Atlantic region
+* see `#jobs` channel in our Slack team
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### Jan 2021
 
 ##### Topics
