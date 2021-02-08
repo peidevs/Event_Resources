@@ -15,6 +15,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ##### Announcements
 * potential mega-summit for Atlantic region
 * see `#jobs` channel in our Slack team
+* March 2021: Josh Biggley on Observability
+* if our video call ends, check Slack for new link
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
