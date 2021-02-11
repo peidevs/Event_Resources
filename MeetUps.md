@@ -9,8 +9,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Feb 2021
 
 ##### Topics
-* [Bob Shand](https://twitter.com/feralbob) on iOS App Clips
 * [Michael Easter](https://twitter.com/codetojoy) on "Why Rust?"
+* [Bob Shand](https://twitter.com/feralbob) on iOS App Clips
 
 ##### Announcements
 * potential mega-summit for Atlantic region
