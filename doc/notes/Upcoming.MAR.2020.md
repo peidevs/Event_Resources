@@ -1,5 +1,5 @@
 
-## Service Design
+## Events in March 2021
 
 * Tuesday, March 9
     - Meet the Atlantic Canada Dev Community! NB, PEI, NS, NL virtual panel
