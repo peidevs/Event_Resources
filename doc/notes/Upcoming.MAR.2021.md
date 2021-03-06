@@ -4,6 +4,7 @@
 * Tuesday, March 9
     - Meet the Atlantic Canada Dev Community! NB, PEI, NS, NL virtual panel
     - free, online event
+    - our own [Evan Porter](https://twitter.com/evanepio) and Matt Duffy 
     - [register here](https://www.eventbrite.ca/e/meet-the-atlantic-canada-dev-community-nb-pei-ns-nl-virtual-panel-tickets-142792764001?aff=Twitter)
 * Thursday, March 11
     - our regular meetup
