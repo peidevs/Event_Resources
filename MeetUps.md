@@ -6,6 +6,21 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### Mar 2021
+
+##### Topics
+* [Josh Biggley](https://www.linkedin.com/in/jbiggley/) on "Observing Complexity: The Art and Science of Observability"
+
+##### Announcements
+* recent panel for dev communities in Atlantic Canada
+* see `#jobs` channel in our Slack team
+* if our video call ends, check Slack for new link
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
 #### Feb 2021
 
 ##### Topics
