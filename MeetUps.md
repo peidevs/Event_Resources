@@ -15,7 +15,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * recent panel for dev communities in Atlantic Canada
 * see `#jobs` channel in our Slack team
 * if our video call ends, check Slack for new link
-* April 2012 will be 9th anniversary for PEI Devs
+* April 2021 will be *9th anniversary* for PEI Devs
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
