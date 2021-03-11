@@ -22,6 +22,9 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Binary Star](http://www.binarystar.biz) 
 * [silverorange](https://silverorange.com) 
 
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### Feb 2021
 
 ##### Topics
