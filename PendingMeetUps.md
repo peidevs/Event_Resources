@@ -1,14 +1,9 @@
 ### Upcoming
 
-* FEB 2021: unknown
-* MAR 2021: Josh Biggley on Observability 
+* APR 2021: unknown
 
 ### Misc
 
-* Joshua B offers (in OCT 2020):
-    - his own talk on Observability
-    - option for a New Relic dev advocate to speak to us
-        - note that we have been averse, historically, to product demos, but things may have evolved since our original vision 
 * Fenil on image recognition
 * Jordan P is always up to speak on something
     * Aug 2019 he mentioned Kubernetes, possibly  
