@@ -12,9 +12,9 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Open Forum
 
 ##### Announcements
-* 
+
 * PEI Devs Happy **9th anniversary**!
-* 
+
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
 * [Binary Star](http://www.binarystar.biz) 
