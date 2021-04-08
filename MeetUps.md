@@ -6,6 +6,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### Apr 2021
+
+##### Topics
+* Open Forum
+
+##### Announcements
+
+* PEI Devs Happy **9th anniversary**!
+* Sandy Walsh started a thread on keeping momentum after the Atlantic Canada summit meeting 
+* Potential Atlantic Hackathon (Sandy Walsh brought it up
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.biz) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* Evan Porter
+
+
 #### Mar 2021
 
 ##### Topics
