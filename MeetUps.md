@@ -14,6 +14,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ##### Announcements
 
 * PEI Devs Happy **9th anniversary**!
+* Sandy Walsh started a thread on keeping momentum after the Atlantic Canada summit meeting 
+* Potential Atlantic Hackathon (Sandy Walsh brought it up
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
