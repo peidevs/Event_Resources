@@ -9,11 +9,11 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### May 2021
 
 ##### Topics
-* Flutter (UI dev toolkit) - Dustin Sparks
+* Flutter (UI dev toolkit) - [Dustin Sparks](https://twitter.com/dustin_sparks)
 
 ##### Announcements
 
-* TBD / TBA
+* [silverorange](https://silverorange.com) has office space for rent: 350 sq-ft on Queen St, Charlottetown
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
