@@ -13,7 +13,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
-* [silverorange](https://silverorange.com) has office space for rent: 350 sq-ft, Queen St, Charlottetown
+* [silverorange](https://silverorange.com) has office space for rent: 350 sq-ft, Queen St, Charlottetown. Details [here](https://www.kijiji.ca/v-commercial-office-space/charlottetown-pei/downtown-office-space-for-rent/1565954618)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
