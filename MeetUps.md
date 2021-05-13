@@ -14,6 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ##### Announcements
 
 * [silverorange](https://silverorange.com) has office space for rent: 350 sq-ft, Queen St, Charlottetown. Details [here](https://www.kijiji.ca/v-commercial-office-space/charlottetown-pei/downtown-office-space-for-rent/1565954618)
+* [Binary Star](http://www.binarystar.ca) is hiring 10 [full stack developers](https://binary-star.breezy.hr/p/03a5b1f7f1e6-senior-full-stack-engineer-java-node-js-ai)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
