@@ -17,7 +17,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -38,7 +38,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -58,7 +58,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -78,7 +78,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -108,7 +108,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -125,7 +125,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -141,7 +141,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -157,7 +157,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -173,7 +173,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -198,7 +198,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -215,7 +215,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -231,7 +231,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -249,7 +249,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -267,7 +267,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -280,7 +280,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -300,7 +300,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -321,7 +321,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -341,7 +341,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -362,7 +362,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -381,7 +381,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -404,7 +404,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -432,7 +432,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Organizers
@@ -458,7 +458,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -477,7 +477,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -496,7 +496,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -518,7 +518,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -543,7 +543,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -563,7 +563,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -585,7 +585,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -610,7 +610,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -633,7 +633,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -657,7 +657,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -676,7 +676,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -694,7 +694,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -710,7 +710,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -736,7 +736,7 @@ Panelists:
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -757,7 +757,7 @@ Panelists:
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
-* [Binary Star](http://www.binarystar.biz) 
+* [Binary Star](http://www.binarystar.ca) 
 * [silverorange](https://silverorange.com) 
 
 ###### Cat Herder (organizer) for this month
@@ -780,7 +780,7 @@ Panelists:
    * As well as Binary Star for continued sponsorship
 
 ###### Sponsors
-* [Binary Star](http://www.binarystar.biz) - venue
+* [Binary Star](http://www.binarystar.ca) - venue
 
 ###### Cat Herder (organizer) for this month
 * [Evan Porter](https://twitter.com/evanepio)
@@ -862,7 +862,7 @@ Panelists:
 * [Nolan Phillips](http://twitter.com/ncphi)
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* venue sponsored by [Binary Star](http://www.binarystar.ca/)
 * O'Reilly Media
 
 #### March 2017
@@ -889,7 +889,7 @@ Panelists:
 * [Nolan Phillips](http://twitter.com/ncphi)
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* venue sponsored by [Binary Star](http://www.binarystar.ca/)
 
 #### February 2017
 
@@ -907,7 +907,7 @@ CANCELED DUE TO WEATHER
 * [Michael Easter](http://twitter.com/codetojoy)
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* venue sponsored by [Binary Star](http://www.binarystar.ca/)
 * A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
 
 #### November 2016
@@ -930,7 +930,7 @@ CANCELED DUE TO WEATHER
 * [Michael Easter](http://twitter.com/codetojoy)
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* venue sponsored by [Binary Star](http://www.binarystar.ca/)
 * A/V equipment loaned by [ScreenScape Networks](http://screenscape.com)
 * door prize by [ScreenScape Networks](http://screenscape.com)
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
@@ -959,7 +959,7 @@ CANCELED DUE TO WEATHER
 * Mike Berger
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
+* venue sponsored by [Binary Star](http://www.binarystar.ca/) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 * Jordan Patterson (Door Prizes)
 
@@ -980,7 +980,7 @@ CANCELED DUE TO WEATHER
 * [Evan Porter](http://twitter.com/evanepio) 
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/) 
+* venue sponsored by [Binary Star](http://www.binarystar.ca/) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
 #### August 2016
@@ -1000,7 +1000,7 @@ CANCELED DUE TO WEATHER
 * [Sean Whalley](http://twitter.com/seanwhalley21) 
 
 ###### Sponsors
-* venue sponsored by [Binary Star](http://www.binarystar.biz/)
+* venue sponsored by [Binary Star](http://www.binarystar.ca/)
 * Cookies sponsored by [Sean Whalley](http://twitter.com/seanwhalley21) 
 * [JetBrains license](https://www.jetbrains.com/products.html?fromMenu) sponsored by [JetBrains](https://www.jetbrains.com/)
 
