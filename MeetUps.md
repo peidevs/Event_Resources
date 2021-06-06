@@ -6,6 +6,23 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### June 2021
+
+##### Topics
+* Open Forum: Fad or Revolution?
+
+##### Announcements
+
+* TBA: social event
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.ca) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Easter](https://twitter.com/codetojoy)
+
 #### May 2021
 
 ##### Topics
@@ -23,8 +40,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ###### Organizers
 * Evan Porter
-
-
 
 #### Apr 2021
 
