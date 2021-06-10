@@ -11,30 +11,13 @@
 
 # seed ideas
  
-<details><summary>item 1</summary>
-<p> static vs dynamic types </p>
-</details>
-<details><summary>item 2</summary>
-<p> VS Code </p>
-</details>
-<details><summary>item 3</summary>
-<p> microservices </p>
-</details>
-<details><summary>item 4</summary>
-<p> functional vs iterative </p>
-</details>
-<details><summary>item 5</summary>
-<p> unit testing </p>
-</details>
-<details><summary>item 5</summary>
-<p> agile </p>
-</details>
-<details><summary>item 6</summary>
-<p> burn-out </p>
-</details>
-<details><summary>item 7</summary>
-<p> Stack Overflow </p>
-</details>
-<details><summary>item 8</summary>
-<p> Github </p>
-</details>
+<details><summary>show</summary><p> static vs dynamic types </p></details>
+<details><summary>show</summary><p> VS Code </p></details>
+<details><summary>show</summary><p> microservices </p></details>
+<details><summary>show</summary><p> functional vs iterative </p></details>
+<details><summary>show</summary><p> unit testing </p></details>
+<details><summary>show</summary><p> agile </p></details>
+<details><summary>show</summary><p> burn-out </p></details>
+<details><summary>show</summary><p> Stack Overflow </p></details>
+<details><summary>show</summary><p> Github </p></details>
+<details><summary>show</summary><p> React </p></details>
