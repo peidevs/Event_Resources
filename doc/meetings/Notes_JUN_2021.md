@@ -1,15 +1,15 @@
 
 # categories
 
-## pure fad
+### pure fad
 * all the rage, then the scorn
-## cyclic fad
+### cyclic fad
 * will fade, but return
 * "old wine in a new bottle" 
-## revolution
+### revolution
 * still around 5-10 years
 
-## seed ideas
+# seed ideas
  
 <details><summary>item 1</summary>
 <p> static vs dynamic types </p>
