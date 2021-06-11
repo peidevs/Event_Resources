@@ -1,6 +1,6 @@
 ### Upcoming
 
-* JUNE 2021: unknown
+* SEPT 2021: Mike G has offered to cat-herd
 
 ### Misc
 
