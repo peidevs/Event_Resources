@@ -1,6 +1,8 @@
 ### Upcoming
 
-* SEPT 2021: Mike G has offered to cat-herd
+* AUG 2021: Nolan will cat-herd IRL event at SZ
+    - AUG 2021 possibly a BBQ at Chez Dustin?
+* SEPT 2021: Mike G offers to cat-herd
 
 ### Misc
 
