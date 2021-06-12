@@ -10,7 +10,6 @@
     - inspired by [this video](https://www.youtube.com/watch?v=lnMvLePCHmU)
 * srbaker has kindly offered to talk on software licenses
     - significant interest in the idea, in Slack convo
-    - Matt used '@' (entirely fair, in this instance) and so it seems reasonable for him to cat-herd
     - Thursday night is a conflict, which is a bummer
 * Fenil on image recognition
 * Jordan P is always up to speak on something
