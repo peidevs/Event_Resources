@@ -16,3 +16,4 @@
     * Aug 2019 he mentioned Kubernetes, possibly  
 * Mat Larade may be able to speak on ACENET
 * Reilly W expressed interest in giving a talk
+* Evan T on feature flags & devops in azure
