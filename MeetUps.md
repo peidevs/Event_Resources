@@ -6,6 +6,23 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### September 2021
+
+##### Topics
+* [Jordan Patterson](https://twitter.com/jtjpatterson)
+
+##### Announcements
+
+* watch the jobs channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.ca) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* [Michael Gauthier](https://twitter.com/hypertextmike)
+
 #### August 2021
 
 ##### Topics
