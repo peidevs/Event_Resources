@@ -14,6 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ##### Announcements
 
 * watch the jobs channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* [Canadian Open Data Summit 2021](https://www.eventbrite.ca/e/2021-canadian-open-data-summit-tickets-151735477899), Sept 15-16, virtual
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
