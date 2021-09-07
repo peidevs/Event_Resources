@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### September 2021
 
 ##### Topics
-* [Jordan Patterson](https://twitter.com/jtjpatterson)
+* [Jordan Patterson](https://twitter.com/jtjpatterson): Intro to Kubernetes
 
 ##### Announcements
 
