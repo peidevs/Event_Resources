@@ -13,8 +13,11 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
-* watch the jobs channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* [Ron Myers](https://twitter.com/RonKMyers) joins the PEI Devs organizers/elders team!
 * [Canadian Open Data Summit 2021](https://www.eventbrite.ca/e/2021-canadian-open-data-summit-tickets-151735477899), Sept 15-16, virtual
+    - some of our group have attended/presented in the past
+    - there may be more info in our `#opendata` channel
+* in general, monitor the `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
