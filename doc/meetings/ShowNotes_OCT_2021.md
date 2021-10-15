@@ -17,7 +17,7 @@
     - [Pull Request on GitHub](https://github.com/OpenSesameManager/OpenSesame/pull/25) 
 * PEI IT Alliance by [Ron Myers](https://twitter.com/ronkmyers)
      - [website](https://peiitalliance.com/)
-* No Code Apps by [Nolan Phillips](https://twitter.com/ncphi)
+* No-Code Apps by [Nolan Phillips](https://twitter.com/ncphi)
     - [Google Forms](https://www.google.ca/forms/about/)
 
 ## Our Links
