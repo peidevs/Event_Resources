@@ -13,6 +13,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
+* silverorange is hiring! Intermediate PHP developer + Intermediate or Senior React/Node developers
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 ###### Sponsors
