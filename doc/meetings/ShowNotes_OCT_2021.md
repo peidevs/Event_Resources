@@ -4,8 +4,8 @@
 * Zodiac Killer by [Michael Easter](https://twitter.com/codetojoy)
     - [Project Twitter account](https://twitter.com/cdn_poli_zodiac)
         - Michael joked that the project has been "killed" but it is, in fact, alive and well.
-    - [MLAs on Github](https://github.com/codetojoy/PrinceEdwardIsland/tree/master/pei-poli-zodiac)
-    - [MPs on Github](https://github.com/codetojoy/canada-poli-zodiac) 
+    - [PEI MLAs on Github](https://github.com/codetojoy/PrinceEdwardIsland/tree/master/pei-poli-zodiac)
+    - [Federal MPs on Github](https://github.com/codetojoy/canada-poli-zodiac) 
 * Mob Programming Retrospectives by Evan Theriault
     - [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming)
 * Parsing, Tokenizers by [Michael Gauthier](https://twitter.com/hypertextmike)
