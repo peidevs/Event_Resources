@@ -1,6 +1,6 @@
 ### Upcoming
 
-* OCT 2021: open
+* NOV 2021: possibly Ron Myers on PEI IT Alliance 
 
 ### Misc
 
