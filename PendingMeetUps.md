@@ -1,6 +1,6 @@
 ### Upcoming
 
-* NOV 2021: possibly Ron Myers on PEI IT Alliance 
+* winter 2022: possibly Ron Myers on PEI IT Alliance 
 
 ### Misc
 
