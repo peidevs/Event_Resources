@@ -2,6 +2,7 @@
 #### recurring tasks
 
 * Please check the peidevs email account on a regular basis (every 7-10 days or so). Or delegate by requesting elder volunteers per month, etc.
+    - there is an automated reminder in Slack
 
 #### before booking speakers
 
@@ -12,7 +13,6 @@
 
 #### 2+ weeks in advance
 
-* obviously, confirm venue, food, speakers, Wifi details
 * Remember, if you are the [Cat Herder](https://en.wikipedia.org/wiki/Herding_cats), feel free to delegate tasks. You don't have to do it all yourself. **Thank you** for taking this on!
 * do the speakers know how much time they have to present?
 * do the speakers have appropriate dongles for the projector?
@@ -31,7 +31,6 @@
 #### 1-2 days prior to event
 
 * send out an email reminder
-* are there door prizes? is Scooter configured?
 * Google Meet instructions:
     - Log into gmail with PEI Devs account
     - In upper right, find 9-dot icon/button next to PEI Devs log. Click button
@@ -46,7 +45,7 @@
 
 #### on night of the event (for regular MeetUps)
 
-* generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the announcements, handle the door prizes, etc
+* generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the announcements, etc
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
 * afterwards, update the [csv log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) with the attendance (the # of sign-ups on MeetUp is good enough)
 
@@ -57,6 +56,7 @@
     * ensure that dishes are put in the dishwasher and not left in the sink
 
 #### Lessons learned
+
 * Does the venue allow minors? If minors attend, someone should stay with them until their rides arrive (?)
 * Consider using a timer, esp. for lightning talks. A standard technique is to demo a funny alarm, before the talks begin, and tell everyone that we are setting a timer. In this way, no one is offended by being cut off.
 * at CYC, a presenter wanted to play audio clips. We rented cables and an adapter box at Long & McQuade so that we could plug a stereo-mini jack into a Mac, and then a XLR (?) jack into the sound board.
@@ -64,9 +64,13 @@
 * Some elders have registered the notion that the name "hackathon" does not encourage gender-diversity
 
 #### Lessons learned for coding workshops
+
 * All material must be available on the web prior to the event, for reference, and to reduce reliance on projector display
 * For remote facilitators, prefer Google Hangout over Skype
 * For remote facilitators, plan to have helpers on the floor in the local venue
 
 #### Older stuff
+
 * who prints the "Hello my name is ..." labels? 
+* confirm venue, food, speakers, Wifi details
+* are there door prizes? is Scooter configured?
