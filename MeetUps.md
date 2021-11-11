@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### November 2021
+
+##### Topics
+* TBD
+
+##### Announcements
+
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.ca) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* host: [Evan Porter](https://twitter.com/evanepio)
+* cat-herder: [Michael Easter](https://twitter.com/codetojoy)
+
 #### October 2021
 
 ##### Topics
