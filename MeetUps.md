@@ -9,12 +9,12 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### November 2021
 
 ##### Topics
-* TBD
+* [Matt Duffy](https://github.com/2manyprojects2littletime): "A Quantum of Cryptography"
 
 ##### Announcements
 
-* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * no Meetup in December ... see you in 2022
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 ###### Sponsors
 * [Forestry.io](https://forestry.io) 
