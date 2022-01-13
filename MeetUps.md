@@ -6,6 +6,23 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### January 2022
+
+##### Topics
+* [Steven Baker](https://twitter.com/srbaker): "The xUnit Pattern"
+
+##### Announcements
+
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.ca) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* cat-herder: [Nolan Phillips](https://twitter.com/ncphi)
+
 #### November 2021
 
 ##### Topics
