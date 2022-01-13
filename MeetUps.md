@@ -13,6 +13,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Announcements
 
+* NOTE: Google Hang may be limited to 60 minutes, so if the call terminates, check back
+in Slack or check your email for a new link
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 ###### Sponsors
