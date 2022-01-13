@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### January 2022
 
 ##### Topics
-* [Steven Baker](https://twitter.com/srbaker): "The xUnit Pattern"
+* [Steven R. Baker](https://twitter.com/srbaker): "The xUnit Pattern"
 
 ##### Announcements
 
