@@ -47,13 +47,14 @@
 
 * generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the announcements, etc
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
-* afterwards, update the [csv log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) with the attendance (the # of sign-ups on MeetUp is good enough)
 
-#### on night of the event (Startup Zone)
+#### after the event
 
-* the SZ co-ordinator asked us to:
+* Startup Zone co-ordinator asked us to:
     * ensure that the projector is retracted
     * ensure that dishes are put in the dishwasher and not left in the sink
+* update the [csv log](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.csv) with the attendance (the # of sign-ups on MeetUp is good enough)
+* the cat-herder is generally responsible to find the next cat-herder for the next event/stint
 
 #### Lessons learned
 
