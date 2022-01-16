@@ -1,6 +1,6 @@
 ### Upcoming
 
-* winter 2022: possibly Ron Myers on PEI IT Alliance 
+* Ron Myers will cat-herd: Feb, March, April 2022
 
 ### Misc
 
