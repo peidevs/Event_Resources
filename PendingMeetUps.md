@@ -4,6 +4,7 @@
 
 ### Misc
 
+* consider a meetup dedicated to asking juniors what they would like to see for mentorship channel in Slack
 * one idea is a panel on technologies that have stood/will stand the test of time
     - inspired by [this video](https://www.youtube.com/watch?v=lnMvLePCHmU)
 * srbaker has kindly offered to talk on software licenses
