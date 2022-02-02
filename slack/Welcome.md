@@ -26,9 +26,9 @@ Please note that Slack is a public forum that reflects on the reputation of PEI 
 
 Here are some common phrases we use:
 
-* **Elders** Our planning committee is often called "Elders". See a list [here](http://peidevs.github.io/about/#elders)
-* **Cat-Herder** The cat-herder is the Elder who has volunteered to organize the MeetUp for the current month. S/he is a captain of sorts who delegates tasks and acts as emcee. 
-* **Coffee and Code** Sometimes devs will get together and work for the day at a coffee shop. It's a combo of being social while working your daily gig.
+* **Elders**: Our planning committee is often called "Elders". See a list [here](http://peidevs.github.io/about/#elders)
+* **Cat-Herder**: The cat-herder is the Elder who has volunteered to organize the MeetUp for the current month. They are a captain of sorts who delegates tasks and acts as emcee. 
+* **Coffee and Code**: Sometimes devs will get together and work for the day at a coffee shop. It's a combo of being social while working your daily gig.
 
 ### Thanks
 
