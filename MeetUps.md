@@ -10,6 +10,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 ##### Topics
 * [James O'Halloran](https://twitter.com/jamespohalloran): "Git-based Content Management with TinaCMS"
+    - Long-time fans will remember that James presented to our group in January 2018.
 
 ##### Announcements
 
