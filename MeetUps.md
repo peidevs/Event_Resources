@@ -6,6 +6,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## See [peidevs.github.io](http://peidevs.github.io)
 
+#### February 2022
+
+##### Topics
+* [James O'Halloran](https://twitter.com/jamespohalloran): "Git-based Content Management with TinaCMS"
+
+##### Announcements
+
+* NOTE: Google Hang may be limited to 60 minutes, so if the call terminates, check back
+in Slack or check your email for a new link
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+###### Sponsors
+* [Forestry.io](https://forestry.io) 
+* [Binary Star](http://www.binarystar.ca) 
+* [silverorange](https://silverorange.com) 
+
+###### Organizers
+* cat-herder: [Ron Myers](https://twitter.com/RonKMyers)
+
 #### January 2022
 
 ##### Topics
