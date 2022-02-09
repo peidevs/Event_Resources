@@ -4,7 +4,7 @@ Update as appropriate for each MeetUp.
 ************* SEE PENDING MEETUP INFO HERE:
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
-## See [peidevs.github.io](http://peidevs.github.io)
+## Our website: [peidevs.github.io](http://peidevs.github.io)
 
 #### February 2022
 
