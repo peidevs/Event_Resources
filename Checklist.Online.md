@@ -37,7 +37,7 @@
 
 #### on night of the event (for regular MeetUps)
 
-* generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the announcements, etc
+* generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the [announcements](./Meetups.md), etc
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
 
 #### after the event
