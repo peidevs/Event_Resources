@@ -19,9 +19,11 @@ in Slack or check your email for a new link
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 #### Sponsors
-* [Forestry.io](https://forestry.io) 
+
 * [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
 * [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
 
 #### Organizers
 * cat-herder: [Ron Myers](https://twitter.com/RonKMyers)
