@@ -62,20 +62,20 @@ def getDataFromFile = { file ->
 }
 
 // e.g. SEP -> Sep 
-def getNormalizedMonth = { monthStr -> 
+def getMonthTitleCase = { monthStr -> 
     def lowerMonthStr = monthStr.toLowerCase()
     def result = lowerMonthStr[0].toUpperCase() + lowerMonthStr.substring(1)
     return result
 }
 
 testInfos.each { testInfo ->
-    assert getNormalizedMonth(testInfo.monthUpperCase) == testInfo.monthTitleCase
+    assert getMonthTitleCase(testInfo.monthUpperCase) == testInfo.monthTitleCase
 }
 
 // e.g. SEP -> 09
 def getMonth = { monthStr -> 
     def parser = java.time.format.DateTimeFormatter.ofPattern("MMM").withLocale(Locale.ENGLISH)
-    def accessor = parser.parse(getNormalizedMonth(monthStr))
+    def accessor = parser.parse(getMonthTitleCase(monthStr))
     def month = accessor.get(java.time.temporal.ChronoField.MONTH_OF_YEAR)
     return String.format("%02d", month)
 }
