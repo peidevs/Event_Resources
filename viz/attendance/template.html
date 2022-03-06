@@ -1,0 +1,50 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1.1', {packages: ['line']});
+    google.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+
+      let data = new google.visualization.DataTable();
+      data.addColumn('date', 'month');
+      data.addColumn('number', 'num_people');
+
+      data.addRows([
+__PEIDEVS_DATA
+/*
+[new Date('2022-03-01'),217],
+[new Date('2022-02-01'),250],
+[new Date('2022-01-01'),375],
+*/
+      ]);
+
+      let options = {
+        chart: {
+          title: 'Attendance',
+          subtitle: '# people',
+        },
+        axes: {
+            y: {
+                all: {
+                    range: {
+                        max: 50,
+                        min: 2
+                    }
+                }
+            }
+        },
+      };
+
+      let chart = new google.charts.Line(document.getElementById('linechart_material'));
+
+      chart.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+  <div id="linechart_material" style="width: 90%; height: 90%"></div>
+</body>
+</html>
+
