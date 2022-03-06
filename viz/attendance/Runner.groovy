@@ -1,5 +1,6 @@
 
 import groovy.transform.ToString
+import java.time.Month 
 
 /*
 input:
@@ -19,20 +20,14 @@ class RefInfo {
     def ordinal
 }
 
-final def refInfos = [
-    new RefInfo(month: "JAN", ordinal: 0),
-    new RefInfo(month: "FEB", ordinal: 1),
-    new RefInfo(month: "MAR", ordinal: 2),
-    new RefInfo(month: "APR", ordinal: 3),
-    new RefInfo(month: "MAY", ordinal: 4),
-    new RefInfo(month: "JUN", ordinal: 5),
-    new RefInfo(month: "JUL", ordinal: 6),
-    new RefInfo(month: "AUG", ordinal: 7),
-    new RefInfo(month: "SEP", ordinal: 8),
-    new RefInfo(month: "OCT", ordinal: 9),
-    new RefInfo(month: "NOV", ordinal: 10),
-    new RefInfo(month: "DEC", ordinal: 11),
-]
+final def refInfos = Month.values().collect { month ->
+    // e.g. "JAN", 0
+    //      ...
+    //      "DEC", 11
+    def shortMonth = month.toString().substring(0,3)
+    def value = month.value - 1
+    new RefInfo(month: shortMonth, ordinal: value)
+}
 
 @ToString
 class Info {
