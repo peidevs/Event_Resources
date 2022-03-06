@@ -12,26 +12,28 @@ output:
 */
 
 class TestInfo {
-    def month
+    def monthUpperCase
     def ordinal
-    def normalized
+    def monthTitleCase
 }
-def testInfos = []
-testInfos << new TestInfo(month: "JAN", ordinal: "01", normalized: "Jan")
-testInfos << new TestInfo(month: "FEB", ordinal: "02", normalized: "Feb")
-testInfos << new TestInfo(month: "MAR", ordinal: "03", normalized: "Mar")
-testInfos << new TestInfo(month: "APR", ordinal: "04", normalized: "Apr")
-testInfos << new TestInfo(month: "MAY", ordinal: "05", normalized: "May")
-testInfos << new TestInfo(month: "JUN", ordinal: "06", normalized: "Jun")
-testInfos << new TestInfo(month: "JUL", ordinal: "07", normalized: "Jul")
-testInfos << new TestInfo(month: "AUG", ordinal: "08", normalized: "Aug")
-testInfos << new TestInfo(month: "SEP", ordinal: "09", normalized: "Sep")
-testInfos << new TestInfo(month: "OCT", ordinal: "10", normalized: "Oct")
-testInfos << new TestInfo(month: "NOV", ordinal: "11", normalized: "Nov")
-testInfos << new TestInfo(month: "DEC", ordinal: "12", normalized: "Dec")
+
+def testInfos = [
+    new TestInfo(monthUpperCase: "JAN", ordinal: "01", monthTitleCase: "Jan"),
+    new TestInfo(monthUpperCase: "FEB", ordinal: "02", monthTitleCase: "Feb"),
+    new TestInfo(monthUpperCase: "MAR", ordinal: "03", monthTitleCase: "Mar"),
+    new TestInfo(monthUpperCase: "APR", ordinal: "04", monthTitleCase: "Apr"),
+    new TestInfo(monthUpperCase: "MAY", ordinal: "05", monthTitleCase: "May"),
+    new TestInfo(monthUpperCase: "JUN", ordinal: "06", monthTitleCase: "Jun"),
+    new TestInfo(monthUpperCase: "JUL", ordinal: "07", monthTitleCase: "Jul"),
+    new TestInfo(monthUpperCase: "AUG", ordinal: "08", monthTitleCase: "Aug"),
+    new TestInfo(monthUpperCase: "SEP", ordinal: "09", monthTitleCase: "Sep"),
+    new TestInfo(monthUpperCase: "OCT", ordinal: "10", monthTitleCase: "Oct"),
+    new TestInfo(monthUpperCase: "NOV", ordinal: "11", monthTitleCase: "Nov"),
+    new TestInfo(monthUpperCase: "DEC", ordinal: "12", monthTitleCase: "Dec")
+]
 
 class Info {
-    def month
+    def monthUpperCase
     def year
     def numAttendance
 }
@@ -43,7 +45,7 @@ def getDataFromLine = { line ->
     def year = dateTokens[1]
     def numAttendance = tokens[1]
 
-    def result = new Info(month: month, year: year, numAttendance: numAttendance)
+    def result = new Info(monthUpperCase: month, year: year, numAttendance: numAttendance)
     return result
 }
 
@@ -67,7 +69,7 @@ def getNormalizedMonth = { monthStr ->
 }
 
 testInfos.each { testInfo ->
-    assert getNormalizedMonth(testInfo.month) == testInfo.normalized
+    assert getNormalizedMonth(testInfo.monthUpperCase) == testInfo.monthTitleCase
 }
 
 // e.g. SEP -> 09
@@ -79,36 +81,33 @@ def getMonth = { monthStr ->
 }
 
 testInfos.each { testInfo ->
-    assert getMonth(testInfo.month) == testInfo.ordinal
+    assert getMonth(testInfo.monthUpperCase) == testInfo.ordinal
 }
 
 def buildTokenFromRec = { rec ->
-    def month = getMonth(rec.month) 
+    def month = getMonth(rec.monthUpperCase) 
     def date = "\"${rec.year}-${month}-01\""
     def result = "[new Date(${date}),${rec.numAttendance}],"
     return result
 }
 
-def testInfo = new Info(year: 2022, month: "NOV", numAttendance: 5150)
+def testInfo = new Info(year: 2022, monthUpperCase: "NOV", numAttendance: 5150)
 assert buildTokenFromRec(testInfo) == '[new Date("2022-11-01"),5150],'
 
-def buildToken = { recs ->
-    def result = new StringBuilder() 
-    recs.each { rec ->
-        result.append(buildTokenFromRec(rec))
-        result.append("\n")
-    }
-    return result.toString()
+def NEW_LINE = "\n"
+
+def buildToken = { infos ->
+    return infos.collect { buildTokenFromRec(it) }.join(NEW_LINE)
 }
 
 final String SUBSTITUTION_TOKEN = "__PEIDEVS_DATA"
 
-def writeFile = { outputFile, templateFile, data ->
+def writeFile = { outputFile, templateFile, infos ->
     outputFile.withWriter { writer ->
         templateFile.eachLine { line -> 
             def isToken = line.trim() == SUBSTITUTION_TOKEN
             if (isToken) {
-                writer.write(data)
+                writer.write(infos)
             } else {
                 writer.write(line)
             }
@@ -130,8 +129,8 @@ def outputHtml = new File(args[2])
 assert csvFile.exists() && csvFile.isFile()
 assert templateHtml.exists() && templateHtml.isFile()
 
-def data = getDataFromFile(csvFile)
-def substitutionData = buildToken(data)
-writeFile(outputHtml, templateHtml, substitutionData)
+def infos = getDataFromFile(csvFile)
+def data = buildToken(infos)
+writeFile(outputHtml, templateHtml, data)
 
 println "Ready."
