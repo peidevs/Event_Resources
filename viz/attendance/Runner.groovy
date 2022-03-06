@@ -1,4 +1,6 @@
 
+import groovy.transform.ToString
+
 /*
 input:
 Date,#,Venue,Cat Herder,Type,Speaker 1, Topic 1,Speaker 2, Topic 2,Sponsors,A/V Support,Type Context
@@ -6,34 +8,35 @@ FEB 2022,15,SZ,Ron Myers,,James O'Halloran,TinaCMS,,,"Forestry,silverorange,Bina
 JAN 2022,31,SZ,Nolan Phillips,,Steven Baker,xUnit Pattern,,,"Forestry,silverorange,Binary Star",,
 
 output:
-[new Date('2022-03-01'),217],
-[new Date('2022-02-01'),250],
-[new Date('2022-01-01'),375],
+[new Date(2022,0,1),217],
+[new Date(2022,1,1),250],
+[new Date(2022,2,1),375],
 */
 
-class TestInfo {
-    def monthUpperCase
+@ToString
+class RefInfo {
+    def month
     def ordinal
-    def monthTitleCase
 }
 
-def testInfos = [
-    new TestInfo(monthUpperCase: "JAN", ordinal: "01", monthTitleCase: "Jan"),
-    new TestInfo(monthUpperCase: "FEB", ordinal: "02", monthTitleCase: "Feb"),
-    new TestInfo(monthUpperCase: "MAR", ordinal: "03", monthTitleCase: "Mar"),
-    new TestInfo(monthUpperCase: "APR", ordinal: "04", monthTitleCase: "Apr"),
-    new TestInfo(monthUpperCase: "MAY", ordinal: "05", monthTitleCase: "May"),
-    new TestInfo(monthUpperCase: "JUN", ordinal: "06", monthTitleCase: "Jun"),
-    new TestInfo(monthUpperCase: "JUL", ordinal: "07", monthTitleCase: "Jul"),
-    new TestInfo(monthUpperCase: "AUG", ordinal: "08", monthTitleCase: "Aug"),
-    new TestInfo(monthUpperCase: "SEP", ordinal: "09", monthTitleCase: "Sep"),
-    new TestInfo(monthUpperCase: "OCT", ordinal: "10", monthTitleCase: "Oct"),
-    new TestInfo(monthUpperCase: "NOV", ordinal: "11", monthTitleCase: "Nov"),
-    new TestInfo(monthUpperCase: "DEC", ordinal: "12", monthTitleCase: "Dec")
+final def refInfos = [
+    new RefInfo(month: "JAN", ordinal: 0),
+    new RefInfo(month: "FEB", ordinal: 1),
+    new RefInfo(month: "MAR", ordinal: 2),
+    new RefInfo(month: "APR", ordinal: 3),
+    new RefInfo(month: "MAY", ordinal: 4),
+    new RefInfo(month: "JUN", ordinal: 5),
+    new RefInfo(month: "JUL", ordinal: 6),
+    new RefInfo(month: "AUG", ordinal: 7),
+    new RefInfo(month: "SEP", ordinal: 8),
+    new RefInfo(month: "OCT", ordinal: 9),
+    new RefInfo(month: "NOV", ordinal: 10),
+    new RefInfo(month: "DEC", ordinal: 11),
 ]
 
+@ToString
 class Info {
-    def monthUpperCase
+    def month
     def year
     def numAttendance
 }
@@ -41,11 +44,11 @@ class Info {
 def getDataFromLine = { line -> 
     def tokens = line.trim().split(",")
     def dateTokens = tokens[0].split(" ")
-    def month = dateTokens[0]
+    def month = refInfos.find{ it.month == dateTokens[0]}.ordinal
     def year = dateTokens[1]
     def numAttendance = tokens[1]
 
-    def result = new Info(monthUpperCase: month, year: year, numAttendance: numAttendance)
+    def result = new Info(month: month, year: year, numAttendance: numAttendance)
     return result
 }
 
@@ -61,38 +64,23 @@ def getDataFromFile = { file ->
     return result
 }
 
-// e.g. SEP -> Sep 
-def getMonthTitleCase = { monthStr -> 
-    def lowerMonthStr = monthStr.toLowerCase()
-    def result = lowerMonthStr[0].toUpperCase() + lowerMonthStr.substring(1)
-    return result
-}
-
-testInfos.each { testInfo ->
-    assert getMonthTitleCase(testInfo.monthUpperCase) == testInfo.monthTitleCase
-}
-
-// e.g. SEP -> 09
+// e.g. SEP -> 8 
 def getMonth = { monthStr -> 
-    def parser = java.time.format.DateTimeFormatter.ofPattern("MMM").withLocale(Locale.ENGLISH)
-    def accessor = parser.parse(getMonthTitleCase(monthStr))
-    def month = accessor.get(java.time.temporal.ChronoField.MONTH_OF_YEAR)
-    return String.format("%02d", month)
+    return refInfos.find{ it.month == monthStr }.ordinal
 }
 
-testInfos.each { testInfo ->
-    assert getMonth(testInfo.monthUpperCase) == testInfo.ordinal
+// test
+refInfos.each { testInfo ->
+    assert getMonth(testInfo.month) == testInfo.ordinal
 }
 
 def buildTokenFromRec = { rec ->
-    def month = getMonth(rec.monthUpperCase) 
-    def date = "\"${rec.year}-${month}-01\""
-    def result = "[new Date(${date}),${rec.numAttendance}],"
+    def result = "[new Date(${rec.year},${rec.month},1),${rec.numAttendance}],"
     return result
 }
 
-def testInfo = new Info(year: 2022, monthUpperCase: "NOV", numAttendance: 5150)
-assert buildTokenFromRec(testInfo) == '[new Date("2022-11-01"),5150],'
+def testInfo = new Info(year: 2022, month: 10, numAttendance: 5150)
+assert buildTokenFromRec(testInfo) == '[new Date(2022,10,1),5150],'
 
 def NEW_LINE = "\n"
 
@@ -119,7 +107,13 @@ def writeFile = { outputFile, templateFile, infos ->
 // ---------- main
 
 if (args.length < 3) {
-    System.err.println "usage: groovy Runner.groovy csv-file template-html output-html"
+    if (args.length >= 1 && args[0] == "test") {
+        // no-op: run tests
+        System.exit 0 
+    } else {
+        System.err.println "usage: groovy Runner.groovy csv-file template-html output-html"
+        System.exit -1 
+    }
 }
 
 def csvFile = new File(args[0])
