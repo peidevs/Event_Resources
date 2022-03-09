@@ -9,13 +9,15 @@
 
       let data = new google.visualization.DataTable();
       data.addColumn('date', 'month');
-      data.addColumn('number', 'num_people');
+      data.addColumn('number', '# RSVPed as yes');
+      data.addColumn('number', 'average #');
 
       data.addRows([
 __PEIDEVS_DATA
       ]);
 
       let options = {
+        curve: 'function',
         chart: {
           title: 'Attendance',
           subtitle: '# people',

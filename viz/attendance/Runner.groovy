@@ -9,9 +9,9 @@ FEB 2022,15,SZ,Ron Myers,,James O'Halloran,TinaCMS,,,"Forestry,silverorange,Bina
 JAN 2022,31,SZ,Nolan Phillips,,Steven Baker,xUnit Pattern,,,"Forestry,silverorange,Binary Star",,
 
 output:
-[new Date(2022,0,1),217],
-[new Date(2022,1,1),250],
-[new Date(2022,2,1),375],
+[new Date(2022,0,1),217,$avg],
+[new Date(2022,1,1),250,$avg],
+[new Date(2022,2,1),375,$avg],
 */
 
 @ToString
@@ -69,18 +69,18 @@ refInfos.each { testInfo ->
     assert getMonth(testInfo.month) == testInfo.ordinal
 }
 
-def buildTokenFromRec = { rec ->
-    def result = "[new Date(${rec.year},${rec.month},1),${rec.numAttendance}],"
+def buildTokenFromRec = { rec, average ->
+    def result = "[new Date(${rec.year},${rec.month},1),${rec.numAttendance},${average}],"
     return result
 }
 
 def testInfo = new Info(year: 2022, month: 10, numAttendance: 5150)
-assert buildTokenFromRec(testInfo) == '[new Date(2022,10,1),5150],'
+assert buildTokenFromRec(testInfo,123) == '[new Date(2022,10,1),5150,123],'
 
 def NEW_LINE = "\n"
 
-def buildToken = { infos ->
-    return infos.collect { buildTokenFromRec(it) }.join(NEW_LINE)
+def buildToken = { infos, average ->
+    return infos.collect { buildTokenFromRec(it, average) }.join(NEW_LINE)
 }
 
 final String SUBSTITUTION_TOKEN = "__PEIDEVS_DATA"
@@ -97,6 +97,13 @@ def writeFile = { outputFile, templateFile, infos ->
             writer.write("\n")
         }
     }
+}
+
+def getAverageAttendance = { infos ->
+    def count = infos.size()
+    def total = infos.sum { it.numAttendance as int }
+    def result = total / count as int
+    return result
 }
 
 // ---------- main
@@ -119,7 +126,8 @@ assert csvFile.exists() && csvFile.isFile()
 assert templateHtml.exists() && templateHtml.isFile()
 
 def infos = getDataFromFile(csvFile)
-def data = buildToken(infos)
+def average = getAverageAttendance(infos)
+def data = buildToken(infos, average)
 writeFile(outputHtml, templateHtml, data)
 
 println "Ready."
