@@ -2,6 +2,9 @@
 
 * Ron Myers will cat-herd: Feb, March, April 2022
 * Chris Macrae: "sign me up for August [2022]"
+* Jordan Patterson:
+    - available on short-notice for Kubernetes
+    - also for cloud/edge protection against bots
 
 ### Misc
 
