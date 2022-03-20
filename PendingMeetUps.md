@@ -1,6 +1,7 @@
 ### Upcoming
 
 * Ron Myers will cat-herd: Feb, March, April 2022
+* Chris Macrae: "sign me up for August [2022]"
 
 ### Misc
 
