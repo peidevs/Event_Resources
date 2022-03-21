@@ -1,6 +1,7 @@
 ### Upcoming
 
-* Ron Myers will cat-herd: Feb, March, April 2022
+* Ron Myers will cat-herd: Feb/Mar/Apr 2022
+* April 2022: Samuel Arnold will speak on ??? 
 * Chris Macrae: "sign me up for August [2022]"
 * Jordan Patterson:
     - available on short-notice for Kubernetes
