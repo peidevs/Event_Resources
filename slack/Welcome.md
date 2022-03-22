@@ -6,12 +6,13 @@ Welcome to the PEI Devs Slack team!
 Here's a list of our most popular channels:
 
 * `#general` - general discussion 
-* `#intros` - **if you're new** to our Slack, say hello here. Feel free to write a brief bio with your interests etc.
+* `#intros` - Say hello here. Feel free to write a brief bio with your interests etc.
 * `#jobs` - job postings
 * `#peidevs` - coding, or the PEI Devs group itself
+* `#i-made-this` - Show and tell: share something cool that you made (or, say, a pull-request to an open-source project).
 * `#bookclub` - a reading group, often hosted in Summerside 
 * `#opendata` - discussion on Open Data and Open Gov (formerly the _Open Data Book Club_)
-* `#q_and_a` - Questions and Answers on tech topics
+* `#q-and-a` - Questions and Answers on tech topics
     * Stuck with a problem? Brain-storming an idea? Maybe someone can help out.
     * Note that Slack is not necessarily the ideal medium for big topics
         * But don't let that deter you. If a topic is too large, someone might (?) suggest getting coffee or chatting at a MeetUp.
