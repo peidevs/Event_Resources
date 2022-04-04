@@ -9,11 +9,16 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### April 2022
 
 #### Topics
-* Samuel Arnold on TBD
+* Samuel Arnold on "Database Internals - A Guide Tour"
 
 #### Announcements
+* our 10th anniversary! Dustin Sparks created PEI Devs in April 2012.
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * new `#i-made-this` channel in our Slack
+* door-prize after the presentation
+    - thanks to Binary Star
+    - attendees who RSVPed as Yes are eligible
+    - elders are not in the draw
 
 #### Sponsors
 
