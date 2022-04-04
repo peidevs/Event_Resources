@@ -16,9 +16,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * new `#i-made-this` channel in our Slack
 * door-prize after the presentation
-    - thanks to Binary Star
-    - attendees who RSVPed as Yes are eligible
-    - elders are not in the draw
+    - thanks to Binary Star for sponsoring
+    - attendees who RSVPed as Yes are eligible; winners must be present at the meeting.
+    - elders are not eligible
+    - several examples of 'door-prize picker' listed [here](https://github.com/peidevs/Resources/blob/master/Examples.md)
 
 #### Sponsors
 
