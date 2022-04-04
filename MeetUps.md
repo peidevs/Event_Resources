@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### April 2022
 
 #### Topics
-* Samuel Arnold on "Database Internals - A Guide Tour"
+* [Sam Arnold](https://github.com/lesam) on "Database Internals - A Guide Tour"
 
 #### Announcements
 * our 10th anniversary! Dustin Sparks created PEI Devs in April 2012.
