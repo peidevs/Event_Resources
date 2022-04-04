@@ -1,5 +1,6 @@
 
-var NUM_ATTENDEES = 30;
+/*
+const NUM_ATTENDEES = 30;
 
 function generateNumericList(n) {
   var list = [];
@@ -10,5 +11,19 @@ function generateNumericList(n) {
   
   return list;
 }
+*/
 
-var ATTENDEE_LIST = generateNumericList(NUM_ATTENDEES);
+const ATTENDEE_LIST = [
+"Beethoven",
+"Mozart",
+"Liszt",
+"Paganini",
+"Chopin",
+"Bach",
+"Mendelssohn",
+"Brahms",
+"Rachmaninoff",
+"Shostakovich",
+"Martines",
+"Schumann",
+];
