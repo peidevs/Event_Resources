@@ -9,6 +9,9 @@
 
 ### Misc
 
+* Civic Tech Fredericton has offered to speak on civic tech
+    - https://twitter.com/CivicTechFred/status/1512386614827364358
+    - M. Easter met with their parent group in the summer of 2020 and can explain more
 * consider a meetup dedicated to asking juniors what they would like to see for mentorship channel in Slack
 * one idea is a panel on technologies that have stood/will stand the test of time
     - inspired by [this video](https://www.youtube.com/watch?v=lnMvLePCHmU)
