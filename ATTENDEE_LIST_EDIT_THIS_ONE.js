@@ -14,6 +14,7 @@ function generateNumericList(n) {
 */
 
 const ATTENDEE_LIST = [
+"Glen A",
 "Ankit J",
 "Samuel A",
 "Gregor M",
