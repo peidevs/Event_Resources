@@ -17,8 +17,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * new `#i-made-this` channel in our Slack
 * door-prize after the presentation
     - thanks to Binary Star for sponsoring
-    - attendees who RSVPed as Yes are eligible; winners must be present at the meeting.
-    - elders are not eligible
+    - eligible: (a) RSVPed as Yes (b) reside on PEI (c) present on call at time of draw
+    - past/present elders are not eligible
     - several examples of 'door-prize picker' listed [here](https://github.com/peidevs/Resources/blob/master/Examples.md)
 
 #### Sponsors
