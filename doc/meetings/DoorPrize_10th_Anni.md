@@ -9,8 +9,3 @@
     - past/present elders are not eligible
     - several examples of 'door-prize picker' listed [here](https://github.com/peidevs/Resources/blob/master/Examples.md)
 
-* Binary Fleece sweater #1
-* Binary Fleece sweater #2
-* $100 gift-card to Famous Peppers
-* Ducky keyboard
-
