@@ -1,6 +1,7 @@
 ### Upcoming
 
 * Ron Myers will cat-herd: May 2022
+    - meeting online
 * Evan Porter will cat-herd: Jun, Aug, Sept 2022
 * we are usually on summer break for July
 * Chris Macrae: "sign me up for August [2022]"
