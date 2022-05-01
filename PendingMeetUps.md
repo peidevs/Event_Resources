@@ -1,7 +1,8 @@
 ### Upcoming
 
-* Ron Myers will cat-herd: Feb/Mar/Apr 2022
-* April 2022: Samuel Arnold will speak on ??? 
+* Ron Myers will cat-herd: May 2022
+* Evan Porter will cat-herd: Jun, Aug, Sept 2022
+* we are usually on summer break for July
 * Chris Macrae: "sign me up for August [2022]"
 * Jordan Patterson:
     - available on short-notice for Kubernetes
@@ -9,6 +10,7 @@
 
 ### Misc
 
+* Michael Easter on Project Loom in Java
 * Civic Tech Fredericton has offered to speak on civic tech
     - https://twitter.com/CivicTechFred/status/1512386614827364358
     - M. Easter met with their parent group in the summer of 2020 and can explain more
