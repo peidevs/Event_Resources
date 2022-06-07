@@ -25,11 +25,10 @@
 #### 1-2 days prior to event
 
 * send out an email reminder
-* arrange for PEI Vax Pass bouncers at the door
 
 #### on night of the event (for regular MeetUps)
 
-* generally, the Cat Herder is the emcee. If no other arrangements have been made, s/he will read the [announcements](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md), etc
+* generally, the Cat Herder is the emcee. If no other arrangements have been made, they will read the [announcements](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md), etc
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
 
 #### after the event
