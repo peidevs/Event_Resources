@@ -6,7 +6,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## Our website: [peidevs.github.io](http://peidevs.github.io)
 
-### Jun 2022
+### June 2022
 
 #### Topics
 * [Michael Easter](https://www.linkedin.com/in/codetojoy) on "Project Loom: A Summary For Busy Developers"
