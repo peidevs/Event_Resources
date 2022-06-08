@@ -6,6 +6,24 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## Our website: [peidevs.github.io](http://peidevs.github.io)
 
+### Jun 2022
+
+#### Topics
+* [Michael Easter](https://www.linkedin.com/in/codetojoy) on "Project Loom: A Summary For Busy Developers"
+
+#### Announcements
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
+#### Organizers
+* cat-herder: [Evan Porter](https://twitter.com/evanepio)
+
 ### May 2022
 
 #### Topics
@@ -24,7 +42,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Organizers
 * cat-herder: [Ron Myers](https://twitter.com/RonKMyers)
-
 
 ### April 2022
 
