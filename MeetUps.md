@@ -13,6 +13,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Announcements
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* congrats to (sponsor) Binary Star on [joining forces with Levio](https://www.linkedin.com/posts/levioconsulting_levio-acquires-binary-star-a-maritime-success-activity-6940390076736561152-vZQ4)
 
 #### Sponsors
 
