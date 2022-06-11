@@ -31,6 +31,14 @@
 * generally, the Cat Herder is the emcee. If no other arrangements have been made, they will read the [announcements](https://github.com/peidevs/Event_Resources/blob/master/MeetUps.md), etc
 * the Cat Herder is also the "time police" and should tell the speakers when they have 5 minutes to go
 
+#### Startup Zone projector
+
+* as of JUN-2022
+* there might be a power button on the controls on the pillar?
+* look for NEC remote control
+* choose input
+    - I think we used HDMI 2 but try various options
+
 #### after the event
 
 * Startup Zone co-ordinator asked us to:
