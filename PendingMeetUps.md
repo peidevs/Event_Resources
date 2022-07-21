@@ -9,7 +9,6 @@
 
 ### Misc
 
-* Michael Easter on Project Loom in Java
 * Civic Tech Fredericton has offered to speak on civic tech
     - https://twitter.com/CivicTechFred/status/1512386614827364358
     - M. Easter met with their parent group in the summer of 2020 and can explain more
