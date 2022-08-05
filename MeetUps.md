@@ -9,7 +9,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### August 2022
 
 #### Topics
-* [Chris Macrae] on TBA
+* [Chris Macrae] on Progressive Web Apps (PWAs) that act like native apps
 
 #### Announcements
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
