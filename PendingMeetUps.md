@@ -2,7 +2,7 @@
 
 * Evan Porter will cat-herd: Jun, Aug, Sept 2022
 * we are usually on summer break for July
-* Chris Macrae: "sign me up for August [2022]"
+* Mark Wright - would like to present on Deno potentially September ( official website https://deno.land/ )
 * Jordan Patterson:
     - available on short-notice for Kubernetes
     - also for cloud/edge protection against bots
