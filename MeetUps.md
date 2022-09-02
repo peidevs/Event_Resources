@@ -9,6 +9,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### August 2022
 
 #### Topics
+* Mark Wright on Deno and the Rise of Edge Computing
+
+#### Announcements
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
+#### Organizers
+* cat-herder: Evan Porter
+
+
+### August 2022
+
+#### Topics
 * [Chris Macrae] on Progressive Web Apps (PWAs) that act like native apps
 
 #### Announcements
