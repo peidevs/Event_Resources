@@ -13,6 +13,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Announcements
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* [Our 100th Meetup on Record](https://github.com/peidevs/Event_Resources/blob/master/MeetUps_v2.csv)
 
 #### Sponsors
 
