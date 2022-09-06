@@ -6,7 +6,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## Our website: [peidevs.github.io](http://peidevs.github.io)
 
-### August 2022
+### September 2022
 
 #### Topics
 * Mark Wright on Deno and the Rise of Edge Computing
@@ -24,7 +24,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Organizers
 * cat-herder: Evan Porter
-
 
 ### August 2022
 
