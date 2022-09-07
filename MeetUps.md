@@ -14,6 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Announcements
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * [Our 100th Meetup on Record](https://github.com/peidevs/Event_Resources/blob/master/MeetUps_v2.csv)
+* Cividia Inc. is looking for a CTO/co-founder. Details [here](https://www.dropbox.com/s/yc010hf27n2e4rj/Civida%20Inc.%20%20-%20CTO%20and%20co-founder.pdf?dl=0) and in our Slack `#jobs` channel
 
 #### Sponsors
 
