@@ -6,6 +6,44 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## Our website: [peidevs.github.io](http://peidevs.github.io)
 
+### November 2022
+
+#### Topics
+* "Accessible Design" - [Jamie Gerrard](https://twitter.com/JamieGerrard)
+* "Managing your infrastructure with code" - [Andrew Reid](https://ca.linkedin.com/in/andrew-reid-23442096)
+
+#### Announcements
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* no meetup in December: Happy Holidays
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
+#### Organizers
+* cat-herder: Ron Myers
+
+### October 2022
+
+#### Topics
+* Tech strategies for Fiona
+
+#### Announcements
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
+#### Organizers
+* cat-herder: Evan Porter
+
 ### September 2022
 
 #### Topics
