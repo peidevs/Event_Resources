@@ -1,6 +1,7 @@
 ### Upcoming
 
-* Evan Porter will cat-herd: Jun, Aug, Sept 2022
+* Michael Easter will cat-herd Jan, Feb, Mar 2023
+* Bob Shand is a soft commit for 2023 on yubi (sp?) keys
 
 ### Misc
 
