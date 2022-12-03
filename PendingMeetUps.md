@@ -1,8 +1,9 @@
 ### Upcoming
 
 * Michael Easter will cat-herd Jan, Feb, Mar 2023
-* Bob Shand is a soft commit for 2023 on yubi (sp?) keys
-* Jordan Patterson is a soft commit for 2023 on (a) Bluetooth or (b) web-authentication
+* Bob Shand is a soft commit for Jan 2023 on yubi (sp?) keys
+* Jordan Patterson is a soft commit for Feb 2023 on (a) Bluetooth or (b) web-authentication
+* TODO: follow-up with Kevin Greer for Mar 2023 on FOAM framework
 
 ### Misc
 

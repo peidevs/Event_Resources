@@ -12,5 +12,5 @@ Here are some tips for being the emcee/host at meetups:
     - remove the burden of time management from the speaker
     - give them a 5-minute warning so they can wrap-up coherently
     - enforce time boundaries so people can ask questions and things stay on track
-        - sometimes a speaker will fixate on hammering through their precious slides, but it is better to have Q&A than "make it to the end". If the speaker blew the time boundary, that's their problem
+        - sometimes a speaker will fixate on hammering through their precious slides, but it is better to have Q&A than "make it to the end". If the speaker blew the time constraint, that's their problem.
   
