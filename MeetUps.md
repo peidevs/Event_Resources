@@ -6,6 +6,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## Our website: [peidevs.github.io](http://peidevs.github.io)
 
+### January 2023
+
+#### Topics
+* NOTE: We will beta-test Three Hippies software for this meetup. M. Easter will handle it.
+* TBA
+
+#### Announcements
+* sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
+#### Organizers
+* cat-herder: [Michael Easter](https://twitter.com/codetojoy)
+
 ### November 2022
 
 #### Topics
