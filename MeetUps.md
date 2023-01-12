@@ -4,8 +4,9 @@ Update as appropriate for each MeetUp.
 ************* SEE PENDING MEETUP INFO HERE:
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
-## Our website: [peidevs.github.io](http://peidevs.github.io)
-## [PEI IT Alliance](https://peiitalliance.com/pei-devs) - not-for-profit voice of the IT industry of PEI
+## websites:
+* our legacy website: [peidevs.github.io](http://peidevs.github.io)
+* [PEI IT Alliance](https://peiitalliance.com/pei-devs) - voice of the IT industry of PEI
 
 ### January 2023
 
