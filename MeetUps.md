@@ -9,10 +9,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### January 2023
 
 #### Topics
-* NOTE: We will beta-test Three Hippies software for this meetup. M. Easter will handle it.
-* TBA
+* "Hardware security tokens - Yubikeys and you" by [Bob Shand](https://twitter.com/feralbob) 
 
 #### Announcements
+* [Locarius](https://locarius.io) ticketing software by [Three Hippies](https://threehippies.com).
 * sticky: see `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 
 #### Sponsors
