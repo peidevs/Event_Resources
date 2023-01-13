@@ -1,12 +1,14 @@
 ### Upcoming
 
 * Michael Easter will cat-herd Jan, Feb, Mar 2023
-* Bob Shand is a soft commit for JAN 2023 on yubi (sp?) keys
 * Jordan Patterson is a soft commit for FEB 2023 on (a) Bluetooth or (b) web-authentication
+* Terry Smith is potential for March on metal-detecting
 * Kevin Greer is a soft commit for APR 2023 on FOAM framework
 
 ### Misc
 
+* Nolan Phillips
+    - formal grammar for a project-specific language as a design guide
 * Jordan Patterson:
     - available on short-notice for Kubernetes
     - also for cloud/edge protection against bots
@@ -16,7 +18,7 @@
 * consider a meetup dedicated to asking juniors what they would like to see for mentorship channel in Slack
 * one idea is a panel on technologies that have stood/will stand the test of time
     - inspired by [this video](https://www.youtube.com/watch?v=lnMvLePCHmU)
-* srbaker has kindly offered to talk on software licenses
+* srbaker has offered to talk on software licenses
     - significant interest in the idea, in Slack convo
     - Thursday night is a conflict, which is a bummer
 * Fenil on image recognition
