@@ -2,7 +2,7 @@
 
 * Michael Easter will cat-herd Jan, Feb, Mar 2023
 * Jordan Patterson is a soft commit for FEB 2023 on (a) Bluetooth or (b) web-authentication
-* Terry Smith is potential for March on metal-detecting
+* Terry Smith is a soft commit for March on metal-detecting
 * Kevin Greer is a soft commit for APR 2023 on FOAM framework
 
 ### Misc
