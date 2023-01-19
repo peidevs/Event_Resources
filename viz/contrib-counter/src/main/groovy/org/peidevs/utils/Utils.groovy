@@ -32,7 +32,10 @@ class Utils {
             results << tokens[0].trim()
             results << tokens[1].trim()
         } else {
-            results << field.trim()
+            def trimField = field.trim()
+            if (trimField) {
+                results << trimField
+            }
         }
         results
     }

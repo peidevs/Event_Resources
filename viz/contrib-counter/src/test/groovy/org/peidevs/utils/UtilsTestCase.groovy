@@ -1,8 +1,8 @@
 
 package org.peidevs.utils
 
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.*
 
 class UtilsTestCase {
     def utils = new Utils()
@@ -14,6 +14,14 @@ class UtilsTestCase {
 
         assertEquals(1, results.size())
         assertEquals('abc', results[0])
+    }
+
+    @Test
+    void testGetValuesFromField_empty() {
+        // test
+        def results = utils.getValuesFromField('  ')
+
+        assertEquals(0, results.size())
     }
 
     @Test
