@@ -1,6 +1,7 @@
 
 apply plugin: 'groovy'
 apply plugin: 'application'
+apply plugin: 'jacoco'
 
 mainClassName = 'org.peidevs.system.Runner'
 
@@ -34,5 +35,13 @@ test {
     testLogging {
         events "passed", "failed"
     }
+    finalizedBy jacocoTestReport
 }
 
+jacocoTestReport {
+    dependsOn test
+}
+
+jacoco {
+    toolVersion = "0.8.8"
+}

@@ -3,6 +3,6 @@
 set -e 
 
 echo "testing..."
-./gradlew clean test
+./gradlew test
 
 echo "Ready."
