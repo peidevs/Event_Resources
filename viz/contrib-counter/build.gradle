@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.xlson.groovycsv:groovycsv:1.0'
+    implementation 'com.xlson.groovycsv:groovycsv:1.3'
     implementation 'org.apache.groovy:groovy:4.0.6'
 
     testImplementation(platform("org.junit:junit-bom:5.9.1"))

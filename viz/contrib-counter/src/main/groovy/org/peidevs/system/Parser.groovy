@@ -1,27 +1,15 @@
 
 package org.peidevs.system
 
-import static com.xlson.groovycsv.CsvParser.parseCsv
+import com.xlson.groovycsv.CsvParser
 
 class Parser {
-    def infoMapper
-
-    def parseFile = { def text, def infos  ->
-        def results = []
-        results.addAll(infos)
-
-        def data = parseCsv(text)
+    void parse(String text, LineListener lineListener) {
+        def data = CsvParser.parseCsv(text)
 
         data.each { def line ->
-            def info = infoMapper.mapLine(line)
-            if (info) {
-                results << info
-            } else {
-                System.err.println "TRACER: skipping " + line
-            }
+            lineListener.notify(line)
         }
-
-        return results
     }
 }
 

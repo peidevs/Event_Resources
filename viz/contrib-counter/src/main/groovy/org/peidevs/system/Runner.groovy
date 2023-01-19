@@ -1,26 +1,17 @@
 
 package org.peidevs.system
 
-import org.peidevs.custom.Config
+import org.peidevs.custom.*
 
 class Runner {
 
     final def parser = new Config().parser
 
     def buildInfos(def infile) {
-        def infos = []
-        def isHeader = true
-        def header = ""
-
-        new File(infile).eachLine { line ->
-            if (isHeader) {
-                isHeader = false
-                header = line
-            } else {
-                def text = "${header}\n${line}\n"
-                infos = parser.parseFile(text, infos)
-            }
-        }
+        def text = new File(infile).getText()
+        def accumulator = new Accumulator()
+        parser.parse(text, accumulator)
+        def infos = accumulator.infos
 
         return infos
     }
@@ -49,5 +40,3 @@ class Runner {
         new Runner().run(infile)
     }
 }
-
-
