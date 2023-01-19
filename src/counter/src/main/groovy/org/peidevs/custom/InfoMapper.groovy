@@ -23,8 +23,6 @@ class InfoMapper {
     static final def TYPE_LIGHTNING = 'L'
     static final def TYPE_PANEL = 'P'
 
-    def utils = new Utils()
-
     def mapLine(def line) {
         def info = null
 
@@ -45,7 +43,7 @@ class InfoMapper {
                 values << line.getAt(INDEX_SPEAKER_1)
                 values << line.getAt(INDEX_SPEAKER_2)
             } else if (trimType == TYPE_LIGHTNING || trimType == TYPE_PANEL) {
-                def contextValues = utils.getValues(line.getAt(INDEX_TYPE_CONTEXT))
+                def contextValues = new Utils().getValues(line.getAt(INDEX_TYPE_CONTEXT))
                 values.addAll(contextValues)
             } else {
                 System.err.println "TRACER SEVERE ERROR ON TYPE"

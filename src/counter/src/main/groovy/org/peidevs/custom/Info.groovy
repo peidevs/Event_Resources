@@ -6,14 +6,8 @@ import org.peidevs.utils.Utils
 class Info {
     def values = []
 
-    static def utils = new Utils()
-
     Info(def values) {
-        values.each { value ->
-            if (value.trim()) {
-                this.values << value
-            }
-        }
+        this.values = values.collect { it.trim() }.findAll { ! it.isEmpty() }
     }
 
     static String getHeader() {
@@ -21,6 +15,6 @@ class Info {
     }
 
     String toString() {
-        utils.buildList(values)
+        new Utils().buildList(values)
     }
 }

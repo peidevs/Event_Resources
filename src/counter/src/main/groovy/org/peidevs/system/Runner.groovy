@@ -5,16 +5,7 @@ import org.peidevs.custom.Config
 
 class Runner {
 
-    def parser = new Config().parser
-    // def outputHeader
-
-    /*
-    def Runner() {
-        def config = new Config()
-        parser = config.parser
-        // outputHeader = config.outputHeader
-    }
-    */
+    final def parser = new Config().parser
 
     def buildInfos(def infile) {
         def infos = []
@@ -40,14 +31,9 @@ class Runner {
         }
     }
 
-    def buildCountMap(def infos) {
-        def counter = new Counter()
-        counter.countEntries(infos)
-    }
-
     def run(def infile) {
         def infos = buildInfos(infile)
-        def countMap = buildCountMap(infos)
+        def countMap = new Counter().countEntries(infos)
         generateOutput(countMap)
     }
 
