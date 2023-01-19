@@ -10,10 +10,6 @@ class Info {
         this.values = values.collect { it.trim() }.findAll { ! it.isEmpty() }
     }
 
-    static String getHeader() {
-        "N/A" // utils.buildList(["key","value"])
-    }
-
     String toString() {
         new Utils().buildList(values)
     }

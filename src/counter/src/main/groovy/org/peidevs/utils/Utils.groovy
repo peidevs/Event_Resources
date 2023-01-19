@@ -37,6 +37,6 @@ class Utils {
 
     def getValues(def listString) {
         def tokens = listString.split(",")
-        tokens.findAll { ! it.trim().isEmpty() }.collect { it.trim() }
+        tokens.collect{ it.trim() }.findAll { ! it.isEmpty() }
     }
 }

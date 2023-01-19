@@ -46,7 +46,7 @@ class InfoMapper {
                 def contextValues = new Utils().getValues(line.getAt(INDEX_TYPE_CONTEXT))
                 values.addAll(contextValues)
             } else {
-                System.err.println "TRACER SEVERE ERROR ON TYPE"
+                System.err.println "TRACER SEVERE ERROR ON type: ${type}"
             }
 
             info = new Info(values)
