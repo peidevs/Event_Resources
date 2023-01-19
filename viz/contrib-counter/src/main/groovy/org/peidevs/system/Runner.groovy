@@ -5,15 +5,11 @@ import org.peidevs.custom.*
 
 class Runner {
 
-    final def parser = new Config().parser
-
     def buildInfos(def infile) {
         def text = new File(infile).getText()
         def accumulator = new Accumulator()
-        parser.parse(text, accumulator)
-        def infos = accumulator.infos
-
-        return infos
+        Config.parser.parse(text, accumulator)
+        accumulator.infos
     }
 
     def generateOutput(def countMap) {

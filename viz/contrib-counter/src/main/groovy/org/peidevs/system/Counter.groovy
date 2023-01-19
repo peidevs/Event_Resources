@@ -12,7 +12,16 @@ class Counter {
             }
         }
 
-        return results.sort { a, b -> b.value <=> a.value }
+        // primary sort: by count, secondary sort: by name
+        // e.g.
+        // mozart,   10
+        // chopin,    5
+        // bach,      2
+        // beethoven, 2
+        // liszt,     2
+        return results.sort { a, b ->
+            b.value <=> a.value ?: a.key <=> b.key
+        }
     }
 }
 
