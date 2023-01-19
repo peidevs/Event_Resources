@@ -55,11 +55,14 @@ class InfoMapper {
         def utils = new Utils()
 
         if (trimType == TYPE_REGULAR) {
-            results.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_1)))
-            results.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_2)))
+            def speakerField1 = line.getAt(INDEX_SPEAKER_1)
+            def speakerField2 = line.getAt(INDEX_SPEAKER_2)
+            results.addAll(utils.getValuesFromField(speakerField1))
+            results.addAll(utils.getValuesFromField(speakerField2))
         } else if (TYPES_CONTEXT_AWARE.contains(trimType)) {
             // e.g. lightning, panel
-            results.addAll(utils.getValuesFromList(line.getAt(INDEX_TYPE_CONTEXT)))
+            def contextField = line.getAt(INDEX_TYPE_CONTEXT)
+            results.addAll(utils.getValuesFromList(contextField))
         } else {
             System.err.println "TRACER SEVERE ERROR ON type: ${type}"
             throw new IllegalArgumentException("illegal type: ${type}")

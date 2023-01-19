@@ -10,7 +10,7 @@ class Parser {
         def results = []
         results.addAll(infos)
 
-        def data = parseCsv text
+        def data = parseCsv(text)
 
         data.each { def line ->
             def info = infoMapper.mapLine(line)
