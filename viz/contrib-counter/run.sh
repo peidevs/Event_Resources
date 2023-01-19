@@ -7,7 +7,7 @@ echo "building..."
 
 echo "running..."
 cp ../../MeetUps_v2.csv input.csv
-./staging/bin/counter input.csv > out.log
+./staging/bin/contrib-counter input.csv > out.log
 
 cat out.log
 

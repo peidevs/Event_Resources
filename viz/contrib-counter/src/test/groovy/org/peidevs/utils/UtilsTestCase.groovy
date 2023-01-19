@@ -8,9 +8,28 @@ class UtilsTestCase {
     def utils = new Utils()
 
     @Test
-    void testGetValues_basic() {
+    void testGetValuesFromField_basic() {
         // test
-        def results = utils.getValues(' abc, def, ijk')
+        def results = utils.getValuesFromField(' abc ')
+
+        assertEquals(1, results.size())
+        assertEquals('abc', results[0])
+    }
+
+    @Test
+    void testGetValuesFromField_combo() {
+        // test
+        def results = utils.getValuesFromField(' abc/def ')
+
+        assertEquals(2, results.size())
+        assertEquals('abc', results[0])
+        assertEquals('def', results[1])
+    }
+
+    @Test
+    void testGetValuesFromList_basic() {
+        // test
+        def results = utils.getValuesFromList(' abc, def, ijk')
 
         assertEquals('abc', results[0])
         assertEquals('def', results[1])
@@ -25,21 +44,5 @@ class UtilsTestCase {
         def expected = /"a","b","c"/
 
         assertEquals(expected, result)
-    }
-
-    @Test
-    void testCleanTotal_case1() {
-        // test
-        def result = utils.cleanTotal('$500.00' as String)
-
-        assertEquals((float) 500, result, 0.0f)
-    }
-
-    @Test
-    void testCleanTotal_case2() {
-        // test
-        def result = utils.cleanTotal('"$1500.00"' as String)
-
-        assertEquals((float) 1500, result, 0.0f)
     }
 }

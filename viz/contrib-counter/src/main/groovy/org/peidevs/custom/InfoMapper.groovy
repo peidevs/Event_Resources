@@ -28,6 +28,7 @@ class InfoMapper {
 
         try {
             def values = []
+
             // cat herder
             values << line.getAt(INDEX_CAT_HERDER)
 
@@ -35,19 +36,7 @@ class InfoMapper {
             // def sponsorValues = utils.getValues(line.getAt(INDEX_SPONSORS))
             // values.addAll(sponsorValues)
 
-            // speakers
-            def type = line.getAt(INDEX_TYPE)
-            def trimType = type ? type.trim() : ""
-
-            if (trimType == TYPE_REGULAR) {
-                values << line.getAt(INDEX_SPEAKER_1)
-                values << line.getAt(INDEX_SPEAKER_2)
-            } else if (trimType == TYPE_LIGHTNING || trimType == TYPE_PANEL) {
-                def contextValues = new Utils().getValues(line.getAt(INDEX_TYPE_CONTEXT))
-                values.addAll(contextValues)
-            } else {
-                System.err.println "TRACER SEVERE ERROR ON type: ${type}"
-            }
+            values.addAll(getSpeakers(line))
 
             info = new Info(values)
         } catch(Exception ex) {
@@ -55,6 +44,28 @@ class InfoMapper {
         }
 
         return info
+    }
+
+    def getSpeakers(line) {
+        def results = []
+
+        def type = line.getAt(INDEX_TYPE)
+        def trimType = type ? type.trim() : ""
+        def utils = new Utils()
+
+        if (trimType == TYPE_REGULAR) {
+            def speakerValues = []
+            speakerValues.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_1)))
+            speakerValues.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_2)))
+            results.addAll(speakerValues)
+        } else if (trimType == TYPE_LIGHTNING || trimType == TYPE_PANEL) {
+            def contextValues = utils.getValuesFromList(line.getAt(INDEX_TYPE_CONTEXT))
+            results.addAll(contextValues)
+        } else {
+            System.err.println "TRACER SEVERE ERROR ON type: ${type}"
+        }
+
+        results
     }
 }
 

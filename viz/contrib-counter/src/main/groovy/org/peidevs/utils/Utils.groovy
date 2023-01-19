@@ -14,7 +14,7 @@ class Utils {
         def lastIndex = list.size() - 1
 
         list.eachWithIndex { item, index ->
-            buffer.append("${quote(item)}")
+            buffer.append(quote(item))
 
             if (index != lastIndex) {
                 buffer.append(",")
@@ -24,18 +24,20 @@ class Utils {
         return buffer.toString()
     }
 
-    def cleanTotal(def s) {
-        def result = 0
-
-        if (s) {
-            def trimStr = s.replaceAll(/\$/, '').replaceAll('"', '').trim()
-            result = NumberFormat.getInstance().parse(trimStr)
+    def getValuesFromField(def field) {
+        def results = []
+        if (field.contains("/")) {
+            def tokens = field.split("/")
+            assert 2 == tokens.length
+            results << tokens[0].trim()
+            results << tokens[1].trim()
+        } else {
+            results << field.trim()
         }
-
-        return result
+        results
     }
 
-    def getValues(def listString) {
+    def getValuesFromList(def listString) {
         def tokens = listString.split(",")
         tokens.collect{ it.trim() }.findAll { ! it.isEmpty() }
     }
