@@ -22,6 +22,7 @@ class InfoMapper {
     static final def TYPE_REGULAR = ''
     static final def TYPE_LIGHTNING = 'L'
     static final def TYPE_PANEL = 'P'
+    static final def TYPES_CONTEXT_AWARE = [TYPE_LIGHTNING, TYPE_PANEL]
 
     def mapLine(def line) {
         def info = null
@@ -54,15 +55,14 @@ class InfoMapper {
         def utils = new Utils()
 
         if (trimType == TYPE_REGULAR) {
-            def speakerValues = []
-            speakerValues.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_1)))
-            speakerValues.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_2)))
-            results.addAll(speakerValues)
-        } else if (trimType == TYPE_LIGHTNING || trimType == TYPE_PANEL) {
-            def contextValues = utils.getValuesFromList(line.getAt(INDEX_TYPE_CONTEXT))
-            results.addAll(contextValues)
+            results.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_1)))
+            results.addAll(utils.getValuesFromField(line.getAt(INDEX_SPEAKER_2)))
+        } else if (TYPES_CONTEXT_AWARE.contains(trimType)) {
+            // e.g. lightning, panel
+            results.addAll(utils.getValuesFromList(line.getAt(INDEX_TYPE_CONTEXT)))
         } else {
             System.err.println "TRACER SEVERE ERROR ON type: ${type}"
+            throw new IllegalArgumentException("illegal type: ${type}")
         }
 
         results
