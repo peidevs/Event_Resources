@@ -8,6 +8,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - voice of the IT industry of PEI
 
+### February 2023
+
+#### Organizers
+* cat-herder: [Michael Easter](https://twitter.com/codetojoy)
+
+#### Topics
+* "Web Authentication" by [Jordan Patterson](https://twitter.com/jtjpatterson) 
+
+#### Announcements
+* See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* Consider presenting a talk for us! 
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [Torq IT](https://www.torqit.ca/)
+
 ### January 2023
 
 #### Topics
