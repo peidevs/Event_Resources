@@ -18,9 +18,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Announcements
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
-* Consider presenting a talk for us! 
-* [Developer Week](https://www.developerweek.com/) conference 
-    - virtual sessions Feb 21-23, 2023
+* Consider presenting a talk for us: it's easy! 
 
 #### Sponsors
 
