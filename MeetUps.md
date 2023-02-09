@@ -6,7 +6,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 -->
 ## websites:
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
-* [PEI IT Alliance](https://peiitalliance.com/pei-devs) - voice of the IT industry of PEI
+* [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
 ### February 2023
 
@@ -19,6 +19,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Announcements
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us! 
+* [Developer Week](https://www.developerweek.com/) conference 
+    - virtual sessions Feb 21-23, 2023
 
 #### Sponsors
 
