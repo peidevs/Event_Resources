@@ -14,7 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * cat-herder: [Michael Easter](https://twitter.com/codetojoy)
 
 #### Topics
-* "FOAM framework" by [Kevin Greer](https://twitter.com/kgrgreer) 
+* [FOAM framework](https://github.com/kgrgreer/foam3) by [Kevin Greer](https://twitter.com/kgrgreer) 
 
 #### Announcements
 * Happy 11th Anniversary to PEI Devs!
