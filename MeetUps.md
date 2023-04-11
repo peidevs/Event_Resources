@@ -17,6 +17,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * "FOAM framework" by [Kevin Greer](https://twitter.com/kgrgreer) 
 
 #### Announcements
+* Happy 11th Anniversary to PEI Devs!
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us: it's easy! 
 
