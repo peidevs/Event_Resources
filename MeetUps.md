@@ -25,6 +25,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [Binary Star](http://www.binarystar.ca) 
 * [Forestry.io](https://forestry.io) 
 * [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
 * [Torq IT](https://www.torqit.ca/)
 
 ### March 2023
