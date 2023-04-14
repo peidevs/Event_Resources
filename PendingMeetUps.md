@@ -1,10 +1,13 @@
 ### Upcoming
 
-* Michael Easter will cat-herd Jan, Feb, Mar, Apr 2023
-* Kevin Greer is a soft commit for APR 2023 on FOAM framework
+* TBD, May 2023
 
 ### Misc
 
+* Vesna ?
+    - Kevin Greer's wife is also a big-time techie
+    - I think her first name is Vesna
+    - She has expressed "maybe one day" interest in giving a talk on micro-frontends.
 * Nolan Phillips
     - formal grammar for a project-specific language as a design guide
 * Jordan Patterson:
