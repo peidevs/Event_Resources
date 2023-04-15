@@ -1,9 +1,11 @@
 ### Upcoming
 
 * TBD, May 2023
+* Ron M might be able to do Aug 2023
 
 ### Misc
 
+* Matt Duffy has a talk in the embroyonic stage
 * Vesna ?
     - Kevin Greer's wife is also a big-time techie
     - I think her first name is Vesna
