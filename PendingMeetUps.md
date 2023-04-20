@@ -5,6 +5,8 @@
 
 ### Misc
 
+* Scott Smith has offered to do a talk involving 'mad libs' and ChatGPT
+    - I have no idea if that is a good talk
 * Matt Duffy has a talk in the embroyonic stage
 * Vesna ?
     - Kevin Greer's wife is also a big-time techie
