@@ -1,6 +1,8 @@
 ### Upcoming
 
-* TBD, May 2023
+* Evan P May 2023
+* TBD June 2023
+* summer break July 2023
 * Ron M might be able to do Aug 2023
 
 ### Misc
