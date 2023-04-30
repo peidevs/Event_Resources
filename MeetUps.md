@@ -8,6 +8,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### May 2023
+
+#### Organizers
+* cat-herder: [Evan Porter](https://twitter.com/evanepio)
+
+#### Topics
+* Open Forum on AI
+
+#### Announcements
+* See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* Consider presenting a talk for us: it's easy! 
+
+#### Sponsors
+
+* [Binary Star](http://www.binarystar.ca) 
+* [Forestry.io](https://forestry.io) 
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### April 2023
 
 #### Organizers
