@@ -7,11 +7,12 @@
 
 ### Misc
 
-* Scott Smith has offered to do a talk involving 'mad libs' and ChatGPT
-    - I have no idea if that is a good talk
+* Scott Smith has offered to do a talk:
+    - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
 * Matt Duffy has a talk in the embroyonic stage
+    - this is a universal constant
 * Vesna ?
-    - Kevin Greer's wife is also a big-time techie
+    - Kevin Greer's wife is also a highly-accomplished techie
     - I think her first name is Vesna
     - She has expressed "maybe one day" interest in giving a talk on micro-frontends.
 * Nolan Phillips
