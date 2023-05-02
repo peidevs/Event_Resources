@@ -7,6 +7,7 @@
 
 ### Misc
 
+* soft commit for June: Chief AI advisor for Levio (per Evan P) 
 * Scott Smith has offered to do a talk:
     - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
 * Matt Duffy has a talk in the embroyonic stage
