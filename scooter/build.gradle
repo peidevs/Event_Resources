@@ -6,7 +6,7 @@ plugins {
 apply plugin: 'war'
 
 repositories {
-    jcenter()
+    mavenCentral()
 }
 
 war.archiveVersion = ''
