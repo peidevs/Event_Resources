@@ -23,7 +23,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Sponsors
 
 * [Forestry.io](https://forestry.io) 
-* [Levio](https://www.levioconsulting.com/) (aka Binary Star: a Levio company)
+* [Levio](https://www.levioconsulting.com/)
 * [silverorange](https://silverorange.com) 
 * [SpryPoint](https://sprypoint.com)
 * [Torq IT](https://www.torqit.ca/)
