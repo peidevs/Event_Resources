@@ -11,7 +11,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### May 2023
 
 #### Organizers
-* cat-herder: [Evan Porter](https://twitter.com/evanepio)
+* cat-herder: [Michael Easter](https://twitter.com/codetojoy) 
+    - slides [here](https://docs.google.com/presentation/d/1puAnww2O0tyYWKy8Qsm5KvPY0zxD6bqFouWpw-pOUUo/edit?usp=sharing)
 
 #### Topics
 * Open Forum on AI
