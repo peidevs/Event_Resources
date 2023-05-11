@@ -1,15 +1,7 @@
 
-### Summary
+### LLM 
 
-### background
-
-- COBOL
-- CASE
-- out-sourcing
-- Chat GPT 
-    - Max S course
-
-- large learning model
+- large language model
     - neural network w/ billions of weights
     - large quantities of unstructured text
     - moved NLP research away from supervised models for specific tasks
@@ -21,7 +13,7 @@
         - 10 trillion words
 
 - ChatGPT
-    - OpenAI
+    - OpenAI (ahem "open")
     - insane growth 
 
 - GitHub Copilot
@@ -30,7 +22,10 @@
     - works best with good naming practices
     - "for business" 
 
+### Workflow
+
 - list
+    - ChatGPT
     - Google Bard
     - Microsoft Bing
     - GitHub CoPilot
@@ -38,52 +33,32 @@
     - Dolly 2.0: open-source
     - WasmGPT in browser
     - Web LLM in browser
+- pair partner
+- Stack Overflow, turbocharged
+- REPL, with context
+- JIT bespoke documentation 
+- generate TDD cases
 
-- Max S
-    - course desc
-    - Midjourney Bot: images
-    - AI tools can boost productivity
-    - can replace some tasks
-    - hallucinations
-    - need to ask right questions
-    - prompt engineering
-        - GIGO 
-        - like SEO
+### Existential Threat? 
 
-### outline
-
-- workflow
-- ethics, concerns
-- future 
-
-### questions
-
-- has anyone used Github Copilot, Chat GPT in your workflow?
-    - IP concerns?
-- Slack
-    - learning a library, SQL 
-    - pair partner: REPL on steroids?
-    - how has
-    - documentation
-- thoughtworks
-    - like spreadsheets for accountants
-    - or computers for chess
-    - knowledge not wisdom
-    - pair partner
-        - generate TDD
-        - they don't put in production source code
-- Clippy / chat bot
-- approaching the singularity? 
+- chess
+- accounting
+- knowledge, not wisdom
+- intro examples
+- prompt engineer (like SEO)
 
 ### ethics, concerns
 
-- Isaac Asimov's Three Laws 
-- too fast
 - misinformation
-- enabling cheaters: exams
-- nasty content: racism, sexism 
+    - post-truth world of "alternate facts"
+    - hallucinations
+    - Dr. G. Hinton, Canadian law
+- too fast
+    - Isaac Asimov's Three Laws ?
+- bias
+- toxic content (racism, sexism)
+- education
 - no responsibility
-- hallucinations
 - retain & share your data 
 - was banned in Italy, likely Germany
     - Italy's Guarantor for the Protection of Personal Data 
@@ -94,4 +69,3 @@
 ### future
 
 - AI for business
-- JIT bespoke documentation
