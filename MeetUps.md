@@ -18,6 +18,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * Open Forum on AI
 
 #### Announcements
+* [Maritime DevCon](https://maritimedevcon.com/) returns June 10, Fredericton, NB
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us: it's easy! 
 
