@@ -8,6 +8,9 @@
 ### Misc
 
 * soft commit for June: Chief AI advisor for Levio (per Evan P) 
+* Doug Keefe can do a talk on a mobile app and using OpenAI
+    - possibly a lightning talk
+    - possibly a shorter talk that is part of a double-bill ... it sounds like it isn't enough 
 * Scott Smith has offered to do a talk:
     - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
 * Matt Duffy has a talk in the embroyonic stage
