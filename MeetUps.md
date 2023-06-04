@@ -8,6 +8,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### June 2023
+
+#### Organizers
+* cat-herder: [Evan Porter](https://twitter.com/evanepio) 
+
+#### Topics
+* Dr. Froduald Kabanza on AI at Levio
+
+#### Announcements
+* Follow on social media: [Maritime DevCon](https://maritimedevcon.com/) June 10, Fredericton, NB
+* See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
+* Consider presenting a talk for us: it's easy! 
+
+#### Sponsors
+
+* [Forestry.io](https://forestry.io) 
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### May 2023
 
 #### Organizers
