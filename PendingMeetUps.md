@@ -1,12 +1,10 @@
 ### Upcoming
 
-* TBD June 2023
-* summer break July 2023
+* summer break July 2023 (and Aug 2023 pending current vote?)
 * Ron M might be able to do Aug 2023
 
 ### Misc
 
-* soft commit for June: Chief AI advisor for Levio (per Evan P) 
 * reached out to Michele Fash with ACENET for potential talk in August or Sept 2023
 * Doug Keefe can do a talk on a mobile app and using OpenAI
     - possibly a lightning talk
