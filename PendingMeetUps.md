@@ -2,10 +2,10 @@
 
 * summer break July 2023 (and Aug 2023 pending current vote?)
 * Nolan expressed interest in a talk on hotwire for September
+* reached out to Michele Fash with ACENET for potential talk in August or Sept 2023
 
 ### Misc
 
-* reached out to Michele Fash with ACENET for potential talk in August or Sept 2023
 * Doug Keefe can do a talk on a mobile app and using OpenAI
     - possibly a lightning talk
     - possibly a shorter talk that is part of a double-bill ... it sounds like it isn't enough for a full 45 minute talk 
