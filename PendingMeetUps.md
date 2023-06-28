@@ -1,7 +1,7 @@
 ### Upcoming
 
 * summer break July 2023 (and Aug 2023 pending current vote?)
-* Ron M might be able to do Aug 2023
+* Nolan expressed interest in a talk on hotwire for September
 
 ### Misc
 
