@@ -1,8 +1,8 @@
 ### Upcoming
 
-* summer break July 2023 (and Aug 2023 pending current vote?)
-* Nolan expressed interest in a talk on hotwire for September
-* reached out to Michele Fash with ACENET for potential talk in August or Sept 2023
+* E.P. cat-herds: PEI Education dept for Sept 2023 
+* M.E. cat-herds: Nolan soft-commit for October 2023 on hotwire
+* M.E. cat-herds: Michele Fash with ACENET confirmed November 2023
 
 ### Misc
 
