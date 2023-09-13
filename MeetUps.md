@@ -19,6 +19,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Announcements
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us: it's easy! 
+* PEI CyberTitan League (by PEI IT Alliance) 
 
 #### Sponsors
 
