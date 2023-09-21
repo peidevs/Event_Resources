@@ -5,6 +5,7 @@
 
 ### Misc
 
+* Kevin Greer expressed interest in a talk by a prof (Yingwei Yang, UPEI) on Dew Computing
 * Doug Keefe can do a talk on a mobile app and using OpenAI
     - possibly a lightning talk
     - possibly a shorter talk that is part of a double-bill ... it sounds like it isn't enough for a full 45 minute talk 
@@ -31,6 +32,4 @@
     - significant interest in the idea, in Slack convo
     - Thursday night is a conflict, which is a bummer
 * Fenil on image recognition
-* Mat Larade may be able to speak on ACENET
 * Reilly W expressed interest in giving a talk
-* Evan T on feature flags & devops in azure
