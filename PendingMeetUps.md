@@ -1,6 +1,6 @@
 ### Upcoming
 
-* M.E. cat-herds OCT 2023: possibly PEI Education Dept,  Nolan soft-commit on hotwire
+* M.E. cat-herds OCT 2023: PEI Education Dept,  Nolan soft-commit on hotwire
 * M.E. cat-herds NOV 2023: Michele Fash with ACENET confirmed 
 
 ### Misc
