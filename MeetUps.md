@@ -14,7 +14,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * cat-herder: [Michael Easter](https://twitter.com/codetojoy) 
 
 #### Topics
-* Digital Skills Framework, Sam Livingstone (Eduation Technology Leader, Education Services)
+* Digital Skills Framework, Sam Livingstone (Education Technology Leader, Education Services)
 * Hotwire, [Nolan Phillips](https://twitter.com/ncphi)
 
 #### Announcements
