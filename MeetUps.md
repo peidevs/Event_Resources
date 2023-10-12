@@ -14,13 +14,14 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * cat-herder: [Michael Easter](https://twitter.com/codetojoy) 
 
 #### Topics
-* Digital Skills Framework, Sam Livingstone (Education Technology Leader, Education Services)
+* Digital Skills Framework, Sam Livingstone, Devin Clayton (Education Services)
 * Hotwire, [Nolan Phillips](https://twitter.com/ncphi)
 
 #### Announcements
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us: it's easy! 
 * PEI IT Alliance
+* November: ACENET
 
 #### Sponsors
 
