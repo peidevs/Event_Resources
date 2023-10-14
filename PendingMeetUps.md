@@ -1,11 +1,12 @@
 ### Upcoming
 
-* M.E. cat-herds OCT 2023: PEI Education Dept,  Nolan soft-commit on hotwire
-* M.E. cat-herds NOV 2023: Michele Fash with ACENET confirmed 
+* M.E. cat-herds NOV 2023: ACENET confirmed 
 
 ### Misc
 
-* Kevin Greer expressed interest in a talk by a prof (Yingwei Yang, UPEI) on Dew Computing
+* Christoph Rieger expressed interest in IOT devices
+* Keir Pollard expressed interest in "VBA tricks in Excel"
+* Kevin Greer suggested reaching out to prof (Yingwei Yang, UPEI) on Dew Computing
 * Doug Keefe can do a talk on a mobile app and using OpenAI
     - possibly a lightning talk
     - possibly a shorter talk that is part of a double-bill ... it sounds like it isn't enough for a full 45 minute talk 
