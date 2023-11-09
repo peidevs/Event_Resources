@@ -15,15 +15,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Topics
 * Super-computing, ACENET
-    * 
-
-Kaitlin Newson is our Research Consultant on PEI and is based at UPEI. Her background is in librarianship, and specifically data management. Prior to ACENET, she was the Digital Projects Librarian with Scholars Portal in Toronto, where she supported digital infrastructure for research data management, scholarly publishing, and web and cloud services for 21 universities across Ontario. Her responsibilities extended to supporting the Borealis research data management service for over 60 subscribing universities. 
-
-Ross Dickson is our Lead Research Consultant and is based in Halifax. He’s been with ACENET for 16 years, and has worked with users across many disciplines including chemistry, physics, biology, oceanography, neuroscience, engineering, philosophy, and management studies. Following his doctoral and postdoctoral studies in computational chemistry, Ross worked in software development for Hypercube Inc., and for Molecular Mining Corporation where he helped specify some of the earliest software for analyzing high-throughput gene expression data.
-
-Michele Fash is ACENET’s Director of Business Development and is based in Wolfville NS. She’s been with ACENET for 10 years. Her 30-year marketing career spans both the public and private sectors and a variety of industries, and has worked with organizations ranging from start-ups to large nationals. 
-
-Greg Lukeman is ACENET’s CEO and is based in Antigonish NS. He’s been involved with HPC since 2000, either as a user, systems administrator, or managing executive. As the Chief Technology Officer for ACENET from 2006 to 2019, Greg guided the creation of ACENET, its technical team, and its computing resources. He became CEO in 2019.
+    * Kaitlin Newson, Research Consultant on PEI, based at UPEI. 
+    * Ross Dickson, Lead Research Consultant, based in Halifax.
+    * Michele Fash, ACENET’s Director of Business Development, based in Wolfville NS. 
+    * Greg Lukeman is ACENET’s CEO, based in Antigonish NS. 
 
 #### Announcements
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
