@@ -1,10 +1,12 @@
 ### Upcoming
 
-* M.E. cat-herds NOV 2023: ACENET confirmed 
+* nothing set for Jan 2024
 
 ### Misc
 
-* Christoph Rieger expressed interest in IOT devices
+* Christoph Rieger expressed interest in IOT devices for Jan-Feb 2024
+* Chris Mcrae on Smalltalk
+* Bob Shand on Doku (I think?) 
 * Keir Pollard expressed interest in "VBA tricks in Excel"
 * Kevin Greer suggested reaching out to prof (Yingwei Yang, UPEI) on Dew Computing
 * Doug Keefe can do a talk on a mobile app and using OpenAI
