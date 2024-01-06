@@ -12,6 +12,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Organizers
 * cat-herder: Matt Duffy
+* emcee: Evan Porter
 
 #### Topics
 * Bob Shand on Buildroot
