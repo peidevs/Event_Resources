@@ -1,6 +1,6 @@
 ### Upcoming
 
-* nothing set for Jan 2024
+* Matt Duffy cat-herding for Feb, March, April 2024 possibly beyond
 
 ### Misc
 
