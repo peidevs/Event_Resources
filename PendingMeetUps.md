@@ -1,6 +1,9 @@
 ### Upcoming
 
 * Matt Duffy cat-herding for Feb, March, April 2024 possibly beyond
+    * Scott B for Feb 2024
+    * soft yes for Mar 2024
+    * possibly lightning talks Apr 2024
 
 ### Misc
 
