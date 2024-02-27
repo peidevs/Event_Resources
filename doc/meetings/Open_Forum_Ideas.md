@@ -23,3 +23,4 @@ An 'open forum' can be useful as a last resort. e.g. when a speaker can't make i
 * Ghastly Bugs and Production Issues
     - analogous to telling ghost stories around a camp-fire
     - talk about a chilling bug or "production issue" and invite others to describe their own
+    - note we used this in SEP 2023
