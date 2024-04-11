@@ -22,6 +22,8 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * See `#jobs` channel in our [Slack team](https://docs.google.com/forms/d/e/1FAIpQLScjMRLiiKXqeHCjCSAD37mFxJdH5fskiok-LUaIGtPUZ63glw/viewform)
 * Consider presenting a talk for us: it's easy! 
 * PEI IT Alliance
+* Skills PEI Job Fair on April 16th in Charlottetown from 12pm to 4pm
+* Skills PEI Job Fair on April 23rd in Summerside from 12pm to 4pm
 
 #### Sponsors
 
