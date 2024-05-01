@@ -8,6 +8,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### May 2024
+
+#### Organizers
+* cat-herder: Evan Porter
+* MC: Matt Duffy
+
+#### Topics
+* TBD - First Time Speaker at PEI Devs
+
+#### Announcements
+* TBD
+
+#### Sponsors
+
+* [Forestry.io](https://forestry.io) 
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
+
 ### April 2024
 
 #### Organizers
