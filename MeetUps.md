@@ -15,10 +15,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * MC: Matt Duffy
 
 #### Topics
-* TBD - First Time Speaker at PEI Devs
+* Thuc Uyen Lai (Rachel) - The Evolution of Large Language Models
 
 #### Announcements
-* TBD
+* This is our 59th time being hosted at StartupZone. This is also last time we'll be here
 
 #### Sponsors
 
