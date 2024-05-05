@@ -4,6 +4,7 @@
     * Scott B for Feb 2024
     * soft yes for Mar 2024
     * possibly lightning talks Apr 2024
+* RJ wrote to us on Meetup offering to talk between June/October on cyber-security
 
 ### Misc
 
