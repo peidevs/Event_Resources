@@ -8,6 +8,28 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### June 2024
+
+#### Organizers
+* cat-herder: Evan Porter
+* MC: Matt Duffy
+
+#### Topics
+* Christoph Rieger - From Smart Homes to Smart Cities: A dive into IoT Integrations
+
+#### Announcements
+
+* Join the PEI IT Alliance.
+* Consider presentating a talk for us!
+
+#### Sponsors
+
+* [Forestry.io](https://forestry.io) 
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### May 2024
 
 #### Organizers
