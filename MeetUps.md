@@ -8,6 +8,28 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### September 2024
+
+#### Organizers
+* cat-herder: Nolan Phillips
+* MC: Nolan Phillips
+
+#### Topics
+* Chris MacRae - XR development for Mere Mortals
+
+#### Announcements
+
+* Join the PEI IT Alliance.
+* Consider presentating a talk for us!
+* Take our Survey
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### June 2024
 
 #### Organizers
