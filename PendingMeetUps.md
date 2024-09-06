@@ -1,14 +1,11 @@
 ### Upcoming
 
-* Matt Duffy cat-herding for Feb, March, April 2024 possibly beyond
-    * Scott B for Feb 2024
-    * soft yes for Mar 2024
-    * possibly lightning talks Apr 2024
-* RJ wrote to us on Meetup offering to talk between June/October on cyber-security
+* Nolan P cat-herding Sep/Oct/Nov 2024
 
 ### Misc
 
-* Christoph Rieger expressed interest in IOT devices for Jan-Feb 2024
+* Ryan Brinn on LLMs
+* RJ wrote to us on Meetup offering to talk between June/October on cyber-security
 * Chris Mcrae on Smalltalk
 * Bob Shand on Doku (I think?) 
 * Keir Pollard expressed interest in "VBA tricks in Excel"
