@@ -12,16 +12,16 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 
 #### Organizers
 * cat-herder: Nolan Phillips
-* MC: Nolan Phillips
+* MC: Matt Duffy
 
 #### Topics
 * Chris MacRae - XR development for Mere Mortals
 
 #### Announcements
 
-* Join the PEI IT Alliance.
 * Consider presentating a talk for us!
 * Take our Survey
+* PEI IT Alliance, A Welcome from Chris Gallant
 
 #### Sponsors
 
