@@ -8,6 +8,26 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### November 2024
+
+#### Organizers
+* cat-herder: Nolan Phillips
+
+#### Topics
+* Jordan Patterson - Bluetooth
+
+#### Announcements
+
+* Consider presenting a talk for us!
+* PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+  
 ### October 2024
 
 #### Organizers
