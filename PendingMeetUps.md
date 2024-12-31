@@ -1,6 +1,7 @@
 ### Upcoming
 
-* Nolan P cat-herding Sep/Oct/Nov 2024
+* see 'Upcoming Meetups' in Slack
+    * the canvas/sticky in elders channel 
 
 ### Misc
 
