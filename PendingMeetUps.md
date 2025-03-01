@@ -13,6 +13,7 @@
 
 ### Misc
 
+* Ajeet might be able to talk on Terraform
 * Ryan Brinn on LLMs
 * RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
 * Chris Mcrae on Smalltalk
