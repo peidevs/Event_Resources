@@ -1,15 +1,23 @@
 ### Upcoming
 
-* see 'Upcoming Meetups' in Slack
-    * the canvas/sticky in elders channel 
+* also: see 'Upcoming Meetups' in Slack
+    * the canvas/sticky thing in elders channel 
+
+* MAR 2025
+    - cat-herder is M. Easter
+    - outreach to K Hsu on schema-first API design 
+* APR 2025
+    - cat-herder is M. Easter
+* MAY 2025
+    - cat-herder is M. Easter
 
 ### Misc
 
 * Ryan Brinn on LLMs
-* RJ wrote to us on Meetup offering to talk between June/October on cyber-security
+* RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
 * Chris Mcrae on Smalltalk
 * Bob Shand on Doku (I think?) 
-* Keir Pollard expressed interest in "VBA tricks in Excel"
+* Keir Pollard expressed interest in "VBA tricks in Excel" and Twilio
 * Kevin Greer suggested reaching out to prof (Yingwei Yang, UPEI) on Dew Computing
 * Doug Keefe can do a talk on a mobile app and using OpenAI
     - possibly a lightning talk
