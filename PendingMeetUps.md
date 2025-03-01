@@ -13,6 +13,7 @@
 
 ### Misc
 
+* consider panel on AI as follow-up to open forum in MAY 2023
 * Ajeet might be able to talk on Terraform
 * Ryan Brinn on LLMs
 * RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
