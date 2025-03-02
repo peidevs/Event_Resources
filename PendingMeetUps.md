@@ -5,7 +5,7 @@
 
 * MAR 2025
     - cat-herder is M. Easter
-    - outreach to K Hsu on schema-first API design 
+    - Kelvin Hsu on a project and schema-first API design 
 * APR 2025
     - cat-herder is M. Easter
 * MAY 2025
