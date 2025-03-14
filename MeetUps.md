@@ -34,7 +34,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * cat-herder: Nolan Phillips
 
 #### Topics
-* Will Will Taylor-Melanson: Recommender Systems
+* Will Taylor-Melanson: Recommender Systems
 
 #### Announcements
 
