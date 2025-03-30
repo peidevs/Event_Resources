@@ -14,6 +14,7 @@
 ### Misc
 
 * consider panel on AI as follow-up to open forum in MAY 2023
+* John O'Hanley on Postscript 
 * Ajeet might be able to talk on Terraform
 * Ryan Brinn on LLMs
 * RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
@@ -29,9 +30,8 @@
 * Matt Duffy has a talk in the embroyonic stage
     - this is a universal constant
 * Vesna ?
-    - Kevin Greer's wife is also a highly-accomplished techie
-    - I think her first name is Vesna
-    - She has expressed "maybe one day" interest in giving a talk on micro-frontends.
+    - Kevin Greer's partner is also a highly-accomplished techie
+    - has expressed "maybe one day" interest in giving a talk on micro-frontends.
 * Nolan Phillips
     - formal grammar for a project-specific language as a design guide
 * Jordan Patterson:
