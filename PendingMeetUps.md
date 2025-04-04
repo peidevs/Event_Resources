@@ -3,18 +3,16 @@
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
 
-* MAR 2025
-    - cat-herder is M. Easter
-    - Kelvin Hsu on a project and schema-first API design 
 * APR 2025
     - cat-herder is M. Easter
+    - John O'H on PostScript
 * MAY 2025
     - cat-herder is M. Easter
+    - AI panel or show-and-tell ? 
 
 ### Misc
 
 * consider panel on AI as follow-up to open forum in MAY 2023
-* John O'Hanley on Postscript 
 * Ajeet might be able to talk on Terraform
 * Ryan Brinn on LLMs
 * RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
