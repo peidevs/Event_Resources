@@ -8,6 +8,27 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### Apr 2025
+
+#### Organizers
+* cat-herder: Michael Easter
+
+#### Topics
+* Kevin Greer: Agents not Protocols
+* John O'Hanley: A high-level tour of the PostScript programming language
+
+#### Announcements
+
+* Consider presenting a talk for us!
+* PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### Mar 2025
 
 #### Organizers
