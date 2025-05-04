@@ -3,12 +3,8 @@
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
 
-* APR 2025
-    - cat-herder is M. Easter
-    - John O'H on PostScript
 * MAY 2025
-    - cat-herder is M. Easter
-    - AI panel or show-and-tell ? 
+    - AI lightning talks
 
 ### Misc
 
