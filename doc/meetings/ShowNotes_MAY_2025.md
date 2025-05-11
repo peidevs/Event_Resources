@@ -22,7 +22,7 @@
     * AI energy use could match The Netherlands [link](https://www.bbc.com/news/technology-67053139)
     * Prompt Injection Attack [link](https://www.ibm.com/think/topics/prompt-injection)
     * Piet programming language, based on art of Piet Mondrian [link](https://esolangs.org/wiki/Piet)
-* notes from May 2023 (link)[./Notes_MAY_2023.md]
+* notes from May 2023 [link](./Notes_MAY_2023.md)
  
 ## Sponsors
 
