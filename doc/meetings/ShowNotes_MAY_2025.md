@@ -2,7 +2,7 @@
 ### Notes for May 2025
 
 * from Doug's lightning talk
-    * Tone Clone link? 
+    * the main, neat-o app from demo: Tone Clone (link?)
     * Jina AI [link](https://jina.ai/)
     * JSONL [link](https://medium.com/@ManueleCaddeo/understanding-jsonl-bc8922129f5b)
 * major sites, concepts
