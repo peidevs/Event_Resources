@@ -14,6 +14,8 @@
     * Code Whisperer, now Amazon Q Developer [link](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 * misc
     * Fireship YouTube channel [link](https://www.youtube.com/c/Fireship)
+        * e.g. MCP [link](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
+        * e.g. Machine Learning in 100 seconds [link](https://www.youtube.com/watch?v=PeMlggyqz0Y) 
     * AI energy use could match The Netherlands [link](https://www.bbc.com/news/technology-67053139)
     * Prompt Injection Attack [link](https://www.ibm.com/think/topics/prompt-injection)
     * Piet programming language, based on art of Piet Mondrian [link](https://esolangs.org/wiki/Piet)
