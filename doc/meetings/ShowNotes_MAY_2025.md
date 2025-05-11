@@ -14,7 +14,6 @@
     * Cursor [link](https://www.cursor.com/en)
     * Code Whisperer, now Amazon Q Developer [link](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 * misc
-    * vibe coding [link])
     * Fireship YouTube channel [link](https://www.youtube.com/c/Fireship)
         * e.g. MCP [link](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
         * e.g. Machine Learning in 100 seconds [link](https://www.youtube.com/watch?v=PeMlggyqz0Y) 
