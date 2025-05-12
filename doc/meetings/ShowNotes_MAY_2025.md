@@ -2,7 +2,8 @@
 ### Notes for May 2025
 
 * from Doug's lightning talk
-    * the main, neat-o app from demo: Tone Clone [link](https://www.toneclone.co/)
+    * the main app from demo: Tone Clone [link](https://www.toneclone.co/)
+    * Google extension [link](https://chromewebstore.google.com/detail/toneclone/akodlonjadjcgbhjmngnemihigemehab?pli=1) 
     * Jina AI [link](https://jina.ai/)
     * JSONL [link](https://medium.com/@ManueleCaddeo/understanding-jsonl-bc8922129f5b)
 * major sites, concepts
