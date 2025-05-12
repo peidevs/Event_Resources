@@ -2,7 +2,7 @@
 ### Notes for May 2025
 
 * from Doug's lightning talk
-    * the main, neat-o app from demo: Tone Clone (link?)
+    * the main, neat-o app from demo: Tone Clone [link](https://www.toneclone.co/)
     * Jina AI [link](https://jina.ai/)
     * JSONL [link](https://medium.com/@ManueleCaddeo/understanding-jsonl-bc8922129f5b)
 * major sites, concepts
@@ -12,6 +12,7 @@
 * tools
     * GitHub Copilot [link](https://en.wikipedia.org/wiki/GitHub_Copilot)
     * Cursor [link](https://www.cursor.com/en)
+    * Windsurf [link](https://windsurf.com/editor)
     * Code Whisperer, now Amazon Q Developer [link](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 * misc
     * Fireship YouTube channel [link](https://www.youtube.com/c/Fireship)
