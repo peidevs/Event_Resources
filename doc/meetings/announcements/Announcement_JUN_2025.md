@@ -1,4 +1,10 @@
 
+<hr/>
+
+<img src="/doc/meetings/announcements/the-foundry.png" alt="A meeting at The Foundry">
+
+<hr/>
+
 ### Details
 
 Hello PEI Devs!
