@@ -1,7 +1,9 @@
 
 <hr/>
 
-<img src="/doc/meetings/announcements/the-foundry.png" alt="A meeting at The Foundry">
+<img style="width: 80vw; height: 20vh;"
+     src="/doc/meetings/announcements/the-foundry.png" 
+     alt="A meeting at The Foundry" />
 
 <hr/>
 
