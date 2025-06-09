@@ -1,10 +1,4 @@
 
-<hr/>
-
-<img src="/doc/meetings/announcements/the-foundry.png" 
-     alt="A meeting at The Foundry" />
-
-<hr/>
 
 ### Details
 
@@ -29,4 +23,11 @@ In absence of talks, we'll open it up to an informal discussion on AI's impact, 
     * [Torq](https://www.torqit.ca/)
 
 * Our [Code of Conduct](https://peiitalliance.com/pei-devs/code-of-conduct)
+
+<hr/>
+
+<img src="/doc/meetings/announcements/the-foundry.png" 
+     alt="A meeting at The Foundry" />
+
+<hr/>
 
