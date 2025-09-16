@@ -3,22 +3,14 @@
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
 
-* MAY 2025
-    - AI lightning talks
-
 ### Misc
 
 * consider panel on AI as follow-up to open forum in MAY 2023
 * Ajeet might be able to talk on Terraform
-* Ryan Brinn on LLMs
-* RJ wrote to us on Meetup offering to talk between June/October 2024 on cyber-security
 * Chris Mcrae on Smalltalk
 * Bob Shand on Doku (I think?) 
 * Keir Pollard expressed interest in "VBA tricks in Excel" and Twilio
 * Kevin Greer suggested reaching out to prof (Yingwei Yang, UPEI) on Dew Computing
-* Doug Keefe can do a talk on a mobile app and using OpenAI
-    - possibly a lightning talk
-    - possibly a shorter talk that is part of a double-bill ... it sounds like it isn't enough for a full 45 minute talk 
 * Scott Smith has offered to do a talk:
     - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
 * Matt Duffy has a talk in the embroyonic stage
