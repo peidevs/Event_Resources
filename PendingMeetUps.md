@@ -2,6 +2,8 @@
 
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
+* JAN 2026 Srinam (sp?) wants to speak on a personal project
+    - recent grad from UPEI, looking for gigs
 
 ### Misc
 
