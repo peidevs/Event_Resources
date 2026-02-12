@@ -15,7 +15,7 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * cat-herder: Evan Porter
 
 #### Topics
-* TBD
+* OpenClaw (formerly Moltbot (formerly Clawd)) - Jarred Kenny
 
 #### Announcements
 
