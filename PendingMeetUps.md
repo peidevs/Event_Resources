@@ -2,11 +2,14 @@
 
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
-* JAN 2026 Srinam (sp?) wants to speak on a personal project
+* MAR 2026 : soft-commit from Joshua B
+* APR 2026 : possibly Japneet K
+* Srinam (sp?) wants to speak on a personal project
     - recent grad from UPEI, looking for gigs
 
 ### Misc
 
+* topics: Tailscale
 * consider panel on AI as follow-up to open forum in MAY 2023
 * Ajeet might be able to talk on Terraform
 * Chris Mcrae on Smalltalk
