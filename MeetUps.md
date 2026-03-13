@@ -8,6 +8,46 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * our legacy website: [peidevs.github.io](http://peidevs.github.io)
 * [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
 
+### April 2026
+
+#### Organizers
+* cat-herder: Micheal Easter (tentatively)
+
+#### Topics
+* TBD
+
+#### Announcements
+
+* Consider presenting a talk for us!
+* PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
+### March 2026
+
+#### Organizers
+* cat-herder: Evan Porter
+
+#### Topics
+* Network Telemetry by Josh Biggley
+
+#### Announcements
+
+* Consider presenting a talk for us!
+* PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 
 ### February 2026
 
