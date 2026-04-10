@@ -11,10 +11,10 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### April 2026
 
 #### Organizers
-* cat-herder: Micheal Easter (tentatively)
+* cat-herder: Michael Easter (tentatively)
 
 #### Topics
-* TBD
+* Bob Shand, StageX 
 
 #### Announcements
 
