@@ -2,8 +2,8 @@
 
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
-* Srinam (sp?) wants to speak on a personal project
-    - recent grad from UPEI, looking for gigs
+* Simrat Singh (sp?) wants to speak on a personal project
+    - recent grad from UPEI, now with SpryPoint
 
 ### Misc
 
@@ -15,13 +15,14 @@
 * Bob Shand on Doku (I think?) 
 * Keir Pollard expressed interest in "VBA tricks in Excel" and Twilio
 * Kevin Greer suggested reaching out to prof (Yingwei Yang, UPEI) on Dew Computing
-* Scott Smith has offered to do a talk:
-    - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
 * Matt Duffy has a talk in the embroyonic stage
     - this is a universal constant
 * Vesna ?
     - Kevin Greer's partner is also a highly-accomplished techie
     - has expressed "maybe one day" interest in giving a talk on micro-frontends.
+
+### attic
+
 * Nolan Phillips
     - formal grammar for a project-specific language as a design guide
 * Jordan Patterson:
@@ -38,3 +39,5 @@
     - Thursday night is a conflict, which is a bummer
 * Fenil on image recognition
 * Reilly W expressed interest in giving a talk
+* Scott Smith has offered to do a talk:
+    - A history of IT service management: what DevOps has made redundant, and why ITSM is still relevant today
