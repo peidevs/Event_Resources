@@ -2,12 +2,11 @@
 
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
-* Nolan up for jj vcs in JUN 2026
-* Simrat Singh (sp?) wants to speak on a personal project
-    - recent grad from UPEI, now with SpryPoint
 
 ### Misc
 
+* Simrat Singh (sp?) wants to speak on a personal project
+    - recent grad from UPEI, now with SpryPoint
 * possibly Japneet K
 * topics: Tailscale
 * consider panel on AI as follow-up to open forum in MAY 2023
