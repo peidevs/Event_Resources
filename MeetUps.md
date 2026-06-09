@@ -5,8 +5,28 @@ Update as appropriate for each MeetUp.
 see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md 
 -->
 ## websites:
-* our legacy website: [peidevs.github.io](http://peidevs.github.io)
-* [PEI IT Alliance](https://peiitalliance.com/pei-devs) - "The voice of the IT industry of Prince Edward Island"
+* [PEI Developers](https://peiitalliance.com/pei-devs)
+* [PEI IT Alliance](https://peiitalliance.com) - "The voice of the IT industry of Prince Edward Island"
+
+### June 2026
+
+#### Organizers
+* cat-herder, in absentia: Michael Easter
+
+#### Topics
+* Nolan Phillips, Jujutsu
+
+#### Announcements
+
+* Consider presenting a talk for us!
+* Join the PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
 
 ### May 2026
 
