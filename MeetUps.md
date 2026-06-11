@@ -11,15 +11,16 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 ### June 2026
 
 #### Organizers
-* cat-herder, in absentia: Michael Easter
+* cat-herder: Michael Easter
 
 #### Topics
 * Nolan Phillips, Jujutsu
 
 #### Announcements
-
 * Consider presenting a talk for us!
 * Join the PEI IT Alliance
+    * Tech Week August 10-14, 2026
+* summer break
 
 #### Sponsors
 
