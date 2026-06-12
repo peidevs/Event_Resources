@@ -2,6 +2,7 @@
 
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
+* Ty on his programming language, potential for SEP 2026
 
 ### Misc
 
