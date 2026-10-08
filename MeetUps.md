@@ -8,6 +8,46 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [PEI Developers](https://peiitalliance.com/pei-devs)
 * [PEI IT Alliance](https://peiitalliance.com) - "The voice of the IT industry of Prince Edward Island"
 
+### Oct 2026
+
+#### Organizers
+* cat-herder: Michael Easter
+
+#### Topics
+* Lightning Talks
+
+#### Announcements
+* Consider presenting a talk for us!
+* Join the PEI IT Alliance
+* summer break
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
+### Sep 2026
+
+#### Organizers
+* cat-herder: Michael Easter
+
+#### Topics
+* Evan Porter on uv
+
+#### Announcements
+* Consider presenting a talk for us!
+* Join the PEI IT Alliance
+* summer break
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### June 2026
 
 #### Organizers
