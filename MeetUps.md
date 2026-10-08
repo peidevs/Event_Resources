@@ -19,7 +19,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Announcements
 * Consider presenting a talk for us!
 * Join the PEI IT Alliance
-* summer break
 
 #### Sponsors
 
@@ -39,7 +38,6 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 #### Announcements
 * Consider presenting a talk for us!
 * Join the PEI IT Alliance
-* summer break
 
 #### Sponsors
 
