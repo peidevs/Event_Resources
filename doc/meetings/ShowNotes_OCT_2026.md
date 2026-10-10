@@ -13,8 +13,8 @@
 
 ## M. Easter's talk
 
-* Randy Rhoads' minor 6th / Crazy Train 1m29s [here](https://www.youtube.com/watch?v=y_zpUFPiCGU) in F# minor
-    * Kirk Hammett's nod to Randy Rhoads / Enter Sandman 3m03s [here](https://www.youtube.com/watch?v=NIAkEJp8i_Y) in key of B minor
-* EVH's tapping / You Really Got Me 1m24s [here](https://www.youtube.com/watch?v=LxIP3uWlMoE) in A minor
+* Randy Rhoads' minor 6th / Crazy Train `->` 1m29s [here](https://www.youtube.com/watch?v=y_zpUFPiCGU) in F# minor
+    * Kirk Hammett's nod to Randy Rhoads / Enter Sandman `->` 3m03s [here](https://www.youtube.com/watch?v=NIAkEJp8i_Y) in key of B minor
+* EVH's tapping / You Really Got Me `->` 1m24s [here](https://www.youtube.com/watch?v=LxIP3uWlMoE) in A minor
 
 
