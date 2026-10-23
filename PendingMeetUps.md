@@ -1,15 +1,11 @@
 ### Upcoming
 
-* lightning-talks for October 2026
-    * Ty on his programming language, potential for SEP 2026
-* soft-commit on Kyle McCullough for November 2026
+* hard-commit by Kyle McCullough for November 2026
 * also: see 'Upcoming Meetups' in Slack
     * the canvas/sticky thing in elders channel 
 
 ### Misc
 
-* Simrat Singh (sp?) wants to speak on a personal project
-    - recent grad from UPEI, now with SpryPoint
 * possibly Japneet K
 * topics: Tailscale
 * consider panel on AI as follow-up to open forum in MAY 2023
