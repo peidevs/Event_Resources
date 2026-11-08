@@ -8,6 +8,25 @@ see https://github.com/peidevs/Event_Resources/blob/master/PendingMeetUps.md
 * [PEI Developers](https://peiitalliance.com/pei-devs)
 * [PEI IT Alliance](https://peiitalliance.com) - "The voice of the IT industry of Prince Edward Island"
 
+### Nov 2026
+
+#### Organizers
+* cat-herder: Michael Easter
+
+#### Topics
+* TBA
+
+#### Announcements
+* Consider presenting a talk for us!
+* Join the PEI IT Alliance
+
+#### Sponsors
+
+* [Levio](https://www.levioconsulting.com/)
+* [silverorange](https://silverorange.com) 
+* [SpryPoint](https://sprypoint.com)
+* [Torq IT](https://www.torqit.ca/)
+
 ### Oct 2026
 
 #### Organizers
